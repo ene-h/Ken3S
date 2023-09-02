@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/gouki/"}
 ---
 
+# VS GOUKI
 ### Shoryu-shoryu
 - Close strong/low forward shoryu kara-shoryu
 CORNER: 
