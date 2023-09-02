@@ -6,7 +6,7 @@
 ### Shoryu-shoryu
 - Stand fierce shoryu kara-shoryu
 - Stand strong/low forward shoryu kara-shoryu
-CORNER:
+###### CORNER:
 - TC jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
 ### UOH setup
 - Low short > low strong
