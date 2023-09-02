@@ -1,19 +1,35 @@
 body {
-    --font-default: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    ;
-    ul {
-      line-height: 1.0;
-    }
-      
-    
-    .callout {
-      --callout-title-size: 1.3em;
-    }
-  .theme-dark {
+  --font-default: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  ;
+
+  ul {
+    line-height: 1.0;
+  }
+
+  h1 {
+    color: inherit;
+  }
+
+  h2 {
+    color: inherit;
+  }
+
+  h3 {
+    color: inherit;
+  }
+
+  h4 {
+    color: inherit;
+  }
+
+  .callout {
+    --callout-title-size: 1.3em;
+  }
+
   --accent-h: 219;
   --accent-s: 56%;
   --accent-l: 55%;
-  
+
   --background-primary: #272b34;
   --background-primary-alt: #20242b;
   --background-secondary: #20242b;
@@ -25,7 +41,9 @@ body {
   --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
   --background-modifier-success: #539126;
   --background-modifier-error: #3d0000;
-  --background-modifier-error-rgb: 61, 0, 0;
+  --background-modifier-error-rgb: 61,
+  0,
+  0;
   --background-modifier-error-hover: #470000;
   --background-modifier-cover: rgba(0, 0, 0, 0.6);
   --text-accent: #61afef;
@@ -57,16 +75,15 @@ body {
 
   --background-modifier-hover: hsla(var(--accent-h), calc(var(--accent-s) - 35%), var(--accent-l), 0.06);
   --divider-color-hover: #404754;
-}
-    /***
+  /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  //  background-color: white;
+  //  .content {
+  //   font-size: 14px;
+  //  }
+  //  h1 {
+  //   color: black;
+  //  }
 }
