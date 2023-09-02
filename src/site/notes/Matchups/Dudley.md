@@ -17,6 +17,7 @@
 - Watch out for whiff punishes with stand HK into big damage, use EX hadou if they overuse this
 
 > [!danger]- Raw Shippu punish
+> ###### (Almost all of Dudley's normals are plus)
 > Crouch forward
 [![(dudleycmk).gif](https://wiki.supercombo.gg/images/c/c4/%28dudleycmk%29.gif)](https://wiki.supercombo.gg/w/File:(dudleycmk).gif)
 > Almost all of Dudley's normals are plus
