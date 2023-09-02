@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/urien/"}
 ---
 
+# VS URIEN
 ### Shoryu-shoryu
 - Stand strong/low forward shoryu kara-shoryu
 ###### CORNER: 
