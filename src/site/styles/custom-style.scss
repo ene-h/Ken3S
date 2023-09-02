@@ -2,30 +2,36 @@ body {
   --font-default: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   ;
 
-  ul {
-    line-height: 1.0;
-  }
+
 
   h1 {
     color: inherit;
+    margin-bottom: unset;
   }
+  
 
   h2 {
     color: inherit;
+    margin-bottom: unset;
   }
+  
 
   h3 {
     color: inherit;
+    margin-bottom: unset;
   }
+  
 
   h4 {
     color: inherit;
+    margin-bottom: unset;
   }
+  
 
   .callout {
     --callout-title-size: 1.3em;
   }
-
+  .theme-dark {
   --accent-h: 219;
   --accent-s: 56%;
   --accent-l: 55%;
@@ -75,6 +81,7 @@ body {
 
   --background-modifier-hover: hsla(var(--accent-h), calc(var(--accent-s) - 35%), var(--accent-l), 0.06);
   --divider-color-hover: #404754;
+  }
   /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
