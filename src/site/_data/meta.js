@@ -65,7 +65,7 @@ module.exports = async (data) => {
     noteIconsSettings,
     timestampSettings,
     baseTheme: process.env.BASE_THEME || "dark",
-    siteName: process.env.SITE_NAME_HEADER || "Digital Garden",
+    siteName: process.env.SITE_NAME_HEADER || "Kenneth \"3rd strike\" Masters",
     siteBaseUrl: baseUrl,
     styleSettingsCss,
     buildDate: new Date(),
