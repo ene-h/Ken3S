@@ -9,7 +9,8 @@ body {
     .callout {
       --callout-title-size: 1.3em;
     }
-    --accent-h: 219;
+  .theme-dark {
+  --accent-h: 219;
   --accent-s: 56%;
   --accent-l: 55%;
   
@@ -56,6 +57,7 @@ body {
 
   --background-modifier-hover: hsla(var(--accent-h), calc(var(--accent-s) - 35%), var(--accent-l), 0.06);
   --divider-color-hover: #404754;
+}
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
