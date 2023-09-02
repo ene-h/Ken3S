@@ -14,7 +14,7 @@
 ### VS
 - [[Matchups/Chun\|Chun]] - [[Matchups/Yun\|Yun]] - [[Matchups/Mirror\|Mirror]] - [[Matchups/Makoto\|Makoto]] 
 - [[Matchups/Dudley\|Dudley]]- [[Matchups/Yang\|Yang]] - [[Matchups/Gouki\|Gouki]] - [[Matchups/Urien\|Urien]] - [[Matchups/Ryu\|Ryu]] 
-- [[Matchups/Oro\|Oro]]- [[Matchups/Ibuki\|Ibuki]] - [[Elena\|Elena]] - [[Necro\|Necro]] - [[Alex\|Alex]] 
+- [[Matchups/Oro\|Oro]]- [[Matchups/Ibuki\|Ibuki]] - [[Matchups/Elena\|Elena]] - [[Necro\|Necro]] - [[Alex\|Alex]] 
 - [[Remy\|Remy]] - [[Q\|Q]] - [[Hugo\|Hugo]] 
 - [[Tweleve\|Tweleve]] - [[Sean\|Sean]] 
 
