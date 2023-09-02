@@ -1,7 +1,7 @@
 body {
   --font-default: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   ;
-
+  --h4-size: 1.37em;
   ul {
     margin: 0.3em 0px;
   }
@@ -27,7 +27,6 @@ body {
   h4 {
     color: inherit;
     margin-bottom: unset;
-    font-size: unset;
   }
   
 
