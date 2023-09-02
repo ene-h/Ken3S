@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/yang/"}
 ---
 
+# VS YANG
 ### Shoryu-shoryu
 - CORNER: Stand fierce shoryu kara-shoryu
 ### UOH setup
