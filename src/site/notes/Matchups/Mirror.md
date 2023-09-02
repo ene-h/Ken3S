@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/mirror/"}
 ---
 
+# VS KEN
 ### Shoryu-shoryu
 - Close strong/low forward shoryu kara-shoryu
 - CORNER: TC jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
