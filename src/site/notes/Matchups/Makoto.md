@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/makoto/"}
 ---
 
+# VS MAKOTO
 ### Shoryu-shoryu
 - Stand fierce shoryu kara-shoryu
 - Stand strong/low forward shoryu kara-shoryu
