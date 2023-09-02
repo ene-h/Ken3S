@@ -4,7 +4,8 @@
 
 # VS YANG
 ### Shoryu-shoryu
-- CORNER: Stand fierce shoryu kara-shoryu
+###### CORNER: 
+- Stand fierce shoryu kara-shoryu
 ### UOH setup
 - Low short > low strong
 ### Shippu cross-up setup
