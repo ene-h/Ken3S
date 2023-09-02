@@ -9,7 +9,7 @@
 - [[Reminders\|Reminders]]
 - [[General stuff/Shippu Cross-ups\|Shippu Cross-ups]]
 - [[General stuff/Oki\|Oki]]
-- [[General stuff/Jump-in\|Jump-in]]
+- [[General stuff/Jump-in options\|Jump-in options]]
 
 ### VS
 - [[Matchups/Chun\|Chun]]
