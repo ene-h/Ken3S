@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/yun/"}
 ---
 
+# VS YUN
 ### Shoryu-shoryu
 - CORNER: Stand fierce shoryu kara-shoryu
 ### UOH setup
