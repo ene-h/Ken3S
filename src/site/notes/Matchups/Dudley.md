@@ -20,7 +20,6 @@
 > ###### (Almost all of Dudley's normals are plus)
 > Crouch forward
 [![(dudleycmk).gif](https://wiki.supercombo.gg/images/c/c4/%28dudleycmk%29.gif)](https://wiki.supercombo.gg/w/File:(dudleycmk).gif)
-> Almost all of Dudley's normals are plus
 > Machinegun blow (any)
 [![(dudleymgb).gif](https://wiki.supercombo.gg/images/6/69/%28dudleymgb%29.gif)](https://wiki.supercombo.gg/w/File:(dudleymgb).gif)
 > Ducking straight (any)
