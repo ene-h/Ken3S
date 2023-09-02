@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/dudley/"}
 ---
 
+# VS DUDLEY
 ### Shoryu-shoryu
 - NO
 ### UOH setup
