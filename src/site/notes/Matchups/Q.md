@@ -29,6 +29,8 @@
 > [![(qchk).gif](https://wiki.supercombo.gg/images/8/8e/%28qchk%29.gif)](https://wiki.supercombo.gg/w/File:(qchk).gif)
 > Back roundhouse
 > [![(qbhk).gif](https://wiki.supercombo.gg/images/5/59/%28qbhk%29.gif)](https://wiki.supercombo.gg/w/File:(qbhk).gif)
+> Fierce dashpunch (1f)
+> [![(qdha).gif](https://wiki.supercombo.gg/images/9/98/%28qdha%29.gif)](https://wiki.supercombo.gg/w/File:(qdha).gif)
 > EX dashpunch
 > [![(qdhaex).gif](https://wiki.supercombo.gg/images/c/c2/%28qdhaex%29.gif)](https://wiki.supercombo.gg/w/File:(qdhaex).gif)
 > Overhead dashpunch (any)
