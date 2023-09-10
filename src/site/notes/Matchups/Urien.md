@@ -18,6 +18,8 @@
 - He has no reversal, but headbutt dodges Ken's low forward
 - His dash is very fast
 - Don't jump too much- anti-air fireball into a million tackles and corner pressure!!
+- Try empty canceling crouch fierce xx shippu to stuff Urien's normals
+- EX tatsu crossup is hard to punish for Urien
 
 > [!danger]- Raw Shippu punish
 > Far fierce (shake my hand)
