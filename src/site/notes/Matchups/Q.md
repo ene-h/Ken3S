@@ -11,10 +11,10 @@
 ### Short jab short
 - NO
 ### Notes
-- Stuff dashpunches with stand strong, crouch strong (or ex hadouken)
-- Backdash xx double qcf if you get hit by dashpunch if they like to commandgrab
-- Walk forward instead of dashing, less risk getting dashpunched
-- Don't get wakeup supered
+- Stuff dash-punches with stand strong, crouch strong (or ex hadouken)
+- Backdash and buffer super motion if you get hit by dash-punch if they like to command-grab
+- Walk forward instead of dashing, less risk getting dash-punched
+- Don't get wakeup super-ed
 
 > [!danger]- Raw Shippu punish
 > Stand fierce
