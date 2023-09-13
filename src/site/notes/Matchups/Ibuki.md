@@ -18,7 +18,7 @@
 - Towards mk (overhead hopkick, plus a billion on block) is safe on parry when spaced!
 - Her jab is +6, used for trapping, interrupting is a gamble
 - Do not mindlessly go into super, a lot of her moves get her off the ground, and if she is hit out of them shippu will whiff due to air-reset status
-- She has a 2-hit jump-in
+- She has multiple 2-hit jump-ins
 
 > [!danger]- Raw Shippu punish
 > Close roundhouse
