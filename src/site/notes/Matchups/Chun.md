@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/matchups/chun/"}
 ---
 
-# VS CHUN
 ### Shoryu-shoryu
 - Stand fierce shoryu kara-shoryu
 - Close strong/low forward shoryu kara-shoryu
