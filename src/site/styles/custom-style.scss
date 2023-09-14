@@ -90,6 +90,7 @@ body {
 
   --background-modifier-hover: hsla(var(--accent-h), calc(var(--accent-s) - 35%), var(--accent-l), 0.06);
   --divider-color-hover: #404754;
+  }
   .external-link {
     color: var(--link-external-color);
     text-decoration-line: var(--link-external-decoration);
@@ -102,7 +103,6 @@ body {
     background-position-y: 4px;
     cursor: var(--cursor-link);
     filter: var(--link-external-filter);
-  }
   }
   /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
