@@ -14,7 +14,7 @@
 - YES
 ### Notes
 - Oro's far forward beats Ken’s crouch forward (Oro’s farthest-reaching poke)
-	- Crouch fierce xx shippu beats this clean
+	- Crouch fierce xx shippu beats this clean, can be [[General stuff/Terminology#Cancel buffering\|cancel buffered]]
 - You can shoryu through his fireballs and hit his hand
 - UOH after shippu in the corner is a little harder, you have to crouch cancel the recovery of shippu into taunt, and UOH as soon as possible. This way the UOH hits meaty, it's not a spacing thing
 - Kara more than doubles his throw range
