@@ -102,6 +102,14 @@ body {
     cursor: var(--cursor-link);
     filter: var(--link-external-filter);
   }
+  blockquote:before {
+    color: #ccc;
+    content: unset;
+    font-size: unset;
+    line-height: unset;
+    margin-right: unset;
+    vertical-align: unset;
+}
   /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
