@@ -6,7 +6,7 @@
 - low strong
 - far strong
 - low short x2
-- TC (xx hadouken)
+- [[General stuff/Terminology#Target combo\|TC]] (xx hadouken)
 - low short jab short (not on everyone)
 - back forward (main overhead confirm)
 - spaced/meaty UOH (not that easy)
