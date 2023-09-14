@@ -14,8 +14,9 @@
 - YES (or short short short)
 ### Notes
 - Parry xx DP divekick
-- 
+- Red parry shoulder if they like to do 123 xx Shoulder xx Activate
 - (Hard) Red parry 123 > fierce > (genei activation) > strong DP xx Shippu 
+- Watch out for dive kick cross-up in the corner (mostly on your wake-up)
 
 > [!danger]- Raw Shippu punish
 > - Far strong
@@ -30,8 +31,8 @@
 > [![(yunchk).gif](https://wiki.supercombo.gg/images/b/b5/%28yunchk%29.gif)](https://wiki.supercombo.gg/w/File:(yunchk).gif)
 > - Towards fierce
 > [![(yunfhp).gif](https://wiki.supercombo.gg/images/a/a6/%28yunfhp%29.gif)](https://wiki.supercombo.gg/w/File:(yunfhp).gif)
-> - 123 Target combo
-> - Sweep Target combo
+> - 123 [[General stuff/Terminology#Target combo\|Target combo]]
+> - Sweep > Roundhouse Target combo
 > - Lunge punch (All except EX)
 > [![(yunlunge).gif](https://wiki.supercombo.gg/images/d/d9/%28yunlunge%29.gif)](https://wiki.supercombo.gg/w/File:(yunlunge).gif)
 > - Strong, fierce and EX shoulder
