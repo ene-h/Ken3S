@@ -7,7 +7,7 @@
 - Stand fierce shoryu kara-shoryu
 - Close strong/low forward shoryu kara-shoryu
 ###### CORNER: 
-- TC jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
+- [[General stuff/Terminology#Target combo\|TC]] jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
 ### UOH setup
 - Low short > low strong
 ### Shippu cross-up setup
