@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/general-stuff/anti-air/"}
 ---
 
-- Fierce [[DP\|DP]]
+- Fierce [[General stuff/DP\|DP]]
 - Jab DP x 2
 - Jab DP Strong DP
 - Far fierce
@@ -13,5 +13,5 @@
 - Crouch fierce
 ### Parry
 - Immediate DP
-- low forward DP super
+- low forward xx strong DP xxshippu
 - [[General stuff/Terminology#Target combo\|TC]] super
