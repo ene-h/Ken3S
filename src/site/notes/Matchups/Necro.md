@@ -5,7 +5,7 @@
 ### Shoryu-shoryu
 - Stand strong/low forward shoryu shoryu 
 ###### CORNER:
-- TC shoryu shoryu 
+- [[General stuff/Terminology#Target combo\|TC]] shoryu shoryu 
 ### UOH setup
 - Low strong > low short
 ### Shippu cross-up setup
