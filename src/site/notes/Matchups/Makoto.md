@@ -7,7 +7,7 @@
 - Stand fierce shoryu kara-shoryu
 - Stand strong/low forward shoryu kara-shoryu
 ###### CORNER:
-- TC jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
+- [[General stuff/Terminology#Target combo\|TC]] jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
 ### UOH setup
 - Low short > low strong
 - Close strong > low strong
@@ -23,7 +23,7 @@
 	- Jump towards
 - Spam low short in neutral, confirm into shippu, catches forward dash
 - Makotos love jumping around, use EX air tatsu > DP or stand forward
-- On standing Makoto, use TC xx strong DP xx Shippu
+- On standing Makoto, use [[General stuff/Terminology#Target combo\|TC]] xx strong DP xx Shippu
 
 > [!danger]- Raw Shippu punish
 > Stand fierce
