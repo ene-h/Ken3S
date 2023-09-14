@@ -3,7 +3,7 @@
 ---
 
 ### Shoryu-shoryu
--  TC xx shoryu > shoryu
+-  [[General stuff/Terminology#Target combo\|TC]] xx shoryu > shoryu
 ### UOH setup
 - Low short > low strong
 ### Shippu cross-up setup
@@ -15,6 +15,9 @@
 - Backdash and buffer super motion if you get hit by dash-punch if they like to command-grab
 - Walk forward instead of dashing, less risk getting dash-punched
 - Don't get wakeup super-ed
+- Good kara-throw, especially dangerous when Q is cornered (backthrow)
+- They may crouch short xx SA2 on wakeup
+- His low buttons are otherwise not very scary, you should probably do high parries more than low parries
 
 > [!danger]- Raw Shippu punish
 > Stand fierce
