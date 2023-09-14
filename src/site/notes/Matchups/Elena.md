@@ -6,7 +6,7 @@
 ### Shoryu-shoryu
 -  Stand strong/low forward shoryu shoryu
 ###### CORNER:
-- TC xx jab shoryu > jab/strong shoryu (plink strong into jab to make the timing easier)
+- [[General stuff/Terminology#Target combo\|TC]] xx jab shoryu > jab/strong shoryu (plink strong into jab to make the timing easier)
 ### UOH setup
 - Close strong > low strong
 ### Shippu cross-up setup
@@ -20,8 +20,8 @@
 - Lots of overheads
 - Back roundhouse (big wheel kick) is +4, and dodges throw
 - It's harder for Elena to parry stuff like fireballs, because of her moving hurtboxes in her neutral stance
-- Whiffpunish neutral and back roundhouse with sweep (or raw super if you're nice with it)
-- Elena might want to poke a lot with stand forward, whiffpunish with crouch forward xx shippu
+- Whiff-punish neutral and back roundhouse with sweep (or raw super if you're nice with it)
+- Elena might want to poke a lot with stand forward, whiff-punish with crouch forward xx shippu
 
 > [!danger]- Raw Shippu punish
 >  Far fierce
