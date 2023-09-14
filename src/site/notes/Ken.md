@@ -10,7 +10,7 @@
 - [[General stuff/Shippu Cross-ups\|Shippu Cross-ups]]
 - [[General stuff/Oki\|Oki]]
 - [[General stuff/Jump-in options\|Jump-in options]]
-- [[Wake-up options\|Wake-up options]]
+- [[General stuff/Wake-up options\|Wake-up options]]
 - [[General stuff/Terminology\|Terminology]]
 
 ### VS
