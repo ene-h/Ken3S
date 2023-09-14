@@ -92,14 +92,12 @@ body {
   --divider-color-hover: #404754;
   }
   .external-link {
-    color: var(--link-external-color);
-    text-decoration-line: var(--link-external-decoration);
-    background: none;
-    background-position: 0;
-    background-repeat: no-repeat;
-    background-image: none !important;
-    background-size: 13px;
-    padding-right: 16px;
+    background: unset !important;
+    background-position: unset;
+    background-repeat: unset;
+    background-image: unset !important;
+    background-size: unset;
+    padding-right: unset;
     background-position-y: 4px;
     cursor: var(--cursor-link);
     filter: var(--link-external-filter);
