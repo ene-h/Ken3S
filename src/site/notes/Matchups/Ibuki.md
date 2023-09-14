@@ -4,7 +4,7 @@
 
 ### Shoryu-shoryu
 ###### CORNER:
-- TC shoryu kara-shoryu 
+- [[General stuff/Terminology#Target combo\|TC]] shoryu kara-shoryu 
 ### UOH setup
 - Close strong > low strong
 ### Shippu cross-up setup
@@ -13,9 +13,9 @@
 ### Short jab short
 - YES
 ### Notes
-- Against penguin kicks: parry first hit xx jab dp
+- Against penguin kicks: parry first hit xx jab DP
 - Ken stand roundhouse is a good button to use here
-- Towards mk (overhead hopkick, plus a billion on block) is safe on parry when spaced!
+- Towards forward (overhead hopkick, plus a billion on block) is safe on parry when spaced!
 - Her jab is +6, used for trapping, interrupting is a gamble
 - Do not mindlessly go into super, a lot of her moves get her off the ground, and if she is hit out of them shippu will whiff due to air-reset status
 - She has multiple 2-hit jump-ins
