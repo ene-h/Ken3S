@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/matchups/oro/"}
 ---
 
-# VS ORO
 ### Shoryu-shoryu
 ###### CORNER: Stand fierce shoryu kara-shoryu
 ### UOH setup
