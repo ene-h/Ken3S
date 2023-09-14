@@ -6,7 +6,7 @@
 ### Shoryu-shoryu
 - Close strong/low forward shoryu kara-shoryu
 ###### CORNER: 
-- TC jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
+- [[General stuff/Terminology#Target combo\|TC]] jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
 ### UOH setup
 - Low short > low strong
 ### Shippu cross-up setup
@@ -40,5 +40,5 @@
 [![(ryuhdk).gif](https://wiki.supercombo.gg/images/0/0c/%28ryuhdk%29.gif)](https://wiki.supercombo.gg/w/File:(ryuhdk).gif)
 > Tatsu (any) (low forward xx shippu should also work but i find it unreliable)
 [![(ryutsk).gif](https://wiki.supercombo.gg/images/f/f9/%28ryutsk%29.gif)](https://wiki.supercombo.gg/w/File:(ryutsk).gif)
-> Donkey kick (any) (you can also get crouch forward xx strong DP xx shippu)
+> Donkey kick (any) (you can also get crouch forward xx strong DP xx shippu, depends on range)
 [![(ryujsg).gif](https://wiki.supercombo.gg/images/4/4b/%28ryujsg%29.gif)](https://wiki.supercombo.gg/w/File:(ryujsg).gif)
