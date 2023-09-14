@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/matchups/mirror/"}
 ---
 
-# VS KEN
 ### Shoryu-shoryu
 - Close strong/low forward shoryu kara-shoryu
 ###### CORNER: 
