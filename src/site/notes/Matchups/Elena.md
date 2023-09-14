@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/matchups/elena/"}
 ---
 
-# VS ELENA
 ### Shoryu-shoryu
 -  Stand strong/low forward shoryu shoryu
 ###### CORNER:
