@@ -14,4 +14,4 @@
 ### Parry
 - Immediate DP
 - low forward DP super
-- TC super
+- [[General stuff/Terminology#Target combo\|TC]] super
