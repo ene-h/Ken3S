@@ -6,7 +6,7 @@
 ### Shoryu-shoryu
 - Stand strong/low forward shoryu kara-shoryu
 ###### CORNER: 
-- TC jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
+- [[General stuff/Terminology#Target combo\|TC]] jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
 ### UOH setup
 - Close strong > low strong
 ### Shippu cross-up setup
@@ -14,19 +14,20 @@
 ### Short jab short
 - NO
 ### Notes
-- Use TC xx strong DP xx shippu when Urien is crouching
+- Use [[General stuff/Terminology#Target combo\|TC]] xx strong DP xx shippu when Urien is crouching
 - He has no reversal, but headbutt dodges Ken's low forward
 - His dash is very fast
 - Don't jump too much- anti-air fireball into a million tackles and corner pressure!!
-- Try empty canceling crouch fierce xx shippu to stuff Urien's normals
-- EX tatsu crossup is hard to punish for Urien
+- Try [[General stuff/Terminology#Cancel buffering\|cancel buffering]] crouch fierce xx shippu to stuff Urien's normals
+	- It even beats his low forward, which he does not get much off of, but it's a very annoying poke
+- EX tatsu cross-up is hard to punish for Urien
 
 > [!danger]- Raw Shippu punish
 > Far fierce (shake my hand)
 [![Urienfarhp.gif](https://wiki.supercombo.gg/images/d/dc/Urienfarhp.gif)](https://wiki.supercombo.gg/w/File:Urienfarhp.gif)
 > Stand forward
 [![Urienfarmk.gif](https://wiki.supercombo.gg/images/8/82/Urienfarmk.gif)](https://wiki.supercombo.gg/w/File:Urienfarmk.gif)
-> Stand roundhouse
+> Stand roundhouse (also on hit!)
 [![Urienfarhk.gif](https://wiki.supercombo.gg/images/f/f0/Urienfarhk.gif)](https://wiki.supercombo.gg/w/File:Urienfarhk.gif)
 > Crouch fierce (crouch strong or forward xx shippu should also work)
 [![Uriencrouchinghp.gif](https://wiki.supercombo.gg/images/d/d1/Uriencrouchinghp.gif)](https://wiki.supercombo.gg/w/File:Uriencrouchinghp.gif)
