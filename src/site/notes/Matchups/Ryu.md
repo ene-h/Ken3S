@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/matchups/ryu/"}
 ---
 
-# VS RYU
 ### Shoryu-shoryu
 - Close strong/low forward shoryu kara-shoryu
 ###### CORNER: 
