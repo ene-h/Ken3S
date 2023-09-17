@@ -11,6 +11,7 @@
 ### Short jab short
 - YES
 ### Notes
+- **ANTI AIR HIM** (use far fierce instead of DP sometimes, maybe with a buffer to short tatsu if you get close fierce and they parry)
 - Stand / crouch strong buffer super to stuff Alex (hitboxes)
 - Reaction parry elbow (good connections only)
 - Shippu elbow on block
@@ -20,7 +21,7 @@
 - Duck DDT (and don't stand up right before it hits like an idiot)
 - Alex players love to evade kens crouch forward with crouch strong
 - Alex has long recovery on key moves, so whiff punish, even if its just sweep or raw super
-- Don't whiff, especially if Alex has meter for EX elbow
+- Don't whiff to build meter too much, especially if Alex has meter for EX elbow
 
 > [!danger]- Raw Shippu punish
 > Crouch fierce (I'm pretty sure Alex is considered standing the entire time, can also do crouch forward xx strong DP xx shippu)
