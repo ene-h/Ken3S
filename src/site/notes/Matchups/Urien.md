@@ -35,9 +35,9 @@
 	- dash DP
 	- walk up DP
 	- parry xx DP
-- Very fast wakeup (you don't get oki after a forward throw midscreen, only 12f advantage)
+- Very fast wakeup (you don't get much oki after a forward throw midscreen, only 12f advantage)
 - Urien has no answer for lk tatsu on block
-- You can dash > strong xx DP if you parry sweep
+- You can dash > close strong xx DP if you parry sweep
 
 > [!danger]- Raw Shippu punish
 > Far fierce (shake my hand) (1f)
