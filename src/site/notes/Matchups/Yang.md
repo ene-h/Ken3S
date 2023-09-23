@@ -13,8 +13,11 @@
 - YES (or short short short)
 ### Notes
 - Shippu punish blocked EX rekka!
-- Red parry rekka
+- Red parry rekka (maybe not that good, turns out he can delay it even when canceling from crouch forward)
 - parry xx DP divekicks
+- Not quick-rising gives more time for stun bar to recover and disrupts Yang's oki setups, so sometimes it's good not to quick-rise EX slash
+- Crouch forward is good in the footsies, remember to use it
+- Sometimes you just have to reversal
 
 > [!danger]- Raw Shippu punish
 > - Far fierce
@@ -25,11 +28,9 @@
 > [![(yanghk).gif](https://wiki.supercombo.gg/images/f/fb/%28yanghk%29.gif)](https://wiki.supercombo.gg/w/File:(yanghk).gif)
 > - Crouch roundhouse
 > [![(yangchk).gif](https://wiki.supercombo.gg/images/a/a3/%28yangchk%29.gif)](https://wiki.supercombo.gg/w/File:(yangchk).gif)
-> - Towards fierce
-> [![(yangfhp).gif](https://wiki.supercombo.gg/images/4/48/%28yangfhp%29.gif)](https://wiki.supercombo.gg/w/File:(yangfhp).gif)
 > - rekka 2, 3 and EX
 > [![(yangtrz).gif](https://wiki.supercombo.gg/images/d/d9/%28yangtrz%29.gif)](https://wiki.supercombo.gg/w/File:(yangtrz).gif)
-> - Palm (reversal timing)
+> - Palm (1f) (including palm target combo)
 > [![(yangbsd).gif](https://wiki.supercombo.gg/images/d/da/%28yangbsd%29.gif)](https://wiki.supercombo.gg/w/File:(yangbsd).gif)
 > 
  
