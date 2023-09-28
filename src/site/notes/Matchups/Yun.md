@@ -11,6 +11,8 @@
 - Walk up -> superjump. Air tatsu after a superjump for cross-up.
 ### Short jab short
 - YES (or short short short)
+### Shoryu confirm
+- Crouch short > stand jab xx Shoryu (CORNER ONLY)
 ### Notes
 - Parry xx DP divekick
 - Red parry shoulder if they like to do 123 xx Shoulder xx Activate
