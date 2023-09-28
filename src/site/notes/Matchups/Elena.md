@@ -12,6 +12,8 @@
 - Superjump, timing determines cross-up. Down forward superjump helps with cross-up.
 ### Short jab short
 - YES
+### Shoryu confirm
+- Crouch short > crouch jab xx Shoryu (or short short)
 ### Notes
 - Mallet smash is 2 slow parries, EX is fast
 - She has a 2-hit jump-in
