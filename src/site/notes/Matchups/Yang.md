@@ -23,6 +23,7 @@
 - Sometimes you just have to reversal
 - Watch out for walk up low forward when you expect dive kick
 - Stand forward is sometimes good as anti air
+- Watch out for dive kick cross-up in the corner (mostly on your wake-up)
 
 > [!danger]- Raw Shippu punish
 > - Far fierce
