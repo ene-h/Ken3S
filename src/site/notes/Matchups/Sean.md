@@ -25,21 +25,21 @@
 - Stand forward kinda beats Ken low forward
 - Watch out for basketball taunt oki, kinda like Dudley rose
 
-[!danger]- Raw Shippu punish
-Stand fierce
-[![(seanhp).gif](https://wiki.supercombo.gg/images/f/f8/%28seanhp%29.gif)](https://wiki.supercombo.gg/w/File:(seanhp).gif)
-Close fierce
-[![(seanclosehp).gif](https://wiki.supercombo.gg/images/c/c6/%28seanclosehp%29.gif)](https://wiki.supercombo.gg/w/File:(seanclosehp).gif)
-Crouch fierce
-[![(seanchp).gif](https://wiki.supercombo.gg/images/f/fc/%28seanchp%29.gif)](https://wiki.supercombo.gg/w/File:(seanchp).gif)
-Far roundhouse
-[![(seanfhk).gif](https://wiki.supercombo.gg/images/2/2a/%28seanfhk%29.gif)](https://wiki.supercombo.gg/w/File:(seanfhk).gif)
-Crouch forward
-[![(seancmk).gif](https://wiki.supercombo.gg/images/3/35/%28seancmk%29.gif)](https://wiki.supercombo.gg/w/File:(seancmk).gif)
-Crouch roundhouse
-[![(seanchk).gif](https://wiki.supercombo.gg/images/7/70/%28seanchk%29.gif)](https://wiki.supercombo.gg/w/File:(seanchk).gif)
-Towards fierce
-[![(seanthp).gif](https://wiki.supercombo.gg/images/a/af/%28seanthp%29.gif)](https://wiki.supercombo.gg/w/File:(seanthp).gif)
+> [!danger]- Raw Shippu punish
+> Stand fierce
+> [![(seanhp).gif](https://wiki.supercombo.gg/images/f/f8/%28seanhp%29.gif)](https://wiki.supercombo.gg/w/File:(seanhp).gif)
+> Close fierce
+> [![(seanclosehp).gif](https://wiki.supercombo.gg/images/c/c6/%28seanclosehp%29.gif)](https://wiki.supercombo.gg/w/File:(seanclosehp).gif)
+> Crouch fierce
+> [![(seanchp).gif](https://wiki.supercombo.gg/images/f/fc/%28seanchp%29.gif)](https://wiki.supercombo.gg/w/File:(seanchp).gif)
+> Far roundhouse
+> [![(seanfhk).gif](https://wiki.supercombo.gg/images/2/2a/%28seanfhk%29.gif)](https://wiki.supercombo.gg/w/File:(seanfhk).gif)
+> Crouch forward
+> [![(seancmk).gif](https://wiki.supercombo.gg/images/3/35/%28seancmk%29.gif)](https://wiki.supercombo.gg/w/File:(seancmk).gif)
+> Crouch roundhouse
+> [![(seanchk).gif](https://wiki.supercombo.gg/images/7/70/%28seanchk%29.gif)](https://wiki.supercombo.gg/w/File:(seanchk).gif)
+> Towards fierce
+> [![(seanthp).gif](https://wiki.supercombo.gg/images/a/af/%28seanthp%29.gif)](https://wiki.supercombo.gg/w/File:(seanthp).gif)
 Towards roundhouse
 [![(seanthk).gif](https://wiki.supercombo.gg/images/5/52/%28seanthk%29.gif)](https://wiki.supercombo.gg/w/File:(seanthk).gif)
 Ryuubi kyaku (overhead wheelkick) (any except EX) (1f)
