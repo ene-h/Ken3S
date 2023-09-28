@@ -19,6 +19,7 @@
 - Crouch short > stand jab xx Shoryu (CORNER ONLY)
 ### Notes
 - Don't spam low forward too much if your opponent has super if they've shown they can punish it
+- One of the most common things Kens do is dash in low forward; parry it if they overuse it
 - If you don't have another super after you land shippu in the corner, taunt > stand roundhouse does great damage and will catch low parries
 - After shippu in the corner, you are perfectly spaced for (taunt >) UOH > shippu
 
