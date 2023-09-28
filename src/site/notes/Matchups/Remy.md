@@ -11,10 +11,12 @@
 - Hold down, stand jab, superjump roundhouse. Timing determines cross-up
 ### Short jab short
 - YES (also short short short)
+### Shoryu confirm
+- NONE
 ### Notes
 - Why tf cold blue kick so hard to parry (can block low tho)
 - Don't get blue nocturned
-- Remy gets more reward from throw in the corner
+- Remy gets more reward from throw in the corner so might press throw more than other chars
 - React DP CBK?
 - SA1 is plus on block
 - SA2 comboes from anti-airs and hits frame 2
