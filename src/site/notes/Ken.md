@@ -18,6 +18,6 @@
 - [[Matchups/Dudley\|Dudley]]- [[Matchups/Yang\|Yang]] - [[Matchups/Gouki\|Gouki]] - [[Matchups/Urien\|Urien]] - [[Matchups/Ryu\|Ryu]] 
 - [[Matchups/Oro\|Oro]]- [[Matchups/Ibuki\|Ibuki]] - [[Matchups/Elena\|Elena]] - [[Matchups/Necro\|Necro]] - [[Matchups/Alex\|Alex]] 
 - [[Matchups/Remy\|Remy]] - [[Matchups/Q\|Q]] - [[Matchups/Hugo\|Hugo]] 
-- [[Matchups/Tweleve\|Tweleve]] - [[Sean\|Sean]] 
+- [[Matchups/Tweleve\|Tweleve]] - [[Matchups/Sean\|Sean]] 
 
 
