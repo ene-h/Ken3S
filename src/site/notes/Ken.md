@@ -6,7 +6,6 @@
 ### Quick links
 - [[General stuff/Shoryu-shoryu\|Shoryu-shoryu]]
 - [[General stuff/UOH Setups\|UOH Setups]]
-- [[Reminders\|Reminders]]
 - [[General stuff/Shippu Cross-ups\|Shippu Cross-ups]]
 - [[General stuff/Oki\|Oki]]
 - [[General stuff/Jump-in options\|Jump-in options]]
