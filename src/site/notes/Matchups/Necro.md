@@ -12,6 +12,8 @@
 - Low jab super jump mk. Holding down helps
 ### Short jab short
 - NO
+### Shoryu confirm
+- Crouch short > crouch jab xx Shoryu  (whiffs when Necro is hit crouching)
 ### Notes
 - Fast wakeup, no taunt after corner shippu if you want a meaty
 - Use stand strong > super in neutral
