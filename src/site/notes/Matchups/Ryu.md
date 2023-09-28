@@ -15,6 +15,8 @@
 - Standing jab superjump roundhouse.
 ### Short jab short
 - YES
+### Shoryu confirm
+- Crouch short > stand jab xx Shoryu (CORNER ONLY)
 ### Notes
 - Perfect spacing for UOH after shippu in corner
 - (Red) parry crouch forward xx hadouken
