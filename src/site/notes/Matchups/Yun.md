@@ -18,6 +18,7 @@
 - Red parry shoulder if they like to do 123 xx Shoulder xx Activate
 - (Hard) Red parry 123 > fierce > (genei activation) > strong DP xx Shippu 
 - Watch out for dive kick cross-up in the corner (mostly on your wake-up)
+- High connect blocked dive kick into button is usually not real (blue parry)
 
 > [!danger]- Raw Shippu punish
 > - Far strong
