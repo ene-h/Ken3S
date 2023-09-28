@@ -15,6 +15,8 @@
 - Standing jab superjump roundhouse.
 ### Short jab short
 - YES
+### Shoryu confirm
+- Crouch short > stand jab xx Shoryu (CORNER ONLY)
 ### Notes
 - Don't spam low forward too much if your opponent has super if they've shown they can punish it
 - If you don't have another super after you land shippu in the corner, taunt > stand roundhouse does great damage and will catch low parries
