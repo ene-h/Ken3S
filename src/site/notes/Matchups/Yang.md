@@ -12,12 +12,14 @@
 ### Short jab short
 - YES (or short short short)
 ### Notes
-- Shippu punish blocked EX rekka!
+- Shippu punish blocked full EX rekka!
 - Red parry rekka (maybe not that good, turns out he can delay it even when canceling from crouch forward)
-- parry xx DP divekicks
+- Parry xx DP dive kicks seems most consistent
+- High connect blocked dive kick into button is usually not real (blue parry)
 - Not quick-rising gives more time for stun bar to recover and disrupts Yang's oki setups, so sometimes it's good not to quick-rise EX slash
-- Crouch forward is good in the footsies, remember to use it
+- Crouch forward is good in footsies, remember to use it
 - Sometimes you just have to reversal
+- Watch out for walk up low forward when you expect dive kick
 
 > [!danger]- Raw Shippu punish
 > - Far fierce
