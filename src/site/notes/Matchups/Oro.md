@@ -11,6 +11,8 @@
 - Superjump whiff normal to land in front. Tiger knee motion 
 ### Short jab short
 - YES
+### Shoryu confirm
+- Crouch short > crouch short xx Shoryu
 ### Notes
 - Oro's far forward beats Ken’s crouch forward (Oro’s farthest-reaching poke)
 	- Crouch fierce xx shippu beats this clean, can be [[General stuff/Terminology#Cancel buffering\|cancel buffered]]
