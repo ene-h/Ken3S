@@ -10,6 +10,8 @@
 - Crouch jab -> Superjump forward
 ### Short jab short
 - YES
+### Shoryu confirm
+- Crouch short > crouch jab xx Shoryu 
 ### Notes
 - **ANTI AIR HIM** (use far fierce instead of DP sometimes, maybe with a buffer to short tatsu if you get close fierce and they parry)
 - Stand / crouch strong buffer super to stuff Alex (hitboxes)
