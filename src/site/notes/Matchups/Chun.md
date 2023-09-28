@@ -36,4 +36,5 @@
 > Sweep
 [![(chunlichk).gif](https://wiki.supercombo.gg/images/c/cb/%28chunlichk%29.gif)](https://wiki.supercombo.gg/w/File:(chunlichk).gif)
 > EX SBK (low forward xx Shippu also works but seems unreliable)
+> (Can also get strong DP xx shippu, easier when stand-blocking)
 [![(chunlisbkex).gif](https://wiki.supercombo.gg/images/6/6d/%28chunlisbkex%29.gif)](https://wiki.supercombo.gg/w/File:(chunlisbkex).gif)
