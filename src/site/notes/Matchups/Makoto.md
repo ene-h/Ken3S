@@ -18,17 +18,17 @@
 ### Shoryu confirm
 - Crouch short > crouch jab xx Shoryu
 ### Notes
-- Spam low short in neutral, confirm into shippu, catches forward dash
+- Spam low short in neutral, confirm into shippu, catches forward dash (good against round start dash)
 - Makotos love jumping around, use EX air tatsu > DP or stand forward
 - On standing Makoto, use [[General stuff/Terminology#Target combo\|TC]] xx strong DP xx Shippu
+- Watch out for TK EX Tsurugi oki
+- Tsurugi alters her jump arc quite a lot
 
 > [!danger]- Raw Shippu punish
 > Stand fierce
 [![(makotohp).gif](https://wiki.supercombo.gg/images/6/6a/%28makotohp%29.gif)](https://wiki.supercombo.gg/w/File:(makotohp).gif)
 > Crouch fierce
 [![(makotochp).gif](https://wiki.supercombo.gg/images/7/74/%28makotochp%29.gif)](https://wiki.supercombo.gg/w/File:(makotochp).gif)
-> Crouch short (HARD)
-[![(makotoclk).gif](https://wiki.supercombo.gg/images/6/61/%28makotoclk%29.gif)](https://wiki.supercombo.gg/w/File:(makotoclk).gif)
 > Towards fierce (any)
 [![(makotofhp).gif](https://wiki.supercombo.gg/images/7/7c/%28makotofhp%29.gif)](https://wiki.supercombo.gg/w/File:(makotofhp).gif)
 > Towards short
