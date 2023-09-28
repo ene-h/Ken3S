@@ -10,6 +10,8 @@
 - Walk up jump, timing determines cross-up.
 ### Short jab short
 - NO
+### Shoryu confirm
+- Crouch short > crouch jab xx Shoryu  (whiffs when Q is hit crouching)
 ### Notes
 - Stuff dash-punches with stand strong, crouch strong (or ex hadouken)
 - Backdash and buffer super motion if you get hit by dash-punch if they like to command-grab
