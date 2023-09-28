@@ -12,6 +12,8 @@
 - Walk up jump over whiff roundhouse/fierce for meter. You can also dash up -> walk back.
 ### Short jab short
 - NO
+### Shoryu confirm
+- Crouch short > crouch jab xx Shoryu 
 ### Notes
 - Use [[General stuff/Terminology#Target combo\|TC]] xx strong DP xx shippu when Urien is crouching
 - Play safe and let him hang himself, Urien has a lot of health
