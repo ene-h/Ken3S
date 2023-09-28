@@ -10,6 +10,8 @@
 - Walk forward slightly superjump to cross-up. Superjump to land in front.
 ### Short jab short
 - YES (also short short short)
+### Shoryu confirm
+- Crouch short > stand jab xx Shoryu
 ### Notes
 - Use far fierce as anti-air
 - On crouching Dudley, use TC xx strong DP xx Shippu or [[General stuff/Terminology#Target combo\|TC]] xx fierce DP
