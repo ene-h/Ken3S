@@ -12,6 +12,8 @@
 - Dash up walk back jump
 ### Short jab short
 - YES
+### Shoryu confirm
+- Crouch short > crouch jab xx Shoryu 
 ### Notes
 - Against penguin kicks: parry first hit xx jab DP
 - Ken stand roundhouse is a good button to use here
