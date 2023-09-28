@@ -21,7 +21,7 @@
 	- Use EX hadou if they overuse this
 	- Maybe try stand strong whiffpunish, or buffer the qcfs and raw shippu it
 	- If they're constantly doing it, you don't really have to worry about reacting to it, just walk up and low forward him, he pushes button, he gets hit
-	- If you want to push a button to contest the space, Ken's far fierce is probably pretty good and prevents Dudley from jumping much at the range you'd be pushing it into Dud RH as well
+	- If you want to push a button to contest the space, Ken's far fierce is probably pretty good and prevents Dudley from jumping much
 
 > [!danger]- Raw Shippu punish
 > ###### (Almost all of Dudley's normals are plus)
