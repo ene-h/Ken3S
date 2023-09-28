@@ -11,15 +11,18 @@
 - Walk up -> superjump. Air tatsu after a superjump for cross-up.
 ### Short jab short
 - YES (or short short short)
+### Shoryu confirm
+- Crouch short > stand jab xx Shoryu (CORNER ONLY)
 ### Notes
 - Shippu punish blocked full EX rekka!
-- Red parry rekka (maybe not that good, turns out he can delay it even when canceling from crouch forward)
+- Red parry crouch forward xx rekka (maybe not that good, turns out he can delay it)
 - Parry xx DP dive kicks seems most consistent
 - High connect blocked dive kick into button is usually not real (blue parry)
 - Not quick-rising gives more time for stun bar to recover and disrupts Yang's oki setups, so sometimes it's good not to quick-rise EX slash
 - Crouch forward is good in footsies, remember to use it
 - Sometimes you just have to reversal
 - Watch out for walk up low forward when you expect dive kick
+- Stand forward is sometimes good as anti air
 
 > [!danger]- Raw Shippu punish
 > - Far fierce
@@ -28,7 +31,7 @@
 > [![(yangmk).gif](https://wiki.supercombo.gg/images/f/f9/%28yangmk%29.gif)](https://wiki.supercombo.gg/w/File:(yangmk).gif)
 > - Stand roundhouse
 > [![(yanghk).gif](https://wiki.supercombo.gg/images/f/fb/%28yanghk%29.gif)](https://wiki.supercombo.gg/w/File:(yanghk).gif)
-> - Crouch roundhouse
+> - Crouch roundhouse (watch for range)
 > [![(yangchk).gif](https://wiki.supercombo.gg/images/a/a3/%28yangchk%29.gif)](https://wiki.supercombo.gg/w/File:(yangchk).gif)
 > - rekka 2, 3 and EX
 > [![(yangtrz).gif](https://wiki.supercombo.gg/images/d/d9/%28yangtrz%29.gif)](https://wiki.supercombo.gg/w/File:(yangtrz).gif)
