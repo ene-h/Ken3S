@@ -17,7 +17,7 @@
 - EX air tatsu is a good air to air
 - Keep distance
 - [[General stuff/Terminology#Cancel buffering\|Cancel buffering]] crouch fierce xx shippu is not a bad idea
-- On crouching hugo, far fierce links to super (2f)
+- On crouching Hugo, far fierce links to super (2f)
 - You get basically nothing on cross-up forward, only like max +4
 - You can TC xx strong DP xx shippu on crouching Hugo
 
