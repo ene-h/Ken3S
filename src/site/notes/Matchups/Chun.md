@@ -16,6 +16,8 @@
 - Dash up, walk back -> jump
 ### Short jab short
 - YES
+### Shoryu confirm
+- Crouch short > crouch jab xx Shoryu 
 ### Notes
 - Use UOH > Shippu in neutral
 - Low parry instead of trying to whiff punish chun's low forward
