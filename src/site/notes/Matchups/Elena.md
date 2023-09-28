@@ -18,10 +18,8 @@
 - Mallet smash is 2 slow parries, EX is fast
 - She has a 2-hit jump-in
 - Far kara-throw
-- Lots of overheads
+- Has lots of overheads
 - Back roundhouse (big wheel kick) is +4, and dodges throw
-- It's harder for Elena to parry stuff like fireballs, because of her moving hurtboxes in her neutral stance
-- Whiff-punish neutral and back roundhouse with sweep (or raw super if you're nice with it)
 - Elena might want to poke a lot with stand forward, whiff-punish with crouch forward xx shippu
 
 > [!danger]- Raw Shippu punish
