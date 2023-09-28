@@ -15,11 +15,9 @@
 - Hold down forward, crouch jab superjump roundhouse (immediate timing does a cross-up, later lands in front. Mask a walk forward with the jab whiff.) 
 ### Short jab short
 - YES (also short short short)
+### Shoryu confirm
+- Crouch short > crouch jab xx Shoryu
 ### Notes
-- Post hayate?
-	- Block
-	- Jump back
-	- Jump towards
 - Spam low short in neutral, confirm into shippu, catches forward dash
 - Makotos love jumping around, use EX air tatsu > DP or stand forward
 - On standing Makoto, use [[General stuff/Terminology#Target combo\|TC]] xx strong DP xx Shippu
