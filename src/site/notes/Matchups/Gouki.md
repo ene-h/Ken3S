@@ -15,6 +15,8 @@
 - Standing jab superjump roundhouse.
 ### Short jab short
 - YES
+### Shoryu confirm
+- Crouch short > crouch jab xx Shoryu (whiffs when you hit Gouki crouching)
 ### Notes
 - Make sure to punish heavy tatsu (raw shippu) so your opponent is discouraged from spamming it
 - Parry divekick xx shoryu OR parry divekick > low forward xx strong shoryu xx shippu
