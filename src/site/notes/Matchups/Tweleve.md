@@ -19,7 +19,9 @@
 - Has no damage
 - Will throw a lot
 - Walks under fireballs and cross-ups
+- May neutral (super) jump to bait DP
 - **Cannot parry during airdash!**
+- If you're both whiffing to build bar he may EX fireball you and get oki
 
 > [!danger]- Raw Shippu punish
 > Stand forward (but can be superjump-canceled)
