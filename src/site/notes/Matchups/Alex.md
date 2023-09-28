@@ -15,9 +15,8 @@
 ### Notes
 - **ANTI AIR HIM** (use far fierce instead of DP sometimes, maybe with a buffer to short tatsu if you get close fierce and they parry)
 - Stand / crouch strong buffer super to stuff Alex (hitboxes)
-- Reaction parry elbow (good connections only)
+- Reaction parry elbow (damned wifi players)
 - Shippu elbow on block
-- Do not accept wifi challenges
 - Alex evades a lot of [[General stuff/Oki\|Oki]], be careful
 - Parry stomp (you block if it crosses up)
 - Duck DDT (and don't stand up right before it hits like an idiot)
