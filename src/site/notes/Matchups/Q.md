@@ -3,7 +3,7 @@
 ---
 
 ### Shoryu-shoryu
--  [[General stuff/Terminology#Target combo\|TC]] xx shoryu > shoryu
+-  [[General stuff/Terminology#Target combo\|TC]] jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
 ### UOH setup
 - Low short > low strong
 ### Shippu cross-up setup
