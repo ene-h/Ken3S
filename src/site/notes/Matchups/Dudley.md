@@ -10,8 +10,6 @@
 - Walk forward slightly superjump to cross-up. Superjump to land in front.
 ### Short jab short
 - YES (also short short short)
-### Shoryu confirm
-- Crouch short > stand jab xx Shoryu
 ### Notes
 - Use far fierce as anti-air
 - On crouching Dudley, use TC xx strong DP xx Shippu or [[General stuff/Terminology#Target combo\|TC]] xx fierce DP
@@ -22,6 +20,7 @@
 	- Maybe try stand strong whiffpunish, or buffer the qcfs and raw shippu it
 	- If they're constantly doing it, you don't really have to worry about reacting to it, just walk up and low forward him, he pushes button, he gets hit
 	- If you want to push a button to contest the space, Ken's far fierce is probably pretty good and prevents Dudley from jumping much
+- You can shippu when you block a normal xx ducking
 
 > [!danger]- Raw Shippu punish
 > ###### (Almost all of Dudley's normals are plus)
