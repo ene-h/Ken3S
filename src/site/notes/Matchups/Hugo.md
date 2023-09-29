@@ -4,7 +4,7 @@
 
 ### Shoryu-shoryu
 ###### CORNER
-- TC xx jab DP xx kara-jab DP
+- [[General stuff/Terminology#Target combo\|TC]] shoryu kara-shoryu 
 ### UOH setup
 - Low short > low strong
 ### Shippu cross-up setup
