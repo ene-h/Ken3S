@@ -5,7 +5,7 @@
 ### Shoryu-shoryu
 - Stand strong/low forward shoryu shoryu 
 ###### CORNER:
-- [[General stuff/Terminology#Target combo\|TC]] shoryu shoryu 
+- [[General stuff/Terminology#Target combo\|TC]] jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
 ### UOH setup
 - Low strong > low short
 ### Shippu cross-up setup
