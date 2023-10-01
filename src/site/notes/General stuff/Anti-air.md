@@ -2,16 +2,16 @@
 {"dg-publish":true,"permalink":"/general-stuff/anti-air/"}
 ---
 
-- Fierce [[General stuff/DP\|DP]]
-- Jab DP x 2
-- Jab DP Strong DP
-- Far fierce
-- Far strong
-- Multiple jabs
-- Stand forward
-- Jump back roundhouse
-- Crouch fierce
+- HP [[General stuff/DP\|DP]]
+- LP DP x 2
+- LP DP > MP DP
+- Far HP
+- Far MP
+- Multiple LPs
+- Stand MK
+- Jump back HK
+- Crouch HP
 ### Parry
 - Immediate DP
-- low forward xx strong DP xxshippu
+- crouch MK xx MP DP xx Shippu
 - [[General stuff/Terminology#Target combo\|TC]] super
