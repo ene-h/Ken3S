@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/general-stuff/uoh-setups/"}
 ---
 
-### Low short > low strong
+### Crouch LK > crouch MP
 - Chun
 - Shotos
 - Hugo
@@ -11,7 +11,7 @@
 - Q
 - Twelve
 - Twins
-### Close strong > low strong
+### Close MP > crouch MP
 - Alex
 - Dudley
 - Elena
@@ -21,6 +21,6 @@
 - Remy
 - Twelve
 - Urien
-### Low strong > low short
+### Crouch MP > Crouch LK
 - Necro
 - Hugo
