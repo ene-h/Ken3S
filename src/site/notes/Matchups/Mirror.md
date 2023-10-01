@@ -3,36 +3,36 @@
 ---
 
 ### Shoryu-shoryu
-- Close strong/low forward shoryu kara-shoryu
+- Close MP/crouch MK shoryu kara-shoryu
 ###### CORNER: 
-- [[General stuff/Terminology#Target combo\|TC]] jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
+- [[General stuff/Terminology#Target combo\|TC]] LP shoryu LP/MP shoryu (plink MP into LP to make the timing easier)
 ### UOH setup
-- Low short > low strong
+- crouch LK > crouch MP
 ### Shippu cross-up setup
-- Whiff stand strong -> Superjump.
-- Walk forward, jump whiff roundhouse.
-- Dash -> walk backward -> jump whiff roundhouse.
-- Standing jab superjump roundhouse.
-### Short jab short
+- Whiff stand MP -> Superjump.
+- Walk forward, jump whiff HK.
+- Dash -> walk backward -> jump whiff HK.
+- Standing LP superjump HK.
+### Crouch LK>LP>LK
 - YES
 ### Shoryu confirm
-- Crouch short > stand jab xx Shoryu (CORNER ONLY)
+- Crouch LK > stand LP xx Shoryu (CORNER ONLY)
 ### Notes
-- Don't spam low forward too much if your opponent has super if they've shown they can punish it
-- One of the most common things Kens do is dash in low forward; parry it if they overuse it
-- If you don't have another super after you land shippu in the corner, taunt > stand roundhouse does great damage and will catch low parries
+- Don't spam crouch MK too much if your opponent has super if they've shown they can punish it
+- One of the most common things Kens do is dash in crouch MK; parry it if they overuse it
+- If you don't have another super after you land shippu in the corner, taunt > stand HK does great damage and will catch low parries
 - After shippu in the corner, you are perfectly spaced for (taunt >) UOH > shippu
 
 > [!danger]- Raw Shippu punish
-> crouch fierce
+> crouch HP
 [![(kenchp).gif](https://wiki.supercombo.gg/images/4/40/%28kenchp%29.gif)]
-> stand forward
+> stand MK
 [![(kenmk).gif](https://wiki.supercombo.gg/images/d/d1/%28kenmk%29.gif)](https://wiki.supercombo.gg/w/File:(kenmk).gif)
-> stand roundhouse
+> stand HK
 [![(kenhk).gif](https://wiki.supercombo.gg/images/1/15/%28kenhk%29.gif)](https://wiki.supercombo.gg/w/File:(kenhk).gif)
-> low forward
+> crouch MK
 [![(kencmk).gif](https://wiki.supercombo.gg/images/8/80/%28kencmk%29.gif)](https://wiki.supercombo.gg/w/File:(kencmk).gif)
-> Sweep (low forward xx Shippu if close)
+> Sweep (crouch MK xx Shippu if close)
 [![(kenchk).gif](https://wiki.supercombo.gg/images/5/53/%28kenchk%29.gif)](https://wiki.supercombo.gg/w/File:(kenchk).gif)
 > Step kick
 [![(kenfmk).gif](https://wiki.supercombo.gg/images/2/24/%28kenfmk%29.gif)](https://wiki.supercombo.gg/w/File:(kenfmk).gif)
