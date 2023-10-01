@@ -4,39 +4,39 @@
 
 ### Shoryu-shoryu
 ###### CORNER: 
-- Stand fierce shoryu kara-shoryu
+- Stand HP shoryu kara-shoryu
 ### UOH setup
-- Low short > low strong
+- crouch LK > crouch MP
 ### Shippu cross-up setup
 - Walk up -> superjump. Air tatsu after a superjump for cross-up.
-### Short jab short
-- YES (or short short short)
+### Crouch LK>LP>LK
+- YES (or LK LK LK)
 ### Shoryu confirm
-- Crouch short > stand jab xx Shoryu (CORNER ONLY)
+- Crouch LK > stand LP xx Shoryu (CORNER ONLY)
 ### Notes
 - Parry xx DP divekick
 - Red parry shoulder if they like to do 123 xx Shoulder xx Activate
-- (Hard) Red parry 123 > fierce > (genei activation) > strong DP xx Shippu 
+- (Hard) Red parry 123 > HP > (genei activation) > MP DP xx Shippu 
 - Watch out for dive kick cross-up in the corner (mostly on your wake-up)
 - High connect blocked dive kick into button is usually not real (blue parry)
 
 > [!danger]- Raw Shippu punish
-> - Far strong
+> - Far MP
 > [![(yunmp).gif](https://wiki.supercombo.gg/images/1/12/%28yunmp%29.gif)](https://wiki.supercombo.gg/w/File:(yunmp).gif)
-> - Far fierce (also on hit!)
+> - Far HP (also on hit!)
 > [![(yunhp).gif](https://wiki.supercombo.gg/images/9/9f/%28yunhp%29.gif)](https://wiki.supercombo.gg/w/File:(yunhp).gif)
-> - Far forward (also on hit!)
+> - Far MK (also on hit!)
 > [![(yunmk).gif](https://wiki.supercombo.gg/images/d/d0/%28yunmk%29.gif)](https://wiki.supercombo.gg/w/File:(yunmk).gif)
-> - Stand roundhouse
+> - Stand HK
 > [![(yunhk).gif](https://wiki.supercombo.gg/images/7/7f/%28yunhk%29.gif)](https://wiki.supercombo.gg/w/File:(yunhk).gif)
-> - Crouch roundhouse
+> - Crouch HK
 > [![(yunchk).gif](https://wiki.supercombo.gg/images/b/b5/%28yunchk%29.gif)](https://wiki.supercombo.gg/w/File:(yunchk).gif)
-> - Towards fierce
+> - Towards HP
 > [![(yunfhp).gif](https://wiki.supercombo.gg/images/a/a6/%28yunfhp%29.gif)](https://wiki.supercombo.gg/w/File:(yunfhp).gif)
 > - 123 [[General stuff/Terminology#Target combo\|Target combo]]
-> - Sweep > Roundhouse Target combo
+> - Sweep > HK Target combo
 > - Lunge punch (All except EX)
 > [![(yunlunge).gif](https://wiki.supercombo.gg/images/d/d9/%28yunlunge%29.gif)](https://wiki.supercombo.gg/w/File:(yunlunge).gif)
-> - Strong, fierce and EX shoulder
+> - MP, HP and EX shoulder
 > [![(yunshoulder).gif](https://wiki.supercombo.gg/images/1/1d/%28yunshoulder%29.gif)](https://wiki.supercombo.gg/w/File:(yunshoulder).gif)
  
