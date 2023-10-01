@@ -3,41 +3,41 @@
 ---
 
 ### Shoryu-shoryu
-- Stand fierce shoryu kara-shoryu
-- Stand strong/low forward shoryu kara-shoryu
+- Stand HP shoryu kara-shoryu
+- Stand MP/crouch MK shoryu kara-shoryu
 ###### CORNER:
-- [[General stuff/Terminology#Target combo\|TC]] jab shoryu jab/strong shoryu (plink strong into jab to make the timing easier)
+- [[General stuff/Terminology#Target combo\|TC]] LP shoryu LP/MP shoryu (plink MP into LP to make the timing easier)
 ### UOH setup
-- Low short > low strong
-- Close strong > low strong
+- Crouch LK > crouch MP
+- Close MP > crouch MP
 ### Shippu cross-up setup
 - Walk forward regular jump. 
-- Hold down forward, crouch jab superjump roundhouse (immediate timing does a cross-up, later lands in front. Mask a walk forward with the jab whiff.) 
-### Short jab short
-- YES (also short short short)
+- Hold down forward, crouch LP superjump HK (immediate timing does a cross-up, later lands in front. Mask a walk forward with the LP whiff.) 
+### Crouch LK>LP>LK
+- YES (also LK LK LK)
 ### Shoryu confirm
-- Crouch short > crouch jab xx Shoryu
+- Crouch LK > crouch LP xx Shoryu
 ### Notes
-- Spam low short in neutral, confirm into shippu, catches forward dash (good against round start dash)
-- Makotos love jumping around, use EX air tatsu > DP or stand forward
-- On standing Makoto, use [[General stuff/Terminology#Target combo\|TC]] xx strong DP xx Shippu
+- Spam crouch LK in neutral, confirm into shippu, catches forward dash (good against round start dash)
+- Makotos love jumping around, use EX air tatsu > DP or stand MK
+- On standing Makoto, use [[General stuff/Terminology#Target combo\|TC]] xx MP DP xx Shippu
 - Watch out for TK EX Tsurugi oki
 - Tsurugi alters her jump arc quite a lot
 
 > [!danger]- Raw Shippu punish
-> Stand fierce
+> Stand HP
 [![(makotohp).gif](https://wiki.supercombo.gg/images/6/6a/%28makotohp%29.gif)](https://wiki.supercombo.gg/w/File:(makotohp).gif)
-> Crouch fierce
+> Crouch HP
 [![(makotochp).gif](https://wiki.supercombo.gg/images/7/74/%28makotochp%29.gif)](https://wiki.supercombo.gg/w/File:(makotochp).gif)
-> Towards fierce (any)
+> Towards HP (any)
 [![(makotofhp).gif](https://wiki.supercombo.gg/images/7/7c/%28makotofhp%29.gif)](https://wiki.supercombo.gg/w/File:(makotofhp).gif)
-> Towards short
+> Towards LK
 [![(makotoflk).gif](https://wiki.supercombo.gg/images/0/07/%28makotoflk%29.gif)](https://wiki.supercombo.gg/w/File:(makotoflk).gif)
-> Towards forward
+> Towards MK
 [![(makotofmk).gif](https://wiki.supercombo.gg/images/b/b8/%28makotofmk%29.gif)](https://wiki.supercombo.gg/w/File:(makotofmk).gif)
-> Towards roundhouse
+> Towards HK
 [![(makotofhk).gif](https://wiki.supercombo.gg/images/d/d0/%28makotofhk%29.gif)](https://wiki.supercombo.gg/w/File:(makotofhk).gif)
 > Hayate (any, not charged)
 [![(makotohayate).gif](https://wiki.supercombo.gg/images/1/10/%28makotohayate%29.gif)](https://wiki.supercombo.gg/w/File:(makotohayate).gif)
-> Oroshi / overhead (jab, strong)
+> Oroshi / overhead (LP, MP)
 [![(makotooroshi).gif](https://wiki.supercombo.gg/images/6/6e/%28makotooroshi%29.gif)](https://wiki.supercombo.gg/w/File:(makotooroshi).gif)
