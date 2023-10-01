@@ -7,7 +7,7 @@
 ### UOH setup
 -  Close MP > crouch MP
 ### Shippu cross-up setup
-- (Down MK) Superjump air tatsu to cross-up.
+- (Down towards) Superjump air tatsu to cross-up.
 - Superjump whiff normal to land in front. Tiger knee motion 
 ### Crouch LK>LP>LK
 - YES
