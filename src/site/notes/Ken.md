@@ -12,6 +12,7 @@
 - [[General stuff/Shoryu confirm\|Shoryu confirm]]
 - [[General stuff/Wake-up options\|Wake-up options]]
 - [[General stuff/Terminology\|Terminology]]
+- [[General stuff/Combos\|Combos]]
 
 ### MATCHUP VS
 - [[Matchups/Chun\|Chun]] - [[Matchups/Yun\|Yun]] - [[Matchups/Mirror\|Mirror]] - [[Matchups/Makoto\|Makoto]] 
