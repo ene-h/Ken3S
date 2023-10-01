@@ -27,6 +27,7 @@ Because Ken hasn't got a command grab or fast overhead (which means you can usua
 - Cross Up MK, Close MP (and post mix ups) 
 - Cross Up MK, C.LK (And post mix ups if blocked) 
 - Cross Up MK, B+ MK xx Super (use this only if you condition them into blocking low by using C.LK a lot)
-### Stand fierce
-- Stand fierce > crouch strong (frametrap)
+### Stand HP
+- Stand HP > crouch MP (frametrap)
+- Stand HP > OS parry
 - Delay, cancel into DP so it won't come out on hit or block, only on parry. Catches parry > button and parry > throw. You can mix up the DP strength if they start getting wise to it.
