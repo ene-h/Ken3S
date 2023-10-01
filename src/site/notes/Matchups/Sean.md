@@ -10,7 +10,7 @@
 - crouch LK > crouch MP
 ### Shippu cross-up setup
 - Whiff stand MP -> Superjump.
-- Walk MK, jump whiff HK.
+- Walk up, jump whiff HK.
 - Dash -> walk backward -> jump whiff HK.
 - Standing LP superjump HK.
 ### Crouch LK>LP>LK
