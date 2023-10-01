@@ -3,23 +3,23 @@
 ---
 
 ### Shoryu-shoryu
-- Close strong/low forward xx shoryu > kara-shoryu
+- Close MP/crouch MK xx shoryu > kara-shoryu
 ###### CORNER: 
-- [[General stuff/Terminology#Target combo\|TC]] xx jab shoryu > jab/strong shoryu (plink strong into jab to make the timing easier)
+- [[General stuff/Terminology#Target combo\|TC]] xx LP shoryu > LP/MP shoryu (plink MP into LP to make the timing easier)
 ### UOH setup
-- Low short > low strong
+- crouch LK > crouch MP
 ### Shippu cross-up setup
-- Whiff stand strong -> Superjump.
-- Walk forward, jump whiff roundhouse.
-- Dash -> walk backward -> jump whiff roundhouse.
-- Standing jab superjump roundhouse.
-### Short jab short
+- Whiff stand MP -> Superjump.
+- Walk forward, jump whiff HK.
+- Dash -> walk backward -> jump whiff HK.
+- Standing LP superjump HK.
+### Crouch LK>LP>LK
 - YES
 ### Shoryu confirm
-- Crouch short > crouch jab xx Shoryu (whiffs when you hit Gouki crouching)
+- Crouch LK > crouch LP xx Shoryu (whiffs when you hit Gouki crouching)
 ### Notes
 - Make sure to punish heavy tatsu (raw shippu) so your opponent is discouraged from spamming it
-- Parry divekick xx shoryu OR parry divekick > low forward xx strong shoryu xx shippu
+- Parry divekick xx shoryu OR parry divekick > crouch MK xx MP shoryu xx shippu
 - Don't get wakeup demon'd or KKZ'd
 - Anti-air demon flip (they can't air-parry) or dash under
 - Gouki air tatsu often seems to beat ken ex air tatsu, otherwise ex air tatsu is pretty good against a gouki that likes to bounce around
@@ -28,21 +28,21 @@
 - His kara-throw goes far
 
 > [!danger]- Raw Shippu punish
-> Far fierce
+> Far HP
 [![(akumahp).gif](https://wiki.supercombo.gg/images/c/cf/%28akumahp%29.gif)](https://wiki.supercombo.gg/w/File:(akumahp).gif)
-> Close fierce
+> Close HP
 [![(akumaclosehp).gif](https://wiki.supercombo.gg/images/9/94/%28akumaclosehp%29.gif)](https://wiki.supercombo.gg/w/File:(akumaclosehp).gif)
-> Far forward
+> Far MK
 [![(akumamk).gif](https://wiki.supercombo.gg/images/4/43/%28akumamk%29.gif)](https://wiki.supercombo.gg/w/File:(akumamk).gif)
-> Far roundhouse
+> Far HK
 [![(akumahk).gif](https://wiki.supercombo.gg/images/2/22/%28akumahk%29.gif)](https://wiki.supercombo.gg/w/File:(akumahk).gif)
-> Close roundhouse
+> Close HK
 [![(akumaclosehk).gif](https://wiki.supercombo.gg/images/b/b4/%28akumaclosehk%29.gif)](https://wiki.supercombo.gg/w/File:(akumaclosehk).gif)
-> Crouch fierce
+> Crouch HP
 [![(akumachp).gif](https://wiki.supercombo.gg/images/1/18/%28akumachp%29.gif)](https://wiki.supercombo.gg/w/File:(akumachp).gif)
-> Crouch forward
+> Crouch MK
 [![(akumacmk).gif](https://wiki.supercombo.gg/images/1/17/%28akumacmk%29.gif)](https://wiki.supercombo.gg/w/File:(akumacmk).gif)
-> Crouch roundhouse
+> Crouch HK
 [![(akumachk).gif](https://wiki.supercombo.gg/images/8/8d/%28akumachk%29.gif)](https://wiki.supercombo.gg/w/File:(akumachk).gif)
 > Tatsu (any)
 [![(akumatzk).gif](https://wiki.supercombo.gg/images/0/07/%28akumatzk%29.gif)](https://wiki.supercombo.gg/w/File:(akumatzk).gif)
