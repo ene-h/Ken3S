@@ -6,37 +6,37 @@
 ###### CORNER
 - [[General stuff/Terminology#Target combo\|TC]] shoryu kara-shoryu 
 ### UOH setup
-- Low short > low strong
+- crouch LK > crouch MP
 ### Shippu cross-up setup
 - Walk up jump, positioning determines cross-up.
-### Short jab short
+### Crouch LK>LP>LK
 - YES
 ### Shoryu confirm
-- Crouch short > crouch jab xx Shoryu 
+- Crouch LK > crouch LP xx Shoryu 
 ### Notes
 - EX air tatsu is a good air to air
 - Keep distance
-- [[General stuff/Terminology#Cancel buffering\|Cancel buffering]] crouch fierce xx shippu is not a bad idea
-- On crouching Hugo, far fierce links to super (2f)
-- You get basically nothing on cross-up forward, only like max +4
-- You can TC xx strong DP xx shippu on crouching Hugo
+- [[General stuff/Terminology#Cancel buffering\|Cancel buffering]] crouch HP xx shippu is not a bad idea
+- On crouching Hugo, far HP links to super (2f)
+- You get basically nothing on cross-up MK, only like max +4
+- You can TC xx MP DP xx shippu on crouching Hugo
 
 > [!danger]- Raw Shippu punish
-> Stand strong
+> Stand MP
 > [![(hugomp).gif](https://wiki.supercombo.gg/images/0/0c/%28hugomp%29.gif)](https://wiki.supercombo.gg/w/File:(hugomp).gif)
-> Stand fierce (1f)
+> Stand HP (1f)
 > ![(hugohp).gif](https://wiki.supercombo.gg/images/6/69/%28hugohp%29.gif)
-> Crouch fierce (walk up crouch forward xx strong DP xx shippu)
+> Crouch HP (walk up crouch MK xx MP DP xx shippu)
 > [![(hugochp).gif](https://wiki.supercombo.gg/images/7/7d/%28hugochp%29.gif)](https://wiki.supercombo.gg/w/File:(hugochp).gif)
-> Stand forward
+> Stand MK
 > [![(hugomk).gif](https://wiki.supercombo.gg/images/7/7b/%28hugomk%29.gif)](https://wiki.supercombo.gg/w/File:(hugomk).gif)
-> Stand roundhouse (honestly just parry it its slow as balls)
+> Stand HK (honestly just parry it its slow as balls)
 > [![(hugojhk).gif](https://wiki.supercombo.gg/images/c/cf/%28hugojhk%29.gif)](https://wiki.supercombo.gg/w/File:(hugojhk).gif)
-Crouch roundhouse (ass) (walk up crouch forward xx strong DP xx shippu)
+Crouch HK (ass) (walk up crouch MK xx MP DP xx shippu)
 [![(hugochk).gif](https://wiki.supercombo.gg/images/0/07/%28hugochk%29.gif)](https://wiki.supercombo.gg/w/File:(hugochk).gif)
-Towards fierce
+Towards HP
 [![(hugofhp).gif](https://wiki.supercombo.gg/images/2/20/%28hugofhp%29.gif)](https://wiki.supercombo.gg/w/File:(hugofhp).gif)
-Lariat (any) (strong DP xx shippu seems is also possible and seems most reliable)
+Lariat (any) (MP DP xx shippu seems is also possible and seems most reliable)
 [![(hugoml).gif](https://wiki.supercombo.gg/images/f/f6/%28hugoml%29.gif)](https://wiki.supercombo.gg/w/File:(hugoml).gif)
 SA3 (watch out for timing mixups)
 [![(hugosa3).gif](https://wiki.supercombo.gg/images/7/70/%28hugosa3%29.gif)](https://wiki.supercombo.gg/w/File:(hugosa3).gif)
