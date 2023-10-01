@@ -3,41 +3,41 @@
 ---
 
 ### Shoryu-shoryu
-###### CORNER: Stand fierce shoryu kara-shoryu
+###### CORNER: Stand HP shoryu kara-shoryu
 ### UOH setup
--  Close strong > low strong
+-  Close MP > crouch MP
 ### Shippu cross-up setup
-- (Down forward) Superjump air tatsu to cross-up.
+- (Down MK) Superjump air tatsu to cross-up.
 - Superjump whiff normal to land in front. Tiger knee motion 
-### Short jab short
+### Crouch LK>LP>LK
 - YES
 ### Shoryu confirm
-- Crouch short > crouch short xx Shoryu
+- Crouch LK > crouch LK xx Shoryu
 ### Notes
-- Oro's far forward beats Ken’s crouch forward (Oro’s farthest-reaching poke)
-	- Crouch fierce xx shippu beats this clean, can be [[General stuff/Terminology#Cancel buffering\|cancel buffered]]
+- Oro's far MK beats Ken’s crouch MK (Oro’s farthest-reaching poke)
+	- Crouch HP xx shippu beats this clean, can be [[General stuff/Terminology#Cancel buffering\|cancel buffered]]
 - You can shoryu through his fireballs and hit his hand
 - UOH after shippu in the corner is a little harder, you have to crouch cancel the recovery of shippu into taunt, and UOH as soon as possible. This way the UOH hits meaty, it's not a spacing thing
 - Kara more than doubles his throw range
 
 > [!danger]- Raw Shippu punish
-> Stand fierce
+> Stand HP
 [![(orohp).gif](https://wiki.supercombo.gg/images/b/b1/%28orohp%29.gif)](https://wiki.supercombo.gg/w/File:(orohp).gif)
-> Close strong
+> Close MP
 [![(oroclosemp).gif](https://wiki.supercombo.gg/images/c/c9/%28oroclosemp%29.gif)](https://wiki.supercombo.gg/w/File:(oroclosemp).gif)
-> Far forward
+> Far MK
 [![(oromk).gif](https://wiki.supercombo.gg/images/7/75/%28oromk%29.gif)](https://wiki.supercombo.gg/w/File:(oromk).gif)
-> Roundhouse
+> HK
 [![(orohk).gif](https://wiki.supercombo.gg/images/2/2b/%28orohk%29.gif)](https://wiki.supercombo.gg/w/File:(orohk).gif)
-> Close forward
+> Close MK
 [![(oroclosemk).gif](https://wiki.supercombo.gg/images/7/74/%28oroclosemk%29.gif)](https://wiki.supercombo.gg/w/File:(oroclosemk).gif)
-> Towards strong
+> Towards MP
 [![(orofmp).gif](https://wiki.supercombo.gg/images/9/93/%28orofmp%29.gif)](https://wiki.supercombo.gg/w/File:(orofmp).gif)
-> Crouch strong
+> Crouch MP
 [![(orocmp).gif](https://wiki.supercombo.gg/images/9/91/%28orocmp%29.gif)](https://wiki.supercombo.gg/w/File:(orocmp).gif)
-> Crouch roundhouse
+> Crouch HK
 [![(orochk).gif](https://wiki.supercombo.gg/images/f/f4/%28orochk%29.gif)](https://wiki.supercombo.gg/w/File:(orochk).gif)
 > Fireball (point blank)
 [![(orosdpm).gif](https://wiki.supercombo.gg/images/1/16/%28orosdpm%29.gif)](https://wiki.supercombo.gg/w/File:(orosdpm).gif)
-> Hitgrab (also low forward xx shippu, any)
+> Hitgrab (also crouch MK xx shippu, any)
 [![(orohpd).gif](https://wiki.supercombo.gg/images/7/7f/%28orohpd%29.gif)](https://wiki.supercombo.gg/w/File:(orohpd).gif)
