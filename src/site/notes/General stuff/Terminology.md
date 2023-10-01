@@ -2,9 +2,15 @@
 {"dg-publish":true,"permalink":"/general-stuff/terminology/"}
 ---
 
+# Jab, Strong, Fierce
+Old names for LP, MP and HP
+# Short, Forward, Roundhouse
+Old names for LK, MK and HK
 # Cancel buffering
+Most often used with crouch MK xx shippu or crouch HP xx shippu
 > *[Whiffing](https://glossary.infil.net/?t=Whiff "See Term: Whiff") a [normal attack](https://glossary.infil.net/?t=Normal "See Term: Normal") in front of you, and inputting another attack as a [cancel](https://glossary.infil.net/?t=Cancel "See Term: Cancel") afterwards. When your attack whiffs, nothing further happens, but if your opponent accidentally runs into the attack, the cancel happens automatically. This is a very common [option select](https://glossary.infil.net/?t=Option Select "See Term: Option Select") that will really help you get more mileage out of your strong [pokes](https://glossary.infil.net/?t=Poke "See Term: Poke"), and you don't have to take any extra risk! You just do the same inputs and let the game take the correct action based on what your opponent does.*
 # Target combo
+Ken's target combo is close MP > close HP
 > *A character-specific attack that lets a [normal](https://glossary.infil.net/?t=Normal "See Term: Normal") cancel into another, different normal. Some target combos go on for longer too, sometimes stringing together 3 or 4 normals into a long attack sequence. It's important to note these are specifically programmed to only certain characters, and often appear in their move lists as a unique ability.*
 # Crouch tech
 >*A technique in some games where you try to [tech a throw](https://glossary.infil.net/?t=Throw Tech "See Term: Throw Tech") while you are crouching, and if a throw never comes, your tech attempt becomes a relatively low risk crouching [normal](https://glossary.infil.net/?t=Normal "See Term: Normal") instead. This only works in a few games though, since many modern games will simply force you to [whiff](https://glossary.infil.net/?t=Whiff "See Term: Whiff") a throw if you try to tech, even if you are crouching. Street Fighter IV is the most famous example of a game where crouch teching (and other throw tech [option selects](https://glossary.infil.net/?t=Option Select "See Term: Option Select"), like [four finger teching](https://glossary.infil.net/?t=Four Finger Tech "See Term: Four Finger Tech")) is a very common defensive strategy.*
