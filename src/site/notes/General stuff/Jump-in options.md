@@ -3,20 +3,20 @@
 ---
 
 ### Attacks
-- EX tatsu > stand forward
+- EX tatsu > stand MK
 - EX tatsu > dash DP > kara-DP
-- Roundhouse > low forward > strong DP > Shippu
-- Roundhouse (far) > sweep
-- Roundhouse (high) > Shippu
-- Roundhouse > throw
-- Roundhouse > backdash low forward xx Shippu
-- Cross-up forward > close strong > Jab DP
-- Cross-up forward > short short Shippu
-- Cross-up forward > throw
-- Cross-up forward > backdash low forward xx Shippu
-- Cross-up forward > [[General stuff/Terminology#Target combo\|TC]] Shippu
+- HK > crouch MK > MP DP > Shippu
+- HK (far) > sweep
+- HK (high) > Shippu
+- HK > (wait) > throw
+- HK > backdash > crouch MK xx Shippu
+- Cross-up MK > close MP > LP DP
+- Cross-up MK > LK LK Shippu
+- Cross-up MK > throw
+- Cross-up MK > backdash > crouch MK xx Shippu
+- Cross-up MK > [[General stuff/Terminology#Target combo\|TC]] Shippu
 ### Empty Jump (parry)
 - Throw
 - Low parry
-- short short Shippu
+- LK LK Shippu
 - [[General stuff/Terminology#Target combo\|TC]] Shippu
