@@ -7,7 +7,7 @@
 - [[General stuff/Terminology#Target combo\|TC]] shoryu kara-shoryu 
 ### UOH setup
 - Close MP > crouch MP
-### Shippu cross-up setup
+### SA3 cross-up setup
 - Normal superjump or tatsu at the end.
 - Dash up walk back jump
 ### Crouch LK>LP>LK
@@ -19,10 +19,10 @@
 - Ken stand HK is a good button to use here
 - Towards MK (overhead hopkick, plus a billion on block) is safe on parry when spaced
 - Her LP is +6, used for trapping, interrupting is a gamble
-- Do not mindlessly go into super, a lot of her moves get her off the ground, and if she is hit out of them shippu will whiff due to air-reset status
+- Do not mindlessly go into super, a lot of her moves get her off the ground, and if she is hit out of them SA3 will whiff due to air-reset status
 - She has multiple 2-hit jump-ins
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 > Close HK
 > [![(ibukiclosehk).gif](https://wiki.supercombo.gg/images/d/df/%28ibukiclosehk%29.gif)](https://wiki.supercombo.gg/w/File:(ibukiclosehk).gif)
 > Crouch HP
