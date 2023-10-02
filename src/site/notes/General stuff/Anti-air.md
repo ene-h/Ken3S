@@ -13,5 +13,5 @@
 - Crouch HP
 ### Parry
 - Immediate DP
-- crouch MK xx MP DP xx Shippu
+- crouch MK xx MP DP xx SA3
 - [[General stuff/Terminology#Target combo\|TC]] super
