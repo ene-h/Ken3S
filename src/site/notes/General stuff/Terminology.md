@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-stuff/terminology/","noteIcon":""}
+{"dg-publish":true,"permalink":"/general-stuff/terminology/"}
 ---
 
 # Jab, Strong, Fierce
