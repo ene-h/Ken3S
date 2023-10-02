@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matchups/sean/"}
+{"dg-publish":true,"permalink":"/matchups/sean/","noteIcon":""}
 ---
 
 ### Shoryu-shoryu
