@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matchups/gouki/","noteIcon":""}
+{"dg-publish":true,"permalink":"/matchups/gouki/"}
 ---
 
 ### Shoryu-shoryu
