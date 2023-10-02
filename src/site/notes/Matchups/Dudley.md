@@ -6,23 +6,23 @@
 - NO
 ### UOH setup
 - Close MP > crouch MP
-### Shippu cross-up setup
+### SA3 cross-up setup
 - Walk forward slightly superjump to cross-up. Superjump to land in front.
 ### Crouch LK>LP>LK
-- YES (also LK LK LK)
+- YES (also LK>LK>LK)
 ### Notes
 - Use far HP as anti-air
-- On crouching Dudley, use TC xx MP DP xx Shippu or [[General stuff/Terminology#Target combo\|TC]] xx HP DP
+- On crouching Dudley, use TC xx MP DP xx SA3 or [[General stuff/Terminology#Target combo\|TC]] xx HP DP
 - Low parry > stand block > watch for crouch HK on wakeup to partly avoid Dudley's MPest mix-up
-- Crouch HP xx shippu to stuff buttons
+- Crouch HP xx SA3 to stuff buttons
 - Watch out for whiff punishes with stand HK into big damage
 	- Use EX hadou if they overuse this
-	- Maybe try stand MP whiffpunish, or buffer the qcfs and raw shippu it
+	- Maybe try stand MP whiffpunish, or buffer the qcfs and raw SA3 it
 	- If they're constantly doing it, you don't really have to worry about reacting to it, just walk up and crouch MK him, he pushes button, he gets hit
 	- If you want to push a button to contest the space, Ken's far HP is probably pretty good and prevents Dudley from jumping much
-- You can shippu when you block a normal xx ducking
+- You can SA3 when you block a normal xx ducking
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 > ###### (Almost all of Dudley's normals are plus)
 > Crouch MK
 [![(dudleycmk).gif](https://wiki.supercombo.gg/images/c/c4/%28dudleycmk%29.gif)](https://wiki.supercombo.gg/w/File:(dudleycmk).gif)
