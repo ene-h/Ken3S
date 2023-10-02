@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-stuff/uoh-setups/","noteIcon":""}
+{"dg-publish":true,"permalink":"/general-stuff/uoh-setups/"}
 ---
 
 ### Crouch LK > crouch MP
