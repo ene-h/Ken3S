@@ -6,7 +6,7 @@
 -  [[General stuff/Terminology#Target combo\|TC]] LP shoryu LP/MP shoryu (plink MP into LP to make the timing easier)
 ### UOH setup
 - crouch LK > crouch MP
-### Shippu cross-up setup
+### SA3 cross-up setup
 - Walk up jump, timing determines cross-up.
 ### Crouch LK>LP>LK
 - NO
@@ -21,7 +21,7 @@
 - They may crouch LK xx SA2 on wakeup
 - His low buttons are otherwise not very scary, you should probably do high parries more than low parries
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 > Stand HP
 > [![(qhp).gif](https://wiki.supercombo.gg/images/8/8f/%28qhp%29.gif)](https://wiki.supercombo.gg/w/File:(qhp).gif)
 > Crouch HP (1f)
