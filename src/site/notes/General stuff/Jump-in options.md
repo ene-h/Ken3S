@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-stuff/jump-in-options/","noteIcon":""}
+{"dg-publish":true,"permalink":"/general-stuff/jump-in-options/"}
 ---
 
 ### Attacks
