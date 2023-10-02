@@ -10,21 +10,21 @@
 ### UOH setup
 - Crouch LK > crouch MP
 - Close MP > crouch MP
-### Shippu cross-up setup
+### SA3 cross-up setup
 - Walk forward regular jump. 
 - Hold down forward, crouch LP superjump HK (immediate timing does a cross-up, later lands in front. Mask a walk forward with the LP whiff.) 
 ### Crouch LK>LP>LK
-- YES (also LK LK LK)
+- YES (also LK>LK>LK)
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu
 ### Notes
-- Spam crouch LK in neutral, confirm into shippu, catches forward dash (good against round start dash)
+- Spam crouch LK in neutral, confirm into SA3, catches forward dash (good against round start dash)
 - Makotos love jumping around, use EX air tatsu > DP or stand MK
-- On standing Makoto, use [[General stuff/Terminology#Target combo\|TC]] xx MP DP xx Shippu
+- On standing Makoto, use [[General stuff/Terminology#Target combo\|TC]] xx MP DP xx SA3
 - Watch out for TK EX Tsurugi oki
 - Tsurugi alters her jump arc quite a lot
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 > Stand HP
 [![(makotohp).gif](https://wiki.supercombo.gg/images/6/6a/%28makotohp%29.gif)](https://wiki.supercombo.gg/w/File:(makotohp).gif)
 > Crouch HP
