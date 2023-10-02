@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matchups/urien/","noteIcon":""}
+{"dg-publish":true,"permalink":"/matchups/urien/"}
 ---
 
 ### Shoryu-shoryu
