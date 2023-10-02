@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matchups/chun/","noteIcon":""}
+{"dg-publish":true,"permalink":"/matchups/chun/"}
 ---
 
 ### Shoryu-shoryu
