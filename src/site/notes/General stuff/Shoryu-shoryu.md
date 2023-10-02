@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-stuff/shoryu-shoryu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/general-stuff/shoryu-shoryu/"}
 ---
 
 # Midscreen: 
