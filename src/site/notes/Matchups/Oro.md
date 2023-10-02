@@ -6,7 +6,7 @@
 ###### CORNER: Stand HP shoryu kara-shoryu
 ### UOH setup
 -  Close MP > crouch MP
-### Shippu cross-up setup
+### SA3 cross-up setup
 - (Down towards) Superjump air tatsu to cross-up.
 - Superjump whiff normal to land in front. Tiger knee motion 
 ### Crouch LK>LP>LK
@@ -15,12 +15,12 @@
 - Crouch LK > crouch LK xx Shoryu
 ### Notes
 - Oro's far MK beats Ken’s crouch MK (Oro’s farthest-reaching poke)
-	- Crouch HP xx shippu beats this clean, can be [[General stuff/Terminology#Cancel buffering\|cancel buffered]]
+	- Crouch HP xx SA3 beats this clean, can be [[General stuff/Terminology#Cancel buffering\|cancel buffered]]
 - You can shoryu through his fireballs and hit his hand
-- UOH after shippu in the corner is a little harder, you have to crouch cancel the recovery of shippu into taunt, and UOH as soon as possible. This way the UOH hits meaty, it's not a spacing thing
+- UOH after SA3 in the corner is a little harder, you have to crouch cancel the recovery of SA3 into taunt, and UOH as soon as possible. This way the UOH hits meaty, it's not a spacing thing
 - Kara more than doubles his throw range
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 > Stand HP
 [![(orohp).gif](https://wiki.supercombo.gg/images/b/b1/%28orohp%29.gif)](https://wiki.supercombo.gg/w/File:(orohp).gif)
 > Close MP
@@ -39,5 +39,5 @@
 [![(orochk).gif](https://wiki.supercombo.gg/images/f/f4/%28orochk%29.gif)](https://wiki.supercombo.gg/w/File:(orochk).gif)
 > Fireball (point blank)
 [![(orosdpm).gif](https://wiki.supercombo.gg/images/1/16/%28orosdpm%29.gif)](https://wiki.supercombo.gg/w/File:(orosdpm).gif)
-> Hitgrab (also crouch MK xx shippu, any)
+> Hitgrab (also crouch MK xx SA3, any)
 [![(orohpd).gif](https://wiki.supercombo.gg/images/7/7f/%28orohpd%29.gif)](https://wiki.supercombo.gg/w/File:(orohpd).gif)
