@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matchups/dudley/"}
+{"dg-publish":true,"permalink":"/matchups/dudley/","noteIcon":""}
 ---
 
 ### Shoryu-shoryu
