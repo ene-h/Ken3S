@@ -8,7 +8,7 @@
 - [[General stuff/Terminology#Target combo\|TC]] LP shoryu LP/MP shoryu (plink MP into LP to make the timing easier)
 ### UOH setup
 - crouch LK > crouch MP
-### Shippu cross-up setup
+### SA3 cross-up setup
 - Hold down, stand LP superjump
 ### Crouch LK>LP>LK
 - YES
@@ -23,7 +23,7 @@
 - **Cannot parry during airdash!**
 - If you're both whiffing to build bar he may EX fireball you and get oki
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 > Stand MK (but can be superjump-canceled)
 > [![(twelvemk).gif](https://wiki.supercombo.gg/images/8/8e/%28twelvemk%29.gif)](https://wiki.supercombo.gg/w/File:(twelvemk).gif)
 > Crouch HP
