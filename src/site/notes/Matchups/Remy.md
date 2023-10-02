@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matchups/remy/"}
+{"dg-publish":true,"permalink":"/matchups/remy/","noteIcon":""}
 ---
 
 ### Shoryu-shoryu
