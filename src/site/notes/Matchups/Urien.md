@@ -8,20 +8,20 @@
 - [[General stuff/Terminology#Target combo\|TC]] LP shoryu LP/MP shoryu (plink MP into LP to make the timing easier)
 ### UOH setup
 - Close MP > crouch MP
-### Shippu cross-up setup
+### SA3 cross-up setup
 - Walk up jump over whiff HK/HP for meter. You can also dash up -> walk back.
 ### Crouch LK>LP>LK
 - NO
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
 ### Notes
-- Use [[General stuff/Terminology#Target combo\|TC]] xx MP DP xx shippu when Urien is crouching
+- Use [[General stuff/Terminology#Target combo\|TC]] xx MP DP xx SA3 when Urien is crouching
 - Play safe and let him hang himself, Urien has a lot of health
 - Shut him down with lights
 - He has no reversal, but headbutt dodges Ken's low kick normals
 - His dash is very fast
 - Don't jump too much or risk anti-air fireball into a million tackles and corner pressure
-- Try [[General stuff/Terminology#Cancel buffering\|cancel buffering]] crouch HP xx shippu to stuff Urien's normals
+- Try [[General stuff/Terminology#Cancel buffering\|cancel buffering]] crouch HP xx SA3 to stuff Urien's normals
 	- It even beats his crouch MK, which he does not get much off of, but it's a very annoying poke
 - EX tatsu cross-up is hard to punish for Urien
 - Don't let him build meter, but don't start rushing him down like an idiot either, stay in a threatening range
@@ -41,14 +41,14 @@
 - Urien has no answer for lk tatsu on block
 - You can dash > close MP xx DP if you parry sweep
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 > Far HP (shake my hand) (1f)
 [![Urienfarhp.gif](https://wiki.supercombo.gg/images/d/dc/Urienfarhp.gif)](https://wiki.supercombo.gg/w/File:Urienfarhp.gif)
 > Stand MK
 [![Urienfarmk.gif](https://wiki.supercombo.gg/images/8/82/Urienfarmk.gif)](https://wiki.supercombo.gg/w/File:Urienfarmk.gif)
 > Stand HK (also on hit!)
 [![Urienfarhk.gif](https://wiki.supercombo.gg/images/f/f0/Urienfarhk.gif)](https://wiki.supercombo.gg/w/File:Urienfarhk.gif)
-> Crouch HP (crouch MP or MK xx shippu should also work)
+> Crouch HP (crouch MP or MK xx SA3 should also work)
 [![Uriencrouchinghp.gif](https://wiki.supercombo.gg/images/d/d1/Uriencrouchinghp.gif)](https://wiki.supercombo.gg/w/File:Uriencrouchinghp.gif)
 > Crouch HK (won't work on max range)
 [![Uriencrouchinghk.gif](https://wiki.supercombo.gg/images/d/d5/Uriencrouchinghk.gif)](https://wiki.supercombo.gg/w/File:Uriencrouchinghk.gif)
