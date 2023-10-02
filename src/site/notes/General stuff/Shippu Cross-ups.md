@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-stuff/shippu-cross-ups/"}
+{"dg-publish":true,"permalink":"/general-stuff/shippu-cross-ups/","noteIcon":""}
 ---
 
 Nica KO Post-SA3 mix-up: https://youtu.be/eESEl_MWX0A
