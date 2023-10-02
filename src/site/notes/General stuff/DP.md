@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-stuff/dp/","noteIcon":""}
+{"dg-publish":true,"permalink":"/general-stuff/dp/"}
 ---
 
 # LP DP
