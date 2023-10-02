@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-stuff/super/","noteIcon":""}
+{"dg-publish":true,"permalink":"/general-stuff/super/"}
 ---
 
 ### Confirms
