@@ -8,27 +8,27 @@
 - [[General stuff/Terminology#Target combo\|TC]] LP shoryu LP/MP shoryu (plink MP into LP to make the timing easier)
 ### UOH setup
 - crouch MP > crouch LK
-### Shippu cross-up setup
+### SA3 cross-up setup
 - crouch LP super jump mk. Holding down helps
 ### Crouch LK>LP>LK
 - NO
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu  (whiffs when Necro is hit crouching)
 ### Notes
-- Fast wakeup, no taunt after corner shippu if you want a meaty
+- Fast wakeup, no taunt after corner SA3 if you want a meaty
 - Use stand MP > super in neutral
 - You can LP DP from pretty far to catch limbs (risky)
 - LP spin hook is +1, necro players will often press back MP after this and maybe mix it up with snake fang
 - You can down parry drill to avoid cross-ups
 - When you high parry drill, the most consistent option is to just DP immediately
 - Throw range is a little further than ken
-- Shippu cross-up is not that good
+- SA3 cross-up is not that good
 - Good necro players will whiff-punish (crouch) MK and HK with super
 - Reaction DP drill
 - Watch for round start snake fang
 - Has a lot of bad hitboxes, so make sure to buffer double qcf after crouch / stand MP in case you stuff something
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 > HP (also on hit) (watch for range)
 > [![(necrohp).gif](https://wiki.supercombo.gg/images/f/f2/%28necrohp%29.gif)](https://wiki.supercombo.gg/w/File:(necrohp).gif)
 > Back HP (1f) (watch for range)
