@@ -8,7 +8,7 @@
 - Rewarding (if you get the juggle) but risky anti-air
 - Can sometimes go through fireballs
 # MP DP
-- Does more damage than HP when canceled into shippu
+- Does more damage than HP when canceled into SA3
 - Looks like LP but is 2 hits, good for mixing up anti-air
 - In the corner, you can juggle with this one (see [[Ken#MATCHUP VS\|matchup pages]])
 # HP DP
