@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-stuff/oki/","noteIcon":""}
+{"dg-publish":true,"permalink":"/general-stuff/oki/"}
 ---
 
 Because Ken hasn't got a command grab or fast overhead (which means you can usually get away with down backing on wakeup) his wakeup pressure mostly revolves around him using raw throws or tick throws and then baiting you into teching and confirming into super from it 
