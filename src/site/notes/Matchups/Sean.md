@@ -8,7 +8,7 @@
 - [[General stuff/Terminology#Target combo\|TC]] LP shoryu LP/MP shoryu (plink MP into LP to make the timing easier)
 ### UOH setup
 - crouch LK > crouch MP
-### Shippu cross-up setup
+### SA3 cross-up setup
 - Whiff stand MP -> Superjump.
 - Walk up, jump whiff HK.
 - Dash -> walk backward -> jump whiff HK.
@@ -25,7 +25,7 @@
 - Stand MK kinda beats Ken crouch MK
 - Watch out for basketball taunt oki, kinda like Dudley rose
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 > Stand HP
 > [![(seanhp).gif](https://wiki.supercombo.gg/images/f/f8/%28seanhp%29.gif)](https://wiki.supercombo.gg/w/File:(seanhp).gif)
 > Close HP
@@ -47,5 +47,5 @@ Ryuubi kyaku (overhead wheelkick) (any except EX) (1f)
 [![(seanwheel).gif](https://wiki.supercombo.gg/images/1/1d/%28seanwheel%29.gif)](https://wiki.supercombo.gg/w/File:(seanwheel).gif)
 Tornado kick (any, EX is 1f) (also on standing hit!)
 [![(seandtornadokick).gif](https://wiki.supercombo.gg/images/8/81/%28seandtornadokick%29.gif)](https://wiki.supercombo.gg/w/File:(seandtornadokick).gif)
-Tackle (any) (can also get walk towards > crouch MK xx MP DP xx Shippu)
+Tackle (any) (can also get walk towards > crouch MK xx MP DP xx SA3)
 
