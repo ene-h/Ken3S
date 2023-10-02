@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matchups/alex/"}
+{"dg-publish":true,"permalink":"/matchups/alex/","noteIcon":""}
 ---
 
 ### Shoryu-shoryu
