@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matchups/necro/"}
+{"dg-publish":true,"permalink":"/matchups/necro/","noteIcon":""}
 ---
 
 ### Shoryu-shoryu
