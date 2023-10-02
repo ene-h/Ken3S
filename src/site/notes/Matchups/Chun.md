@@ -25,6 +25,7 @@
 - You can high parry chun's sweep
 - Reaction parry hazanshu
 - After SA3 in the corner, you are perfectly spaced for (taunt >) UOH > SA3
+- You can use raw SA3 as a whiffpunish
 
 > [!danger]- Raw SA3 punish
 > crouch MP (neko-pan / cat punch)
