@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matchups/makoto/"}
+{"dg-publish":true,"permalink":"/matchups/makoto/","noteIcon":""}
 ---
 
 ### Shoryu-shoryu
