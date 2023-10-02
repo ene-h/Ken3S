@@ -8,7 +8,7 @@
 - [[General stuff/Terminology#Target combo\|TC]] xx LP shoryu > LP/MP shoryu (plink MP into LP to make the timing easier)
 ### UOH setup
 - Close MP > crouch MP
-### Shippu cross-up setup
+### SA3 cross-up setup
 - Superjump, timing determines cross-up. Down forward superjump helps with cross-up.
 ### Crouch LK>LP>LK
 - YES
@@ -20,9 +20,9 @@
 - Far kara-throw
 - Has lots of overheads
 - Back HK (big wheel kick) is +4, and dodges throw
-- Elena might want to poke a lot with stand MK, whiff-punish with crouch MK xx shippu
+- Elena might want to poke a lot with stand MK, whiff-punish with crouch MK xx SA3
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 >  Far HP
 >  [![(elenahp).gif](https://wiki.supercombo.gg/images/2/27/%28elenahp%29.gif)](https://wiki.supercombo.gg/w/File:(elenahp).gif)
 >  Crouch MP (looks like crouch LP)
@@ -31,16 +31,16 @@
 >  [![(elenachp).gif](https://wiki.supercombo.gg/images/9/9a/%28elenachp%29.gif)](https://wiki.supercombo.gg/w/File:(elenachp).gif)
 >  Crouch MK (looks like crouch LK)
 >  [![(elenacmk).gif](https://wiki.supercombo.gg/images/4/4f/%28elenacmk%29.gif)](https://wiki.supercombo.gg/w/File:(elenacmk).gif)
->  Crouch HK (too much pushback for crouch MK xx shippu)
+>  Crouch HK (too much pushback for crouch MK xx SA3)
 >  [![(elenachk).gif](https://wiki.supercombo.gg/images/6/60/%28elenachk%29.gif)](https://wiki.supercombo.gg/w/File:(elenachk).gif)
 >  Towards MK
 >  [![(elenafmk).gif](https://wiki.supercombo.gg/images/9/99/%28elenafmk%29.gif)](https://wiki.supercombo.gg/w/File:(elenafmk).gif)
->  Slide (at worst -9, so crouch MK (xx MP DP) xx shippu should also work)
+>  Slide (at worst -9, so crouch MK (xx MP DP) xx SA3 should also work)
 >  [![(elenadfhk).gif](https://wiki.supercombo.gg/images/8/8d/%28elenadfhk%29.gif)](https://wiki.supercombo.gg/w/File:(elenadfhk).gif)
 >  Spin scythe (all non-EX except LK version)
 >  [![(elenascy).gif](https://wiki.supercombo.gg/images/b/ba/%28elenascy%29.gif)](https://wiki.supercombo.gg/w/File:(elenascy).gif)
 >  Rhino horn (any non-EX) (not that easy)
 >  [![(elenaryh).gif](https://wiki.supercombo.gg/images/d/d7/%28elenaryh%29.gif)](https://wiki.supercombo.gg/w/File:(elenaryh).gif)
-> Lynx tail (any, but HK is 4 hits and EX is 5) (crouch MK xx shippu should also work)
+> Lynx tail (any, but HK is 4 hits and EX is 5) (crouch MK xx SA3 should also work)
 > [![(elenalxt).gif](https://wiki.supercombo.gg/images/8/84/%28elenalxt%29.gif)](https://wiki.supercombo.gg/w/File:(elenalxt).gif)
 > 
