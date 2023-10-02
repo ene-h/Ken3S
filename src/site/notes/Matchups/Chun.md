@@ -9,7 +9,7 @@
 - [[General stuff/Terminology#Target combo\|TC]] LP shoryu LP/MP shoryu (plink MP into LP to make the timing easier)
 ### UOH setup
 - crouch LK > crouch MP
-### Shippu cross-up setup
+### SA3 cross-up setup
 - Walk forward, stop, normal jump.
 - Hold down forward to cross-up after superjump. 
 - Dash dance -> superjump. 
@@ -19,14 +19,14 @@
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
 ### Notes
-- Use UOH > Shippu in neutral
+- Use UOH > SA3 in neutral
 - Low parry instead of trying to whiff punish chun's crouch MK
 - Try high parrying in chun's stand HP range
 - You can high parry chun's sweep
 - Reaction parry hazanshu
-- After shippu in the corner, you are perfectly spaced for (taunt >) UOH > shippu
+- After SA3 in the corner, you are perfectly spaced for (taunt >) UOH > SA3
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 > crouch MP (neko-pan / cat punch)
 [![(chunlicmp).gif](https://wiki.supercombo.gg/images/f/ff/%28chunlicmp%29.gif)](https://wiki.supercombo.gg/w/File:(chunlicmp).gif)
 > Close HK (knee)
@@ -35,6 +35,6 @@
 [![(chunlimk).gif](https://wiki.supercombo.gg/images/8/8a/%28chunlimk%29.gif)](https://wiki.supercombo.gg/w/File:(chunlimk).gif)
 > Sweep
 [![(chunlichk).gif](https://wiki.supercombo.gg/images/c/cb/%28chunlichk%29.gif)](https://wiki.supercombo.gg/w/File:(chunlichk).gif)
-> EX SBK (crouch MK xx Shippu also works but seems unreliable)
-> (Can also get MP DP xx shippu, easier when stand-blocking)
+> EX SBK (crouch MK xx SA3 also works but seems unreliable)
+> (Can also get MP DP xx SA3, easier when stand-blocking)
 [![(chunlisbkex).gif](https://wiki.supercombo.gg/images/6/6d/%28chunlisbkex%29.gif)](https://wiki.supercombo.gg/w/File:(chunlisbkex).gif)
