@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matchups/oro/"}
+{"dg-publish":true,"permalink":"/matchups/oro/","noteIcon":""}
 ---
 
 ### Shoryu-shoryu
