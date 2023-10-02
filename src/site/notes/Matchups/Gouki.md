@@ -8,7 +8,7 @@
 - [[General stuff/Terminology#Target combo\|TC]] xx LP shoryu > LP/MP shoryu (plink MP into LP to make the timing easier)
 ### UOH setup
 - crouch LK > crouch MP
-### Shippu cross-up setup
+### SA3 cross-up setup
 - Whiff stand MP -> Superjump.
 - Walk forward, jump whiff HK.
 - Dash -> walk backward -> jump whiff HK.
@@ -18,16 +18,16 @@
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu (whiffs when you hit Gouki crouching)
 ### Notes
-- Make sure to punish heavy tatsu (raw shippu) so your opponent is discouraged from spamming it
-- Parry divekick xx shoryu OR parry divekick > crouch MK xx MP shoryu xx shippu
+- Make sure to punish heavy tatsu (raw SA3) so your opponent is discouraged from spamming it
+- Parry divekick xx shoryu OR parry divekick > crouch MK xx MP shoryu xx SA3
 - Don't get wakeup demon'd or KKZ'd
 - Anti-air demon flip (they can't air-parry) or dash under
 - Gouki air tatsu often seems to beat ken ex air tatsu, otherwise ex air tatsu is pretty good against a gouki that likes to bounce around
 - Dash under air fireball
-- Consider using shoryu instead of shippu punishes for stun
+- Consider using shoryu instead of SA3 punishes for stun
 - His kara-throw goes far
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 > Far HP
 [![(akumahp).gif](https://wiki.supercombo.gg/images/c/cf/%28akumahp%29.gif)](https://wiki.supercombo.gg/w/File:(akumahp).gif)
 > Close HP
