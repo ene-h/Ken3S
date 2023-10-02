@@ -7,20 +7,20 @@
 - Stand HP shoryu kara-shoryu
 ### UOH setup
 - crouch LK > crouch MP
-### Shippu cross-up setup
+### SA3 cross-up setup
 - Walk up -> superjump. Air tatsu after a superjump for cross-up.
 ### Crouch LK>LP>LK
-- YES (or LK LK LK)
+- YES (or LK>LK>LK)
 ### Shoryu confirm
 - Crouch LK > stand LP xx Shoryu (CORNER ONLY)
 ### Notes
 - Parry xx DP divekick
 - Red parry shoulder if they like to do 123 xx Shoulder xx Activate
-- (Hard) Red parry 123 > HP > (genei activation) > MP DP xx Shippu 
+- (Hard) Red parry 123 > HP > (genei activation) > MP DP xx SA3 
 - Watch out for dive kick cross-up in the corner (mostly on your wake-up)
 - High connect blocked dive kick into button is usually not real (blue parry)
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 > - Far MP
 > [![(yunmp).gif](https://wiki.supercombo.gg/images/1/12/%28yunmp%29.gif)](https://wiki.supercombo.gg/w/File:(yunmp).gif)
 > - Far HP (also on hit!)
