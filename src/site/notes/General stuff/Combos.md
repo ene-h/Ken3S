@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-stuff/combos/","noteIcon":""}
+{"dg-publish":true,"permalink":"/general-stuff/combos/"}
 ---
 
 # Meterless punish combo
