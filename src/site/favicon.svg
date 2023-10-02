@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="700" height="689">
 <path d="M0 0 C231 0 462 0 700 0 C700 227.37 700 454.74 700 689 C469 689 238 689 0 689 C0 461.63 0 234.26 0 0 Z " fill="#FEFEFE" transform="translate(0,0)"/>
