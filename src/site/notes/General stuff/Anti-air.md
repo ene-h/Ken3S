@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-stuff/anti-air/","noteIcon":""}
+{"dg-publish":true,"permalink":"/general-stuff/anti-air/"}
 ---
 
 - HP [[General stuff/DP\|DP]]
