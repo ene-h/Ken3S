@@ -6,7 +6,7 @@
 ### Quick links
 - [[General stuff/Shoryu-shoryu\|Shoryu-shoryu]]
 - [[General stuff/UOH Setups\|UOH Setups]]
-- [[General stuff/Shippu Cross-ups\|Shippu Cross-ups]]
+- [[SA3 Cross-ups\|SA3 Cross-ups]]
 - [[General stuff/Oki\|Oki]]
 - [[General stuff/Jump-in options\|Jump-in options]]
 - [[General stuff/Shoryu confirm\|Shoryu confirm]]
