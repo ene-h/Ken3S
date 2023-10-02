@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-stuff/wake-up-options/","noteIcon":""}
+{"dg-publish":true,"permalink":"/general-stuff/wake-up-options/"}
 ---
 
 - **BLOCK**
