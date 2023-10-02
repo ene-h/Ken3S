@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-stuff/shoryu-confirm/","noteIcon":""}
+{"dg-publish":true,"permalink":"/general-stuff/shoryu-confirm/"}
 ---
 
 ## Crouch LK > crouch LP xx Shoryu
