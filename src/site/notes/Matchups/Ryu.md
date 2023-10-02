@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matchups/ryu/"}
+{"dg-publish":true,"permalink":"/matchups/ryu/","noteIcon":""}
 ---
 
 ### Shoryu-shoryu
