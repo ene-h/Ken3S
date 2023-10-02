@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matchups/mirror/","noteIcon":""}
+{"dg-publish":true,"permalink":"/matchups/mirror/"}
 ---
 
 ### Shoryu-shoryu
