@@ -8,7 +8,7 @@
 - [[General stuff/Terminology#Target combo\|TC]] LP shoryu LP/MP shoryu (plink MP into LP to make the timing easier)
 ### UOH setup
 - crouch LK > crouch MP
-### Shippu cross-up setup
+### SA3 cross-up setup
 - Whiff stand MP -> Superjump.
 - Walk up, jump whiff HK.
 - Dash -> walk backward -> jump whiff HK.
@@ -18,11 +18,11 @@
 ### Shoryu confirm
 - Crouch LK > stand LP xx Shoryu (CORNER ONLY)
 ### Notes
-- Perfect spacing for UOH after shippu in corner
+- Perfect spacing for UOH after SA3 in corner
 - (Red) parry crouch MK xx hadouken
 - Has a good kara-throw
 
-> [!danger]- Raw Shippu punish
+> [!danger]- Raw SA3 punish
 > Far HP
 [![(ryuhp).gif](https://wiki.supercombo.gg/images/a/ae/%28ryuhp%29.gif)](https://wiki.supercombo.gg/w/File:(ryuhp).gif)
 > Close HP
@@ -39,7 +39,7 @@
 [![(ryuchk).gif](https://wiki.supercombo.gg/images/4/4f/%28ryuchk%29.gif)](https://wiki.supercombo.gg/w/File:(ryuchk).gif)
 > Hadouken (point blank)
 [![(ryuhdk).gif](https://wiki.supercombo.gg/images/0/0c/%28ryuhdk%29.gif)](https://wiki.supercombo.gg/w/File:(ryuhdk).gif)
-> Tatsu (any) (crouch MK xx shippu should also work but i find it unreliable)
+> Tatsu (any) (crouch MK xx SA3 should also work but i find it unreliable)
 [![(ryutsk).gif](https://wiki.supercombo.gg/images/f/f9/%28ryutsk%29.gif)](https://wiki.supercombo.gg/w/File:(ryutsk).gif)
-> Donkey kick (any) (you can also get crouch MK xx MP DP xx shippu, depends on range)
+> Donkey kick (any) (you can also get crouch MK xx MP DP xx SA3, depends on range)
 [![(ryujsg).gif](https://wiki.supercombo.gg/images/4/4b/%28ryujsg%29.gif)](https://wiki.supercombo.gg/w/File:(ryujsg).gif)
