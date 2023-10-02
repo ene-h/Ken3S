@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ken/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/ken/","tags":["gardenEntry"]}
 ---
 
 # KENNETHY
