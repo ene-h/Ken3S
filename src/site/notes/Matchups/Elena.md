@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matchups/elena/","noteIcon":""}
+{"dg-publish":true,"permalink":"/matchups/elena/"}
 ---
 
 ### Shoryu-shoryu
