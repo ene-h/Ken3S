@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/matchups/ibuki/"}
 ---
 
+
+# Character specific stuff
 ### Shoryu-shoryu
 ###### CORNER:
 - [[General stuff/Terminology#Target combo\|TC]] shoryu kara-shoryu 
@@ -14,7 +16,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
-### Notes
+***
+# Notes
 - Against penguin kicks: parry first hit xx LP DP
 - Ken stand HK is a good button to use here
 - Towards MK (overhead hopkick, plus a billion on block) is safe on parry when spaced
