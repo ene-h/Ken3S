@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/general-stuff/terminology/"}
 ---
 
-# *Check out the [Fighting Game Glossary](https://glossary.infil.net)
+# *Check out the [Fighting Game Glossary](https://glossary.infil.net)*
 ***
 # Jab, Strong, Fierce
 
