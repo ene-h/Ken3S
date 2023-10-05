@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/gouki/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 - Close MP/crouch MK xx shoryu > kara-shoryu
 ###### CORNER: 
@@ -17,7 +18,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu (whiffs when you hit Gouki crouching)
-### Notes
+***
+# Notes
 - Make sure to punish heavy tatsu (raw SA3) so your opponent is discouraged from spamming it
 - Parry divekick xx shoryu OR parry divekick > crouch MK xx MP shoryu xx SA3
 - Don't get wakeup demon'd or KKZ'd
