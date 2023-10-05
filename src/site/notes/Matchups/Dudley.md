@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/dudley/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 - NO
 ### UOH setup
@@ -10,7 +11,8 @@
 - Walk forward slightly superjump to cross-up. Superjump to land in front.
 ### Crouch LK>LP>LK
 - YES (also LK>LK>LK)
-### Notes
+***
+# Notes
 - Use far HP as anti-air
 - On crouching Dudley, use TC xx MP DP xx SA3 or [[General stuff/Terminology#Target combo\|TC]] xx HP DP
 - Low parry > stand block > watch for crouch HK on wakeup to partly avoid Dudley's MPest mix-up
