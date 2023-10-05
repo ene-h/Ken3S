@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/necro/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 - Stand MP/crouch MK shoryu shoryu 
 ###### CORNER:
@@ -14,7 +15,8 @@
 - NO
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu  (whiffs when Necro is hit crouching)
-### Notes
+***
+# Notes
 - Fast wakeup, no taunt after corner SA3 if you want a meaty
 - Use stand MP > super in neutral
 - You can LP DP from pretty far to catch limbs (risky)
