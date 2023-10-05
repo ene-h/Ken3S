@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/ryu/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 - Close MP/crouch MK shoryu kara-shoryu
 ###### CORNER: 
@@ -17,7 +18,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > stand LP xx Shoryu (CORNER ONLY)
-### Notes
+***
+# Notes
 - Perfect spacing for UOH after SA3 in corner
 - (Red) parry crouch MK xx hadouken
 - Has a good kara-throw
