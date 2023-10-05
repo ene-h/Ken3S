@@ -32,3 +32,5 @@ Because Ken hasn't got a command grab or fast overhead (which means you can usua
 - Stand HP > crouch MP (frame trap)
 - Stand HP > [[General stuff/Terminology#Option Select\|OS]] parry
 - Anti parry OS: delay, cancel into DP late so it won't come out on hit or block, only on parry. Catches parry > button and parry > throw. You can mix up the DP strength if they start getting wise to it.
+
+*For a very detailed breakdown on wake-up scenarios in 3S, watch [THIS VIDEO](https://youtu.be/B7-gWnuZOQM?si=fHJEyQpi4glHRjRk) by Shodokan.*
