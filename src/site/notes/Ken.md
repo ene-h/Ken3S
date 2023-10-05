@@ -13,6 +13,7 @@
 - [[General stuff/Wake-up options\|Wake-up options]]
 - [[General stuff/Terminology\|Terminology]]
 - [[General stuff/Combos\|Combos]]
+- [[General stuff/Special moves\|Special moves]]
 
 ### MATCHUP VS
 - [[Matchups/Chun\|Chun]] - [[Matchups/Yun\|Yun]] - [[Matchups/Mirror\|Mirror]] - [[Matchups/Makoto\|Makoto]] 
