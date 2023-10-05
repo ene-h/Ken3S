@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/urien/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 - Stand MP/crouch MK shoryu kara-shoryu
 ###### CORNER: 
@@ -14,7 +15,8 @@
 - NO
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
-### Notes
+***
+# Notes
 - Use [[General stuff/Terminology#Target combo\|TC]] xx MP DP xx SA3 when Urien is crouching
 - Play safe and let him hang himself, Urien has a lot of health
 - Shut him down with lights
