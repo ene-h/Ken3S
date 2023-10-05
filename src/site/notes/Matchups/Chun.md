@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/chun/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 - Stand HP shoryu kara-shoryu
 - Close MP/crouch MK shoryu kara-shoryu
@@ -18,7 +19,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
-### Notes
+***
+# Notes
 - Use UOH > SA3 in neutral
 - Low parry instead of trying to whiff punish chun's crouch MK
 - Try high parrying in chun's stand HP range
