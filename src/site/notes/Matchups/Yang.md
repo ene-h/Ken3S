@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/yang/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 ###### CORNER: 
 - Stand HP shoryu kara-shoryu
@@ -13,7 +14,8 @@
 - YES (or LK>LK>LK)
 ### Shoryu confirm
 - Crouch LK > stand LP xx Shoryu (CORNER ONLY)
-### Notes
+***
+# Notes
 - Raw SA3 punish blocked full EX rekka!
 - Red parry crouch MK xx rekka (maybe not that good, turns out he can delay it)
 	- LP Rekka and EX Rekka have similar timings
