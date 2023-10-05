@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/yun/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 ###### CORNER: 
 - Stand HP shoryu kara-shoryu
@@ -13,7 +14,8 @@
 - YES (or LK>LK>LK)
 ### Shoryu confirm
 - Crouch LK > stand LP xx Shoryu (CORNER ONLY)
-### Notes
+***
+# Notes
 - Parry xx DP divekick
 - Red parry shoulder if they like to do 123 xx Shoulder xx Activate
 - (Hard) Red parry 123 > HP > (genei activation) > MP DP xx SA3 
