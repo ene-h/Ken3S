@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/remy/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 ###### Corner:
 - [[General stuff/Terminology#Target combo\|TC]] shoryu kara-shoryu 
@@ -13,7 +14,8 @@
 - YES (also LK>LK>LK)
 ### Shoryu confirm
 - NONE
-### Notes
+***
+# Notes
 - Why tf cold blue kick so hard to parry (can block low tho)
 - Don't get blue nocturned
 - Remy gets more reward from throw in the corner so might press throw more than other chars
