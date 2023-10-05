@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/tweleve/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 - Stand HP shoryu kara-shoryu
 ###### CORNER:
@@ -14,7 +15,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
-### Notes
+***
+# Notes
 - Make sure to anti-air
 - Has no damage
 - Will throw a lot
