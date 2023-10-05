@@ -14,3 +14,5 @@
 - LP DP (good hitbox but gets stuffed sometimes, can juggle)
 - DP-tech (input DP with early motion, late button; idk how useful this is)
 - crouch MK xx ... if they try to [[General stuff/Terminology#Shimmy\|shimmy]]
+
+*For a very detailed breakdown on wake-up scenarios in 3S, watch [THIS VIDEO](https://youtu.be/B7-gWnuZOQM?si=fHJEyQpi4glHRjRk) by Shodokan.*
