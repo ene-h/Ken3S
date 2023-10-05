@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/q/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 -  [[General stuff/Terminology#Target combo\|TC]] LP shoryu LP/MP shoryu (plink MP into LP to make the timing easier)
 ### UOH setup
@@ -12,7 +13,8 @@
 - NO
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu  (whiffs when Q is hit crouching)
-### Notes
+***
+# Notes
 - Stuff dash-punches with stand MP, crouch MP (or ex hadouken)
 - Backdash and buffer super motion if you get hit by dash-punch if they like to command-grab
 - Walk forward instead of dashing, less risk getting dash-punched
