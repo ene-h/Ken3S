@@ -17,7 +17,7 @@
 - Crouch LK > crouch LP xx Shoryu  (whiffs when Necro is hit crouching)
 ***
 # Notes
-- Fast wakeup, no taunt after corner SA3 if you want a meaty
+- Fast wakeup, no taunt after corner SA3 if you want a [[General stuff/Terminology#Meaty\|meaty]]
 - Use stand MP > super in neutral
 - You can LP DP from pretty far to catch limbs (risky)
 - LP spin hook is +1, necro players will often press back MP after this and maybe mix it up with crouch LK or snake fang
@@ -28,7 +28,7 @@
 - Good necro players will whiff-punish (crouch) MK and HK with super
 - Reaction DP drill
 - Watch for round start snake fang
-- Has a lot of bad hitboxes, so make sure to buffer double QCF after crouch / stand MP in case you stuff something
+- Has a lot of bad hitboxes, so make sure to buffer double [[General stuff/Terminology#Quarter Circle\|QCF]] after crouch / stand MP in case you stuff something
 
 > [!danger]- Raw SA3 punish
 > HP (also on hit) (watch for range)
