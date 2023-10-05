@@ -37,3 +37,19 @@
 - Air version is also not great, but sometimes useful for an ambiguous cross-up.
 - Air version is also used for some [[General stuff/Shippu Cross-ups\|Shippu Cross-ups]].
 ### EX Tatsu
+- On hit, pushes you and the opponent full screen distance. Useful for getting out of the corner.
+	- On stand block it's the same, but some characters can crouch it.
+- Airborne / throw invulnerable at frame 7, so if you do it with reversal timing on wake-up there's only one frame to throw you.
+- Pretty safe, punishable with some supers only.
+- Does more damage than EX Hadouken when cancelled from crouch MK or TC. Useful when you have to close out a round and only have half a bar.
+- Decent chip KO option.
+##### Air EX Tatsu 
+- Very fast, almost like a dive-kick when done late.
+- When done early after a super jump, makes you soar through the air, good for getting out of the corner.
+- Does great damage air-to-air.
+- You can often juggle after you hit it.
+	- Against a standing opponent, you can usually get stand MK as a juggle.
+	- Against some characters you can get stand HK instead.
+	- In the corner you can juggle LP DP (> LP/MP DP) 
+	- (HARD) midscreen you can dash LP DP (> LP DP)
+	- Air to air you can juggle MP DP
