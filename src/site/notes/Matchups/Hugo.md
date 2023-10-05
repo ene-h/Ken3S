@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/hugo/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 ###### CORNER
 - [[General stuff/Terminology#Target combo\|TC]] shoryu kara-shoryu 
@@ -13,7 +14,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
-### Notes
+***
+# Notes
 - EX air tatsu is a good air to air
 - Keep distance
 - [[General stuff/Terminology#Cancel buffering\|Cancel buffering]] crouch HP xx SA3 is not a bad idea
