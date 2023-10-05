@@ -9,6 +9,6 @@
 - [[General stuff/Terminology#Target combo\|TC]] (xx hadouken)
 - crouch LK LP LK (not on everyone)
 - Back MK (main overhead confirm)
-- Spaced/meaty UOH (not that easy)
+- Spaced/[[General stuff/Terminology#Meaty\|meaty]] UOH (not that easy)
 - crouch MK xx hadouken
 - crouch MK (HARD)
