@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/elena/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 -  Stand MP/crouch MK shoryu shoryu
 ###### CORNER:
@@ -14,7 +15,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu (or LK LK)
-### Notes
+***
+# Notes
 - Mallet smash is 2 slow parries, EX is fast
 - She has a 2-hit jump-in
 - Far kara-throw
