@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/sean/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 - Close MP/crouch MK shoryu kara-shoryu
 ###### CORNER: 
@@ -17,7 +18,8 @@
 - YES
 ### Shoryu confirm
 - NONE
-### Notes
+***
+# Notes
 - Down parry into throw mostly nullifies Sean tackle mixups
 - Very fast dash
 - Funny roll sometimes evades stuff and is throw invul
