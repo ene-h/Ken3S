@@ -10,7 +10,7 @@
 # Short, Forward, Roundhouse
 > *Old names for LK, MK and HK*
 # Cancel buffering
-> *[Whiffing](https://glossary.infil.net/?t=Whiff "See Term: Whiff") a [normal attack](https://glossary.infil.net/?t=Normal "See Term: Normal") in front of you, and inputting another attack as a [cancel](https://glossary.infil.net/?t=Cancel "See Term: Cancel") afterwards. When your attack whiffs, nothing further happens, but if your opponent accidentally runs into the attack, the cancel happens automatically. This is a very common [option select]("https://glossary.infil.net/?t=Option%20Select "See Term: Option Select"") that will really help you get more mileage out of your strong [pokes](https://glossary.infil.net/?t=Poke "See Term: Poke"), and you don't have to take any extra risk! You just do the same inputs and let the game take the correct action based on what your opponent does.*
+> *[Whiffing](https://glossary.infil.net/?t=Whiff "See Term: Whiff") a [normal attack](https://glossary.infil.net/?t=Normal "See Term: Normal") in front of you, and inputting another attack as a [cancel](https://glossary.infil.net/?t=Cancel "See Term: Cancel") afterwards. When your attack whiffs, nothing further happens, but if your opponent accidentally runs into the attack, the cancel happens automatically. This is a very common [option select](https://glossary.infil.net/?t=Option%20Select "See Term: Option Select") that will really help you get more mileage out of your strong [pokes](https://glossary.infil.net/?t=Poke "See Term: Poke"), and you don't have to take any extra risk! You just do the same inputs and let the game take the correct action based on what your opponent does.*
 
 **Most often used with crouch MK xx SA3 or crouch HP xx SA3**
 # Target combo
