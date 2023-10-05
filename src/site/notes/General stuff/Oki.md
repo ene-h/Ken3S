@@ -7,7 +7,8 @@ Because Ken hasn't got a command grab or fast overhead (which means you can usua
 - CL.MP, Tick Throw 
 - CL.MP, Crouching MP xx Super (confirmed) 
 - CL.MP, Crouching MP, Dash Throw 
-- CL.MP, Standing MP Linked into Super 
+- CL.MP, Standing MP Linked into Super
+- Anti parry OS: delay, cancel into DP late so it won't come out on hit or block, only on parry. Catches parry > button and parry > throw. You can mix up the DP strength if they start getting wise to it.
 ### Crouching Light Kick 
 - C.LK, Tick Throw 
 - C.LK x 2 xx Super (if hit confirmed) 
@@ -28,6 +29,6 @@ Because Ken hasn't got a command grab or fast overhead (which means you can usua
 - Cross Up MK, C.LK (And post mix ups if blocked) 
 - Cross Up MK, B+ MK xx Super (use this only if you condition them into blocking low by using C.LK a lot)
 ### Stand HP
-- Stand HP > crouch MP (frametrap)
-- Stand HP > OS parry
-- Delay, cancel into DP so it won't come out on hit or block, only on parry. Catches parry > button and parry > throw. You can mix up the DP strength if they start getting wise to it.
+- Stand HP > crouch MP (frame trap)
+- Stand HP > [[General stuff/Terminology#Option Select\|OS]] parry
+- Anti parry OS: delay, cancel into DP late so it won't come out on hit or block, only on parry. Catches parry > button and parry > throw. You can mix up the DP strength if they start getting wise to it.
