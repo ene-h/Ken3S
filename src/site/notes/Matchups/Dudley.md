@@ -19,7 +19,7 @@
 - Crouch HP xx SA3 to stuff buttons
 - Watch out for whiff punishes with stand HK into big damage
 	- Use EX hadou if they overuse this
-	- Maybe try stand MP whiffpunish, or buffer the qcfs and raw SA3 it
+	- Maybe try stand MP whiffpunish, or buffer the [[General stuff/Terminology#Quarter Circle\|QCFs]] and raw SA3 it
 	- If they're constantly doing it, you don't really have to worry about reacting to it, just walk up and crouch MK him, he pushes button, he gets hit
 	- If you want to push a button to contest the space, Ken's far HP is probably pretty good and prevents Dudley from jumping much
 - You can SA3 when you block a normal xx ducking
