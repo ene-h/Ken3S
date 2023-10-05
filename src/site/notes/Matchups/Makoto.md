@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/makoto/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 - Stand HP shoryu kara-shoryu
 - Stand MP/crouch MK shoryu kara-shoryu
@@ -17,7 +18,8 @@
 - YES (also LK>LK>LK)
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu
-### Notes
+***
+# Notes
 - Spam crouch LK in neutral, confirm into SA3, catches forward dash (good against round start dash)
 - Makotos love jumping around, use EX air tatsu > DP or stand MK
 - On standing Makoto, use [[General stuff/Terminology#Target combo\|TC]] xx MP DP xx SA3
