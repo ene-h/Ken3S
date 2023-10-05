@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/alex/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 - NO
 ### UOH setup
@@ -12,7 +13,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
-### Notes
+***
+# Notes
 - **ANTI AIR HIM** (use far HP instead of DP sometimes, maybe with a buffer to LK tatsu if you get close HP and they parry)
 - Stand / crouch MP buffer super to stuff Alex (hitboxes)
 - Reaction parry elbow (damned wifi players)
