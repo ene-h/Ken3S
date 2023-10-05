@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/oro/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 ###### CORNER: Stand HP shoryu kara-shoryu
 ### UOH setup
@@ -13,7 +14,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LK xx Shoryu
-### Notes
+***
+# Notes
 - Oro's far MK beats Ken’s crouch MK (Oro’s farthest-reaching poke)
 	- Crouch HP xx SA3 beats this clean, can be [[General stuff/Terminology#Cancel buffering\|cancel buffered]]
 - You can shoryu through his fireballs and hit his hand
