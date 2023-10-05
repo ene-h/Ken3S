@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/matchups/mirror/"}
 ---
 
+# Character specific stuff
 ### Shoryu-shoryu
 - Close MP/crouch MK shoryu kara-shoryu
 ###### CORNER: 
@@ -17,7 +18,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > stand LP xx Shoryu (CORNER ONLY)
-### Notes
+***
+# Notes
 - Don't spam crouch MK too much if your opponent has super if they've shown they can punish it
 - One of the most common things Kens do is dash in crouch MK; parry it if they overuse it
 - If you don't have another super after you land SA3 in the corner, taunt > stand HK does great damage and will catch low parries
