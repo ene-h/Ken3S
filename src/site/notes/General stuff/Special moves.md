@@ -9,6 +9,7 @@
 ### EX Hadouken
 - A safer cancel into a knockdown from crouch MK. Beware of overusing this and wasting meter that can go to SA3.
 - An OK confirm from target combo when used occasionally. If the TC hits, it's better to go into LP DP, but pretty safe if you let it rip on block: sometimes it catches people tryin to take their turn back after they block TC.
+***
 ### LP DP / Dragon Punch / Shoryuken
 - Not truly invincible, but makes Ken's hurtbox small so it can go through a lot of moves anyway.
 - Used for [[General stuff/Shoryu-shoryu\|Shoryu-shoryu]].
@@ -29,6 +30,7 @@
 - A lot of invulnerable frames.
 - 4 hits, opponent seems to fall out often.
 - I barely use it, except as maybe an anti air.
+***
 ### Tatsu / Hurricane Kick
 - Not very useful on the ground.
 - LK tatsu is the "most" useful, being the safest at -5 on block and -3 on hit. Good vs Urien sometimes.
