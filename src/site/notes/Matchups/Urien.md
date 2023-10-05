@@ -27,11 +27,11 @@
 	- It even beats his crouch MK, which he does not get much off of, but it's a very annoying poke
 - EX tatsu cross-up is hard to punish for Urien
 - Don't let him build meter, but don't start rushing him down like an idiot either, stay in a threatening range
-- Meaty-ing him is very risky when he has more than half a bar
+- [[General stuff/Terminology#Meaty\|Meaty]]-ing him is very risky when he has more than half a bar
 	- TC, crouch MK, or sweep are not great options
-	- LK LK is safer, also HP delay DP OS to catch parries
+	- Crouch LK>LK is safer, also [[General stuff/Oki#Stand HP\|HP delay DP OS]] to catch parries
 	- Deep jump-ins are -6 on parry so you won't get launchered
-- Tech after whiffed or blocked headbutts or l.dp him out of them
+- Tech after whiffed or blocked headbutts or LP DP him out of them
 - Parry or punish tackles
 - Spamming neutral jump or neutral jump HK? => 
 	- Far HP!
@@ -39,8 +39,8 @@
 	- dash DP
 	- walk up DP
 	- parry xx DP
-- Very fast wakeup (you don't get much oki after a forward throw midscreen, only 12f advantage)
-- Urien has no answer for lk tatsu on block
+- Very fast wakeup (you don't get much oki after a forward throw mid-screen, only 12f advantage)
+- Urien has no answer for LK tatsu on block
 - You can dash > close MP xx DP if you parry sweep
 
 > [!danger]- Raw SA3 punish
