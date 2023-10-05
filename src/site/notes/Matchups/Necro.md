@@ -20,15 +20,15 @@
 - Fast wakeup, no taunt after corner SA3 if you want a meaty
 - Use stand MP > super in neutral
 - You can LP DP from pretty far to catch limbs (risky)
-- LP spin hook is +1, necro players will often press back MP after this and maybe mix it up with snake fang
-- You can down parry drill to avoid cross-ups
+- LP spin hook is +1, necro players will often press back MP after this and maybe mix it up with crouch LK or snake fang
+- You can down parry drill to avoid cross-ups, but that often doesn't allow you to punish
 - When you high parry drill, the most consistent option is to just DP immediately
-- Throw range is a little further than ken
-- SA3 cross-up is not that good
+- Throw range is a little further than Ken's
+- Post SA3 cross-up is not that good
 - Good necro players will whiff-punish (crouch) MK and HK with super
 - Reaction DP drill
 - Watch for round start snake fang
-- Has a lot of bad hitboxes, so make sure to buffer double qcf after crouch / stand MP in case you stuff something
+- Has a lot of bad hitboxes, so make sure to buffer double QCF after crouch / stand MP in case you stuff something
 
 > [!danger]- Raw SA3 punish
 > HP (also on hit) (watch for range)
