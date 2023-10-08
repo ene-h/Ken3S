@@ -29,6 +29,7 @@
 - Reaction DP drill
 - Watch for round start snake fang
 - Has a lot of bad hitboxes, so make sure to buffer double [[General stuff/Terminology#Quarter Circle\|QCF]] after crouch / stand MP in case you stuff something
+- You can cross though his quick-stand with a dash
 
 > [!danger]- Raw SA3 punish
 > HP (also on hit) (watch for range)
