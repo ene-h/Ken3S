@@ -15,6 +15,7 @@
 - [[General stuff/Combos\|Combos]]
 - [[General stuff/Special moves\|Special moves]]
 - [[General stuff/Normals\|Normals]]
+- [[General stuff/Super\|Super]]
 
 ### MATCHUP VS
 - [[Matchups/Chun\|Chun]] - [[Matchups/Yun\|Yun]] - [[Matchups/Mirror\|Mirror]] - [[Matchups/Makoto\|Makoto]] 
