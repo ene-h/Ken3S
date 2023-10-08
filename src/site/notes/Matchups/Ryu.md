@@ -17,7 +17,7 @@
 ### Crouch LK>LP>LK
 - YES
 ### Shoryu confirm
-- Crouch LK > stand LP xx Shoryu (CORNER ONLY)
+- Crouch LK > stand LP xx Shoryu (inconsistent mid-screen)
 ***
 # Notes
 - Perfect spacing for UOH after SA3 in corner
