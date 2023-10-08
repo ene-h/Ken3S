@@ -21,6 +21,9 @@
 - (Hard) Red parry 123 > HP > (genei activation) > MP DP xx SA3 
 - Watch out for dive kick cross-up in the corner (mostly on your wake-up)
 - High connect blocked dive kick into button is usually not real (blue parry)
+- Jump towards HK works well against divekicks
+	- Jump towards EX tatsu (juggle with stand MK or MP DP) is more rewarding (do the DP motion early so it has the chance to auto correct)
+	- Crouch LP xx crouch LK xx SA3 has potential against divekicks
 
 > [!danger]- Raw SA3 punish
 > - Far MP
