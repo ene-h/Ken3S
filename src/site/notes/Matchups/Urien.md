@@ -31,7 +31,7 @@
 	- TC, crouch MK, or sweep are not great options
 	- Crouch LK>LK is safer, also [[General stuff/Oki#Stand HP\|HP delay DP OS]] to catch parries
 	- Deep jump-ins are -6 on parry so you won't get launchered
-- Tech after whiffed or blocked headbutts or LP DP him out of them
+- Tech after whiffed or blocked headbutts or LP DP him out of them if you're sauced
 - Parry or punish tackles
 - Spamming neutral jump or neutral jump HK? => 
 	- Far HP!
