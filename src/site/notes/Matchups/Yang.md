@@ -32,6 +32,8 @@
 - Jump towards HK works well against divekicks
 	- Jump towards EX tatsu (juggle with stand MK or MP DP) is more rewarding (do the DP motion early so it has the chance to auto correct)
 	- Crouch LP xx crouch LK xx SA3 has potential against divekicks
+- Against ambiguous cross-up divekick, press throw. It's often too minus to accomplish anything
+- Against corner divekick mix-up, press the stick towards the corner with parry timing, if he crosses up you'll get parry, otherwise you just stand block.
 - Stand HK is a pretty good button to press at 1/2 screen away
 - When you have low health, a lot of Yangs will try to finish you off with command grab combo's
 	- If you read them doing this (and you're not cornered) you can backdash and buffer raw super or do crouch MK xx (confirm) SA3.
