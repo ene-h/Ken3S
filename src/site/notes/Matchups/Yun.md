@@ -23,7 +23,9 @@
 - High connect blocked dive kick into button is usually not real (blue parry)
 - Jump towards HK works well against divekicks
 	- Jump towards EX tatsu (juggle with stand MK or MP DP) is more rewarding (do the DP motion early so it has the chance to auto correct)
-	- Crouch LP xx crouch LK xx SA3 has potential against divekicks
+	- Crouch LP > crouch LK > crouch LK xx SA3 has potential against divekicks
+- Against ambiguous cross-up divekick, press throw. It's often too minus to accomplish anything
+- Against corner divekick mix-up, press the stick towards the corner with parry timing, if he crosses up you'll get parry, otherwise you just stand block.
 
 > [!danger]- Raw SA3 punish
 > - Far MP
