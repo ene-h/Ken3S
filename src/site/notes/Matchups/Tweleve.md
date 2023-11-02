@@ -19,10 +19,12 @@
 # Notes
 - Make sure to anti-air
 - Has no damage
+- Has no reversal
 - Will throw a lot
 - Walks under fireballs and cross-ups
 - May neutral (super) jump to bait DP
 - **Cannot parry during airdash!**
+	- Use stuff like stand MK and HP against airdash
 - If you're both whiffing to build bar he may EX fireball you and get oki
 
 > [!danger]- Raw SA3 punish
