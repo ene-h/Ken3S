@@ -42,6 +42,7 @@
 - Very fast wakeup (you don't get much oki after a forward throw mid-screen, only 12f advantage)
 - Urien has no answer for LK tatsu on block
 - You can dash > close MP xx DP if you parry sweep
+- Wakeup backdash is sometimes pretty good while Urien has bar, when he might want to grab > aegis
 
 > [!danger]- Raw SA3 punish
 > Far HP (shake my hand) (1f)
