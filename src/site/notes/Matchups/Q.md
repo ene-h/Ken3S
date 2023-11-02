@@ -22,6 +22,7 @@
 - Good kara-throw, especially dangerous when Q is cornered (backthrow)
 - They may crouch LK xx SA2 on wakeup
 - His low buttons are otherwise not very scary, you should probably do high parries more than low parries
+- Little fun bonus: when you double DP Q, you can usually get LP DP > MP DP (I usually plink MP into LP to double my chances)
 
 > [!danger]- Raw SA3 punish
 > Stand HP
