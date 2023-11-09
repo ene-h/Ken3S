@@ -37,6 +37,7 @@
 - Stand HK is a pretty good button to press at 1/2 screen away
 - When you have low health, a lot of Yangs will try to finish you off with command grab combo's
 	- If you read them doing this (and you're not cornered) you can backdash and buffer raw super or do crouch MK xx (confirm) SA3.
+- If you block a divekick and Ken blocks with his elbow up, Yang is minus (and follow up parries will be blue parries)
 
 > [!danger]- Raw SA3 punish
 > - Far HP
