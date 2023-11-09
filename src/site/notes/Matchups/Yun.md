@@ -26,6 +26,7 @@
 	- Crouch LP > crouch LK > crouch LK xx SA3 has potential against divekicks
 - Against ambiguous cross-up divekick, press throw. It's often too minus to accomplish anything
 - Against corner divekick mix-up, press the stick towards the corner with parry timing, if he crosses up you'll get parry, otherwise you just stand block.
+- If you block a divekick and Ken blocks with his elbow up, Yun is minus (and follow up parries will be blue parries)
 
 > [!danger]- Raw SA3 punish
 > - Far MP
