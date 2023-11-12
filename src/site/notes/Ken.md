@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ken/","tags":["gardenEntry"]}
 ---
 
-p# KEN WIKI
+# KEN WIKI
 ### Quick links
 - [[General stuff/Shoryu-shoryu\|Shoryu-shoryu]]
 - [[General stuff/UOH Setups\|UOH Setups]]
