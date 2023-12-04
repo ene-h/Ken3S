@@ -19,6 +19,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
+### Corner cross-up jump
+- NO
 ***
 # Notes
 - Use UOH > SA3 in neutral
