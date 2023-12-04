@@ -15,6 +15,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu (or LK LK)
+### Corner cross-up jump
+- YES
 ***
 # Notes
 - Mallet smash is 2 slow parries, EX is fast
