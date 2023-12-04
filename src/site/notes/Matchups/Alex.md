@@ -13,6 +13,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
+### Corner cross-up jump
+- YES
 ***
 # Notes
 - **ANTI AIR HIM** (use far HP instead of DP sometimes, maybe with a buffer to LK tatsu if you get close HP and they parry)
