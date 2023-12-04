@@ -16,6 +16,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
+### Corner cross-up jump
+- NO
 ***
 # Notes
 - Against penguin kicks: parry first hit xx LP DP
