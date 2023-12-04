@@ -14,6 +14,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
+### Corner cross-up jump
+- YES
 ***
 # Notes
 - EX air tatsu is a good air to air
