@@ -18,6 +18,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > stand LP xx Shoryu (inconsistent mid-screen)
+### Corner cross-up jump
+- NO
 ***
 # Notes
 - Don't spam crouch MK too much if your opponent has super if they've shown they can punish it
