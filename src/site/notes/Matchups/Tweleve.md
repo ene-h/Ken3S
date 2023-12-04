@@ -15,6 +15,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
+### Corner cross-up jump
+- YES
 ***
 # Notes
 - Make sure to anti-air
