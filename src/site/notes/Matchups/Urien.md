@@ -15,6 +15,8 @@
 - NO
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
+### Corner cross-up jump
+- YES
 ***
 # Notes
 - Use [[General stuff/Terminology#Target combo\|TC]] xx MP DP xx SA3 when Urien is crouching
