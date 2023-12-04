@@ -14,6 +14,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > crouch LK xx Shoryu
+### Corner cross-up jump
+- NO
 ***
 # Notes
 - Oro's far MK beats Ken’s crouch MK (Oro’s farthest-reaching poke)
