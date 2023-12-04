@@ -18,6 +18,8 @@
 - YES (also LK>LK>LK)
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu
+### Corner cross-up jump
+- NO
 ***
 # Notes
 - Spam crouch LK in neutral, confirm into SA3, catches forward dash (good against round start dash)
