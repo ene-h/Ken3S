@@ -11,6 +11,8 @@
 - Walk forward slightly superjump to cross-up. Superjump to land in front.
 ### Crouch LK>LP>LK
 - YES (also LK>LK>LK)
+### Corner cross-up jump
+- YES
 ***
 # Notes
 - Use far HP as anti-air
