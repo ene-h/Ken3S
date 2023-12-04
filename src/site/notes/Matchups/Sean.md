@@ -18,6 +18,8 @@
 - YES
 ### Shoryu confirm
 - NONE
+### Corner cross-up jump
+- NO
 ***
 # Notes
 - Down parry into throw mostly nullifies Sean tackle mixups
