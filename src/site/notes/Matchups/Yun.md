@@ -14,6 +14,8 @@
 - YES (or LK>LK>LK)
 ### Shoryu confirm
 - Crouch LK > stand LP xx Shoryu (CORNER ONLY)
+### Corner cross-up jump
+- NO
 ***
 # Notes
 - Parry xx DP divekick
