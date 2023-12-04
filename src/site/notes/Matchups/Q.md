@@ -13,6 +13,8 @@
 - NO
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu  (whiffs when Q is hit crouching)
+### Corner cross-up jump
+- NO
 ***
 # Notes
 - Stuff dash-punches with stand MP, crouch MP (or ex hadouken)
