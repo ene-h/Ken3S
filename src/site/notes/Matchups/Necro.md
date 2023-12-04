@@ -15,6 +15,8 @@
 - NO
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu  (whiffs when Necro is hit crouching)
+### Corner cross-up jump
+- YES
 ***
 # Notes
 - Fast wakeup, no taunt after corner SA3 if you want a [[General stuff/Terminology#Meaty\|meaty]]
