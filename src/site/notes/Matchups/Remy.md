@@ -14,6 +14,8 @@
 - YES (also LK>LK>LK)
 ### Shoryu confirm
 - NONE
+### Corner cross-up jump
+- NO
 ***
 # Notes
 - Why tf cold blue kick so hard to parry (can block low tho)
