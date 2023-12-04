@@ -18,6 +18,8 @@
 - YES
 ### Shoryu confirm
 - Crouch LK > stand LP xx Shoryu (inconsistent mid-screen)
+### Corner cross-up jump
+- NO
 ***
 # Notes
 - Perfect spacing for UOH after SA3 in corner
