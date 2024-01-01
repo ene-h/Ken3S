@@ -22,6 +22,7 @@
 	- Crouch HP xx SA3 beats this clean, can be [[General stuff/Terminology#Cancel buffering\|cancel buffered]]
 - You can shoryu through his fireballs and hit his hand
 - UOH after SA3 in the corner is a little harder, you have to crouch cancel the recovery of SA3 into taunt, and UOH as soon as possible. This way the UOH hits [[General stuff/Terminology#Meaty\|meaty]], it's not a spacing thing
+- UOH is easier to get more plus due to Oro's low crouch
 - Kara more than doubles his throw range
 
 > [!danger]- Raw SA3 punish
