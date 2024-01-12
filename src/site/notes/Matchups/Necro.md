@@ -32,7 +32,7 @@
 - Watch for round start snake fang
 - Has a lot of bad hitboxes, so make sure to buffer double [[General stuff/Terminology#Quarter Circle\|QCF]] after crouch / stand MP in case you stuff something
 - You can cross though his quick-stand with a dash
-- After Necro throws you in the corner, if he dashes you can LP DP, it's fake
+- After Necro throws you in the corner and juggles with MP, if he dashes you can LP DP, it's fake
 
 > [!danger]- Raw SA3 punish
 > HP (also on hit) (watch for range)
