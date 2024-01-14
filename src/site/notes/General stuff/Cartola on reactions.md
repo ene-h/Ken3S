@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/general-stuff/cartola-on-reactions/"}
 ---
 
-For example, whiff punish Ken 2MK with Urien 2MP, but if it's 2LK or empty crouch, ignore it.
+For example, [[General stuff/Terminology#Whiff punish\|whiff punish]] Ken 2MK with Urien 2MP, but if it's 2LK or empty crouch, ignore it.
 But IMO what goes up with repetition is the decision making process.
 
 What I mean is, you get faster at this process:
