@@ -29,8 +29,10 @@
 - Stay patient, it's an endurance match
 - If he resets you with SA2 in the corner, it's probably a better idea to eat it than to parry and get mixed due to damage scaling
 - If Oro has 1.5 bar, he can probably loop you to death
-	- That's why it's very risky to go for oki when he has bar - you risk losing off of one parry
+	- That's why it's very risky to go for[[General stuff/Terminology#Okizeme\| oki ]]when he has bar - you risk losing off of one parry
 - Priority #1 is "don't get hit"
+- Oro players will often try to get a stand MP after an air-to-air parry situation
+- Far crouch MK > crouch HP xx SA3 is a spacing trap against Oro stand MK and HK
 
 > [!danger]- Raw SA3 punish
 > Stand HP
