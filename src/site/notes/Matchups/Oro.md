@@ -24,6 +24,13 @@
 - UOH after SA3 in the corner is a little harder, you have to crouch cancel the recovery of SA3 into taunt, and UOH as soon as possible. This way the UOH hits [[General stuff/Terminology#Meaty\|meaty]], it's not a spacing thing
 - UOH is easier to get more plus due to Oro's low crouch
 - Kara more than doubles his throw range
+- If you dash in, you risk getting uppercutted into unblockables
+- Getting parried while in range of Oro stand MP is also a death sentence, be wary of what range you press which buttons
+- Stay patient, it's an endurance match
+- If he resets you with SA2 in the corner, it's probably a better idea to eat it than to parry and get mixed due to damage scaling
+- If Oro has 1.5 bar, he can probably loop you to death
+	- That's why it's very risky to go for oki when he has bar - you risk losing off of one parry
+- Priority #1 is "don't get hit"
 
 > [!danger]- Raw SA3 punish
 > Stand HP
