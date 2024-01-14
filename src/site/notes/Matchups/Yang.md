@@ -24,7 +24,7 @@
 - Parry xx DP dive kicks seems most consistent
 	- Parry xx TC is also not bad, if you happen to catch them standing you can confirm DP or SA3
 - High connect blocked dive kick into button is usually not real (blue parry)
-- Not quick-rising gives more time for stun bar to recover and disrupts Yang's oki setups, so sometimes it's good not to quick-rise EX slash
+- Not quick-rising gives more time for stun bar to recover and disrupts Yang's[[General stuff/Terminology#Okizeme\| oki ]]setups, so sometimes it's good not to quick-rise EX slash
 - Crouch MK is good in footsies, remember to use it
 - Sometimes you just have to reversal
 - Watch out for walk up crouch MK when you expect dive kick
@@ -40,6 +40,8 @@
 - When you have low health, a lot of Yangs will try to finish you off with command grab combo's
 	- If you read them doing this (and you're not cornered) you can backdash and buffer raw super or do crouch MK xx (confirm) SA3.
 - If you block a divekick and Ken blocks with his elbow up, Yang is minus (and follow up parries will be blue parries)
+- He has no reversal apart from super, you should pressure him on wakeup, especially in the corner
+	- Yang might wakeup jump a lot, stand MP will stuff that
 
 > [!danger]- Raw SA3 punish
 > - Far HP
