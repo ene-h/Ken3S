@@ -72,7 +72,7 @@
 - Not very good, punishable on block by some chars
 - Not worth using
 ### Back MK
-- 2 hit overhead that confirms to super, good oki tool
+- 2 hit overhead that confirms to super, good[[General stuff/Terminology#Okizeme\| oki ]]tool
 	- The confirm is a [[General stuff/Terminology#1 frame link\|1 frame link]], but it gets way easier if you [[General stuff/Terminology#Piano\|piano]] it
 	- Some player can react to this nearly everytime
 	- Can get red parried
