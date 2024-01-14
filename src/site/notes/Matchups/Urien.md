@@ -41,7 +41,7 @@
 	- dash DP
 	- walk up DP
 	- parry xx DP
-- Very fast wakeup (you don't get much oki after a forward throw mid-screen, only 12f advantage)
+- Very fast wakeup (you don't get much[[General stuff/Terminology#Okizeme\| oki ]]after a forward throw mid-screen, only 12f advantage)
 - Urien has no answer for LK tatsu on block
 - You can dash > close MP xx DP if you parry sweep
 - Wakeup backdash is sometimes pretty good while Urien has bar, when he might want to grab > aegis
