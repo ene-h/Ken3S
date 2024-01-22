@@ -26,6 +26,8 @@
 - Her LP is +6, used for trapping, interrupting is a gamble
 - Do not mindlessly go into super, a lot of her moves get her off the ground, and if she is hit out of them SA3 will whiff due to air-reset status
 - She has multiple 2-hit jump-ins
+- Her jump is very fast (almost as fast as Dudley's) but try to anti-air, at least somewhat
+	- *Jump back hk is good and low risk. Walk under her and attack from the other side as well* - BigGameJames
 
 > [!danger]- Raw SA3 punish
 > Close HK
