@@ -3,6 +3,7 @@
 ---
 
 # KEN WIKI
+###### *If you have suggestions to improve this wiki, feel free to send me a Discord message in the [3S server](https://discord.com/invite/8hWg5GF) or the [Ken server](https://discord.gg/s5Kfy3e2sU) @ene_h*
 ### Setups and character specific
 - [[General stuff/Shoryu-shoryu\|Shoryu-shoryu]] - [[General stuff/Shoryu confirm\|Shoryu confirm]]
 - [[General stuff/UOH Setups\|UOH Setups]] - [[General stuff/Shippu Cross-ups\|Shippu Cross-ups]] - [[General stuff/Corner cross-up jump\|Corner cross-up jump]]
@@ -20,3 +21,5 @@
 ### Miscellaneous
 - [[General stuff/Terminology\|Terminology]]
 - [[General stuff/Cartola on reactions\|Cartola on reactions]]
+
+##### *If you have suggestions to improve this wiki, feel free to send me a Discord message in the [3S server](https://discord.com/invite/8hWg5GF) or the [Ken server](https://discord.gg/s5Kfy3e2sU) @ene_h*
