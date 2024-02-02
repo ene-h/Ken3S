@@ -27,14 +27,14 @@
 - Don't jump too much or risk anti-air fireball into a million tackles and corner pressure
 - Try [[General stuff/Terminology#Cancel buffering\|cancel buffering]] crouch HP xx SA3 to stuff Urien's normals
 	- It even beats his crouch MK, which he does not get much off of, but it's a very annoying poke
-- EX tatsu cross-up is hard to punish for Urien
+- EX tatsu is hard to punish for Urien
 - Don't let him build meter, but don't start rushing him down like an idiot either, stay in a threatening range
-- [[General stuff/Terminology#Meaty\|Meaty]]-ing him is very risky when he has more than half a bar
+- [[General stuff/Terminology#Meaty\|Meaty-ing]] him is very risky when he has more than half a bar
 	- TC, crouch MK, or sweep are not great options
 	- Crouch LK>LK is safer, also [[General stuff/Oki#Stand HP\|HP delay DP OS]] to catch parries
-	- Deep jump-ins are -6 on parry so you won't get launchered
+	- Deep jump-ins are -6 on parry so you won't get launchered (but still get backthrown)
 - Tech after whiffed or blocked headbutts or LP DP him out of them if you're sauced
-- Parry or punish tackles
+- Parry or punish tackles (even if it's just a sweep - make sure he can't tackle for free)
 - Spamming neutral jump or neutral jump HK? => 
 	- Far HP!
 	- EX air tatsu
