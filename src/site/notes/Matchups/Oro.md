@@ -18,11 +18,12 @@
 - NO
 ***
 # Notes
+- Lame him out
 - Oro's far MK beats Ken’s crouch MK (Oro’s farthest-reaching poke)
 	- Crouch HP xx SA3 beats this clean, can be [[General stuff/Terminology#Cancel buffering\|cancel buffered]]
 - You can shoryu through his fireballs and hit his hand
-- UOH after SA3 in the corner is a little harder, you have to crouch cancel the recovery of SA3 into taunt, and UOH as soon as possible. This way the UOH hits [[General stuff/Terminology#Meaty\|meaty]], it's not a spacing thing
-- UOH is easier to get more plus due to Oro's low crouch
+- UOH after SA3 in the corner is a little harder, you have to crouch cancel the recovery of SA3 into taunt, and UOH as soon as possible. This way the UOH hits [[General stuff/Terminology#Meaty\|meaty]], it's not a spacing thing (works on standing hit)
+- UOH is easier to get plus-frames due to Oro's low crouch hurtbox
 - Kara more than doubles his throw range
 - If you dash in, you risk getting uppercutted into unblockables
 - Getting parried while in range of Oro stand MP is also a death sentence, be wary of what range you press which buttons
