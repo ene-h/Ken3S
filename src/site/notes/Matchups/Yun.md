@@ -21,15 +21,14 @@
 - Parry xx DP divekick
 - Red parry shoulder if they like to do 123 xx Shoulder xx Activate (first red parry i ever learned)
 - (Very hard) Red parry 123 > HP > (genei activation if they mashed it) > MP DP xx SA3 
-- Watch out for dive kick cross-up in the corner (mostly on your wake-up)
 - If you block a divekick and Ken blocks with his elbow up, Yun is minus (90% of the time you get a free throw - but kinda hard to react to)
 	- Ambiguous cross-up divekick is usually like this
 	- After such a divekick, Yun's buttons will probably not combo outside genei
 		- You might be able to interrupt with crouch tech > low LK > confirm SA3
 - Jump towards HK works well against divekicks
 	- Jump towards EX tatsu (juggle with stand MK or MP DP) is more rewarding (do the DP motion early so it has the chance to auto correct)
-	- Crouch tech (LP+LK) > crouch LK > crouch LK xx SA3 has potential against divekicks
-- Against corner divekick mix-up, press the stick towards the corner with parry timing, if he crosses up you'll get parry, otherwise you just stand block.
+- Watch out for dive kick cross-up in the corner (mostly on your wake-up)
+	- Against corner divekick mix-up, press the stick towards the corner with parry timing, if he crosses up you'll get parry, otherwise you just stand block.
 - 99% of the time, just block GJ pressure and eat the command grab...
 
 > [!danger]- Raw SA3 punish
