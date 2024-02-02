@@ -20,10 +20,12 @@
 # Notes
 - EX air tatsu is a good air to air
 - Keep distance
+	- I usually just end up running away for 99 seconds...
 - [[General stuff/Terminology#Cancel buffering\|Cancel buffering]] crouch HP xx SA3 is not a bad idea
 - On crouching Hugo, far HP links to super (2f)
 - You get basically nothing on cross-up MK, only like max +4
 - You can TC xx MP DP xx SA3 on crouching Hugo
+- Don't get hit by the meme Ass-Move (Hugo crouch HK), it's an overhead
 
 > [!danger]- Raw SA3 punish
 > Stand MP
