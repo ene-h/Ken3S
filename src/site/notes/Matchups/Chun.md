@@ -33,13 +33,13 @@
 - You can high parry Chun's sweep
 - Reaction parry hazanshu
 - After SA3 in the corner, you are perfectly spaced for (taunt >) UOH > SA3
-- You can use raw SA3 as a [[General stuff/Terminology#Whiff punish\|whiff punish]]
+- You can use raw SA3 as a [[General stuff/Terminology#Whiff punish\|whiff punish]] for Chun back HP (Nosferatu does this)
 - [[General stuff/Terminology#Whiff punish\|Whiff punish]] Chun stand HP with stand MP - not a lot of damage, but you might make them consider not spamming it. You are almost certainly too far for linking SA3 off it though
 
 > [!danger]- Raw SA3 punish
 > crouch MP (neko-pan / cat punch)
 [![(chunlicmp).gif](https://wiki.supercombo.gg/images/f/ff/%28chunlicmp%29.gif)](https://wiki.supercombo.gg/w/File:(chunlicmp).gif)
-> Close HK (knee)
+> Close HK (knee) (if they superjump cancel you're fucked tho)
 [![(chunliclosehk).gif](https://wiki.supercombo.gg/images/7/7f/%28chunliclosehk%29.gif)](https://wiki.supercombo.gg/w/File:(chunliclosehk).gif)
 > Far MK
 [![(chunlimk).gif](https://wiki.supercombo.gg/images/8/8a/%28chunlimk%29.gif)](https://wiki.supercombo.gg/w/File:(chunlimk).gif)
