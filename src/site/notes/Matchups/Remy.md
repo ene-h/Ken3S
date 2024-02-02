@@ -24,8 +24,9 @@
 - React DP CBK?
 - SA1 is plus on block
 - SA2 comboes from anti-airs and hits frame 2
-- Parry second hit of sweep
+- Parry second hit of sweep (not a red parry, to my surprise)
 - HK CBK escapes corner and anti-airs
+- I don't have enough Remy experience - *If you have suggestions to improve this wiki, feel free to send me a Discord message in the [3S server](https://discord.com/invite/8hWg5GF) or the [Ken server](https://discord.gg/s5Kfy3e2sU) @ene_h*
 
 > [!danger]- Raw SA3 punish
 > Crouch HP
