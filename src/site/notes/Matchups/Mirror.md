@@ -22,10 +22,12 @@
 - NO
 ***
 # Notes
-- Don't spam crouch MK too much if your opponent has super if they've shown they can punish it
+- Don't spam crouch MK too much if your opponent has super if they've shown they can reversal punish it
 - One of the most common things Kens do is dash in crouch MK; parry it if they overuse it
 - If you don't have another super after you land SA3 in the corner, taunt > stand HK does great damage and will catch low parries
 - After SA3 in the corner, you are perfectly spaced for (taunt >) UOH > SA3
+- Try to whiff punish crouch MK, even if it's just with sweep
+- 
 
 > [!danger]- Raw SA3 punish
 > crouch HP
