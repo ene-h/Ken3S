@@ -23,7 +23,7 @@
 ***
 # Notes
 - Down parry into throw mostly nullifies Sean tackle mixups
-- Very fast dash
+- Fastest shoto-dash
 - Funny roll sometimes evades stuff and is throw invul
 - Pretty good kara throw
 - Stand MK kinda beats Ken crouch MK
