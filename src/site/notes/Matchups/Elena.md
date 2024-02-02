@@ -25,6 +25,7 @@
 - Has lots of overheads
 - Back HK (big wheel kick) is +4, and dodges throw
 - Elena might want to poke a lot with stand MK, whiff-punish with crouch MK xx SA3
+- Stand HK is good in neutral, stuffs a lot of stuff including mallet smash
 
 > [!danger]- Raw SA3 punish
 >  Far HP
