@@ -28,7 +28,7 @@
 	- If you do the shoryu confirm with stand LP, you can sometimes block the stomp in time
 - Parry stomp (you block if it crosses up)
 - Duck DDT (and don't stand up right before it hits like an idiot)
-- Alex players love to evade kens crouch MK with crouch MP
+- Alex players love to evade Ken's crouch MK with crouch MP
 	- Alex crouch MP is both a low- and high parry
 - Alex has long recovery on key moves, so [[General stuff/Terminology#Whiff punish\|whiff punish]], even if its just sweep or raw super
 - Don't whiff to build meter too much, especially if Alex has meter for EX elbow
