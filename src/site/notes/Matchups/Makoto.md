@@ -23,11 +23,12 @@
 ***
 # Notes
 - Spam crouch LK in neutral, confirm into SA3, catches forward dash (good against round start dash)
-	- Look at the air while you do this to catch her juming
-- Makotos love jumping around, use EX air tatsu > DP or stand MK
+	- Look at the air while you do this to catch her jumping
+- Makotos love jumping around, use EX air tatsu sometimes
 - On standing Makoto, use [[General stuff/Terminology#Target combo\|TC]] xx MP DP xx SA3
-- Watch out for instant air EX Tsurugi oki
-- Tsurugi alters her jump arc quite a lot
+- Watch out for instant air EX Tsurugi on your wakeup
+- Tsurugi alters her jump arc quite a lot, and can smoke you if you expect to parry a normal jump-in
+- You can use raw SA3 as a [[General stuff/Terminology#Whiff punish\|whiff punish]] for Makoto towards HP or other slow moves
 
 > [!danger]- Raw SA3 punish
 > Stand HP
