@@ -35,7 +35,7 @@
 	- *Jump back HK is good and low risk. Walk under > button as well* \- BigGameJames
 
 > [!danger]- Raw SA3 punish
-> Close HK
+> Close HK (can also get crouch MK xx SA3 or sweep)
 > [![(ibukiclosehk).gif](https://wiki.supercombo.gg/images/d/df/%28ibukiclosehk%29.gif)](https://wiki.supercombo.gg/w/File:(ibukiclosehk).gif)
 > Crouch HP
 > [![(ibukichp).gif](https://wiki.supercombo.gg/images/e/ea/%28ibukichp%29.gif)](https://wiki.supercombo.gg/w/File:(ibukichp).gif)
