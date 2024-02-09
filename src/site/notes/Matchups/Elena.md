@@ -38,9 +38,9 @@
 >  [![(elenacmk).gif](https://wiki.supercombo.gg/images/4/4f/%28elenacmk%29.gif)](https://wiki.supercombo.gg/w/File:(elenacmk).gif)
 >  Crouch HK (too much pushback for crouch MK xx SA3)
 >  [![(elenachk).gif](https://wiki.supercombo.gg/images/6/60/%28elenachk%29.gif)](https://wiki.supercombo.gg/w/File:(elenachk).gif)
->  Towards MK
+>  Towards MK (also on standing hit)
 >  [![(elenafmk).gif](https://wiki.supercombo.gg/images/9/99/%28elenafmk%29.gif)](https://wiki.supercombo.gg/w/File:(elenafmk).gif)
->  Slide (at worst -9, so crouch MK (xx MP DP) xx SA3 should also work)
+>  Slide (at least -9, so crouch MK (xx MP DP) xx SA3 should also work)
 >  [![(elenadfhk).gif](https://wiki.supercombo.gg/images/8/8d/%28elenadfhk%29.gif)](https://wiki.supercombo.gg/w/File:(elenadfhk).gif)
 >  Spin scythe (all non-EX except LK version)
 >  [![(elenascy).gif](https://wiki.supercombo.gg/images/b/ba/%28elenascy%29.gif)](https://wiki.supercombo.gg/w/File:(elenascy).gif)
@@ -48,4 +48,3 @@
 >  [![(elenaryh).gif](https://wiki.supercombo.gg/images/d/d7/%28elenaryh%29.gif)](https://wiki.supercombo.gg/w/File:(elenaryh).gif)
 > Lynx tail (any, but HK is 4 hits and EX is 5) (crouch MK xx SA3 should also work)
 > [![(elenalxt).gif](https://wiki.supercombo.gg/images/8/84/%28elenalxt%29.gif)](https://wiki.supercombo.gg/w/File:(elenalxt).gif)
-> 
