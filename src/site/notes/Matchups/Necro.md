@@ -34,6 +34,7 @@
 - You can cross though his quick-stand with a dash
 - After Necro throws you in the corner and juggles with MP, if he dashes you can LP DP, it's fake
 - If you block denji, you can mash sweep while holding downback, it will punish no matter how many hits the denji will do
+- Try to learn to tell the difference between LP and MP tornado, MP tornade can get punished with SA3 and usually with LP DP aswell
 
 > [!danger]- Raw SA3 punish
 > HP (also on hit) (watch for range)
