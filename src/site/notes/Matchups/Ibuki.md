@@ -23,7 +23,7 @@
 - Against penguin kicks (flying double kicks => backflip): parry first hit xx LP DP
 - Ken stand HK is a good button to use here
 	- Stand MK can catch jumps and towards MK/HK
-- Towards MK (overhead hopkick, plus a billion on block) is safe on parry when spaced (when done too close you can parry > LP DP)
+- Towards MK (overhead hopkick, plus a billion on block) is "safe" on parry when spaced (EX DP always gets at least 2 hits) (when done too close you can parry > LP DP)
 - Her LP is +6, used for trapping, interrupting is a gamble
 	- Maybe jump
 	- Maybe crouch MP + crouch tech
