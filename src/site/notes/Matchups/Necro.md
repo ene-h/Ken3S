@@ -14,7 +14,7 @@
 ### Crouch LK>LP>LK
 - NO
 ### Shoryu confirm
-- Crouch LK > crouch LP xx Shoryu  (whiffs when Necro is hit crouching)
+- Crouch LK > crouch or stand LP xx Shoryu  (whiffs when Necro is hit crouching) (seems inconsistent?)
 ### Corner cross-up jump
 - YES
 ***
