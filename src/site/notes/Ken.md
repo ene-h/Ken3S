@@ -10,7 +10,7 @@
 ### General
 - [[General stuff/Normals\|Normals]] - [[General stuff/Special moves\|Special moves]] - [[General stuff/Super\|Super]]
 - [[General stuff/Combos\|Combos]]
-- [[General stuff/Oki\|Oki]] - [[General stuff/Jump-in options\|Jump-in options]]p
+- [[General stuff/Oki\|Oki]] - [[General stuff/Jump-in options\|Jump-in options]]
 - [[General stuff/Wake-up options\|Wake-up options]]
 ### MATCHUP VS
 - [[Matchups/Chun\|Chun]] - [[Matchups/Yun\|Yun]] - [[Matchups/Mirror\|Mirror]] - [[Matchups/Makoto\|Makoto]] 
