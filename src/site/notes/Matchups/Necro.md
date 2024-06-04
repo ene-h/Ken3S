@@ -22,7 +22,7 @@
 - Fast wakeup, no taunt after corner SA3 if you want a [[General stuff/Terminology#Meaty\|meaty]]
 - Use stand MP > super in neutral
 - You can LP DP from pretty far to catch limbs (risky)
-- LP spin hook is +1, necro players will often press back MP after this and maybe mix it up with crouch LK or snake fang
+- LP spin hook is +1, necro players will make you guess (back MP, crouch LK, snake fang, throw, another LP tornado, ...)
 - You can down parry drill to avoid cross-ups, but that often doesn't allow you to punish
 - When you high parry drill, the most consistent option is to just DP immediately
 - Throw range is a little further than Ken's
@@ -33,8 +33,8 @@
 - Has a lot of bad hitboxes, so make sure to buffer double [[General stuff/Terminology#Quarter Circle\|QCF]] after crouch / stand MP in case you stuff something
 - You can cross though his quick-stand with a dash
 - After Necro throws you in the corner and juggles with MP, if he dashes you can LP DP, it's fake
-- If you block denji, you can mash sweep while holding down-back, it will punish no matter how many hits the denji will do
-- Try to learn to tell the difference between LP and MP tornado, MP tornado can get punished with SA3 and usually with LP DP aswell
+- If you block denji, you can mash sweep while holding down-back, it will (usually) punish no matter how many hits the denji will do
+- Try to learn to tell the difference between LP and MP tornado, MP tornado can get punished with SA3 and usually with LP DP as well
 - You can try [[General stuff/Terminology#Cancel buffering\|cancel buffering]] crouch HP xx SA3 to stuff Necro's normals, but it's easily [[General stuff/Terminology#Whiff punish\|whiff punish]]ed with super
 
 > [!danger]- Raw SA3 punish
