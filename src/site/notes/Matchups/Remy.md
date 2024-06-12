@@ -26,6 +26,12 @@
 - SA2 comboes from anti-airs and hits frame 2
 - Parry second hit of sweep (not a red parry, to my surprise)
 - HK CBK escapes corner and anti-airs
+- Back MK sometimes only hits once, it seems to always hit twice when you stand a little further back, where the toes of the sprite are touching
+- Slippery hurtboxes
+- Stand MK at round start can trade with a lot of things (6 active frames)
+- Walk and block to get him cornered
+- *To play vs Remy at a higher competitive level you need to not jump unless you have super and are comfortable with the jump HK 1 hit confirm... and if you get him in the corner just hold him there, stand at crouch MK range and move in and out, if he jumps out you can EX tatsu or jump back HK, shoryu etc. to make him pay for it.* - BigGameJames
+- *Midscreen after super, if Remy doesn't have sa2 stocked I go for super jump MK cross up. If he has low/no meter you can mix that up with a top of the head jump HK which you can confirm into LP DP or super when you hit the ground.* -BigGameJames
 - I don't have enough Remy experience - *If you have suggestions to improve this wiki, feel free to send me a Discord message in the [3S server](https://discord.com/invite/8hWg5GF) or the [Ken server](https://discord.gg/s5Kfy3e2sU) @ene_h*
 
 > [!danger]- Raw SA3 punish
