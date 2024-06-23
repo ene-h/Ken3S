@@ -36,6 +36,7 @@
 - Watch out for dive kick cross-up in the corner (mostly on your wake-up)
 	- Against corner divekick mix-up, press the stick towards the corner with parry timing, if he crosses up you'll get parry, otherwise you just stand block.
 - Stand HK is a pretty good button to press at 1/2 screen away
+	- It's an easy EX Rekka if you whiff it though 
 - When you have low health, a lot of Yangs will try to finish you off with command grab combo's
 	- If you read them doing this (and you're not cornered) you can backdash and buffer raw super or do crouch MK xx (confirm) SA3.
 - He has no reversal apart from super, you should pressure him on wakeup, especially in the corner
