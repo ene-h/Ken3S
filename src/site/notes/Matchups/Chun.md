@@ -36,6 +36,7 @@
 - You can use raw SA3 as a [[General stuff/Terminology#Whiff punish\|whiff punish]] for Chun back HP (Nosferatu does this)
 - [[General stuff/Terminology#Whiff punish\|Whiff punish]] Chun stand HP with stand MP - not a lot of damage, but you might make them consider not spamming it. You are almost certainly too far for linking SA3 off it though
 - Fireballs aren't bad when she has no bar (stolen from Neem)
+- Post SA3 meaty UOH setup: whiff low LK, super jump whiff HK, UOH > DP [[https://clips.twitch.tv/TacitRenownedSquirrelOhMyDog-PwC6SMUVDJc0OjOP\|(by Big Red)]]
 
 > [!danger]- Raw SA3 punish
 > crouch MP (neko-pan / cat punch)
