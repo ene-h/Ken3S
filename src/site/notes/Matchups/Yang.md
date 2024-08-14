@@ -41,6 +41,7 @@
 	- If you read them doing this (and you're not cornered) you can backdash and buffer raw super or do crouch MK xx (confirm) SA3.
 - He has no reversal apart from super, you should pressure him on wakeup, especially in the corner
 	- Yang might wakeup jump a lot, stand MP will stuff that
+- Crouching twins fall out of TC xx DP
 
 > [!danger]- Raw SA3 punish
 > - Far HP
