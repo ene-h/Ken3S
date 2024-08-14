@@ -30,6 +30,7 @@
 - Watch out for dive kick cross-up in the corner (mostly on your wake-up)
 	- Against corner divekick mix-up, press the stick towards the corner with parry timing, if he crosses up you'll get parry, otherwise you just stand block.
 - 99% of the time, just block GJ pressure and eat the command grab...
+- Crouching twins fall out of TC xx DP
 
 > [!danger]- Raw SA3 punish
 > - Far MP
