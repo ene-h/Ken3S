@@ -34,6 +34,7 @@
 - Priority #1 is "don't get hit"
 - Oro players will often try to get a stand MP after an air-to-air parry situation
 - Far crouch MK > crouch HP xx SA3 is a spacing trap against Oro stand MK and HK
+- Crouching Oro falls out of TC xx DP
 
 > [!danger]- Raw SA3 punish
 > Stand HP
