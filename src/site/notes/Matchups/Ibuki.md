@@ -33,6 +33,7 @@
 - She has multiple 2-hit jump-ins
 - Her jump is very fast (almost as fast as Dudley's) but try to anti-air, at least somewhat
 	- *Jump back HK is good and low risk. Walk under > button as well* \- BigGameJames
+- After her EX DP, she can only come down with air normals if it hits. If you parry it, you can walk under to switch sides before you punish. 
 
 > [!danger]- Raw SA3 punish
 > Close HK (can also get crouch MK xx SA3 or sweep)

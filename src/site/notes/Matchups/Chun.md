@@ -25,7 +25,7 @@
 # Notes
 - Use UOH > SA3 in neutral
 - ~~Low parry instead of trying to [[General stuff/Terminology#Whiff punish\|whiff punish]] chun's crouch MK
-	- Ehhh, it's whiffpunishable, just hard
+	- It's whiffpunishable, just hard
 	- Sometimes the Chun will let SA2 rip even on parry
 		- I sometimes forego the punish if I get the parry if they do this much
 		- Better players will however delay their punish just enough so they can block the SA2 if it comes out (time it so you input your punish during the super flash - if it happens)
@@ -33,9 +33,9 @@
 - You can high parry Chun's sweep
 - Reaction parry hazanshu
 - After SA3 in the corner, you are perfectly spaced for (taunt >) UOH > SA3
-- You can use raw SA3 as a [[General stuff/Terminology#Whiff punish\|whiff punish]] for Chun back HP (Nosferatu does this)
+- You can use raw SA3 as a [[General stuff/Terminology#Whiff punish\|whiff punish]] for Chun back HP
 - [[General stuff/Terminology#Whiff punish\|Whiff punish]] Chun stand HP with stand MP - not a lot of damage, but you might make them consider not spamming it. You are almost certainly too far for linking SA3 off it though
-- Fireballs aren't bad when she has no bar (stolen from Neem)
+- Fireballs aren't bad when she has no bar
 - Post SA3 meaty UOH setup: whiff low LK, super jump whiff HK, UOH > DP [(by Big Red)](https://clips.twitch.tv/TacitRenownedSquirrelOhMyDog-PwC6SMUVDJc0OjOP)
 
 > [!danger]- Raw SA3 punish
