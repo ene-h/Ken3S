@@ -2,7 +2,20 @@
 {"dg-publish":true,"permalink":"/general-stuff/normals/"}
 ---
 
-# Standing
+# Throws
+### Forward throw
+- Good for keeping the corner
+- Decent damage
+- Bad [[General stuff/Oki\|Oki]] (can't get a meaty back+MK)
+### Neutral throw
+- Mash throw
+	- Good damage when your opponent is bad at mashing (and you can mash pretty well yourself) 
+	- Otherwise mediocre damage
+- Best [[General stuff/Oki\|Oki]], you can do most of your options except taunt
+### Back throw
+- Great corner carry
+- No [[General stuff/Oki\|Oki]] if you throw them full screen (unless they miss the quickrise)
+# Standing Normals
 ### LP
 - Useful for stuffing dashes, part of some Shoryu confirms
 - Multiple LPs is good against jump-in parry
@@ -34,7 +47,7 @@
 - Does a lot of damage, especially after taunt
 - High-parry only
 ***
-# Crouching
+# Crouching Normals
 ### LP
 - Part of some Shoryu confirms
 - Multiple LPs is good against jump-in parry
@@ -45,7 +58,7 @@
 - Lots of mix-ups - see [[General stuff/Oki\|Oki]]
 - Good "priority": the hitbox comes out before the hurtbox, so stuffs a lot of moves
 	- That's why it's sometimes called emperor punch
-- Plus
+- Very plus
 - Best normal to whiff when building meter
 - High and low parry though
 ### HP
@@ -55,6 +68,7 @@
 ### LK
 - Main low confirm into super and DP
 - Good for tick throws
+- Slightly plus
 ### MK
 - Best [[General stuff/Terminology#Poke\|poke]]
 - [[General stuff/Terminology#Whiff punish\|Whiff punish]] tool
@@ -67,14 +81,14 @@
 - Less unsafe at max range
 - Best normal for punishing far away, i.e.: Urien anti-air fireball
 ***
-# Command normals
+# Command Normals
 ### Towards MK
 - Not very good, punishable on block by some chars
 - Not worth using
 ### Back MK
 - 2 hit overhead that confirms to super, good[[General stuff/Terminology#Okizeme\| oki ]]tool
 	- The confirm is a [[General stuff/Terminology#1 frame link\|1 frame link]], but it gets way easier if you [[General stuff/Terminology#Piano\|piano]] it
-	- Some player can react to this nearly everytime
+	- Some player can react to this nearly every time
 	- Can get red parried
 ### Towards HK
 - Very slow overhead, completely reactable
