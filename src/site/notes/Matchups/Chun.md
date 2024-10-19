@@ -17,6 +17,7 @@
 - Dash up, walk back -> jump
 ### Crouch LK>LP>LK
 - YES
+- Also crouch LK x 3 (can delay the second one)
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
 ### Corner cross-up jump

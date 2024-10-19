@@ -15,7 +15,8 @@
 - Walk forward regular jump. 
 - Hold down forward, crouch LP superjump HK (immediate timing does a cross-up, later lands in front. Mask a walk forward with the LP whiff.) 
 ### Crouch LK>LP>LK
-- YES (also LK>LK>LK)
+- YES
+- Also crouch LK x 3 (can delay the second one)
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu
 ### Corner cross-up jump

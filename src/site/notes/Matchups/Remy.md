@@ -11,7 +11,8 @@
 ### SA3 cross-up setup
 - Hold down, stand LP, superjump HK. Timing determines cross-up
 ### Crouch LK>LP>LK
-- YES (also LK>LK>LK)
+- YES
+- Also crouch LK x 3 (can delay the second one)
 ### Shoryu confirm
 - NONE
 ### Corner cross-up jump

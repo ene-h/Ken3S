@@ -13,6 +13,7 @@
 - Superjump, timing determines cross-up. Down forward superjump helps with cross-up.
 ### Crouch LK>LP>LK
 - YES
+- Also crouch LK x 3 (can delay the second one)
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu (or LK LK)
 ### Corner cross-up jump

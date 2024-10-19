@@ -11,7 +11,8 @@
 ### SA3 cross-up setup
 - Walk up -> superjump. Air tatsu after a superjump for cross-up.
 ### Crouch LK>LP>LK
-- YES (or LK>LK>LK)
+- YES
+- Also crouch LK x 3 (can delay the second one)
 ### Shoryu confirm
 - Crouch LK > stand LP xx Shoryu (CORNER ONLY)
 ### Corner cross-up jump

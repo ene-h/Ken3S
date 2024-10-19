@@ -12,6 +12,7 @@
 - Superjump whiff normal to land in front. Tiger knee motion 
 ### Crouch LK>LP>LK
 - YES
+- Also crouch LK x 3 (can delay the second one)
 ### Shoryu confirm
 - Crouch LK > crouch LK xx Shoryu
 ### Corner cross-up jump

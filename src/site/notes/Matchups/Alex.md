@@ -11,6 +11,7 @@
 - Crouch LP -> Superjump MK
 ### Crouch LK>LP>LK
 - YES
+- Also crouch LK x 3 (can delay the second one)
 ### Shoryu confirm
 - Crouch LK > crouch LP xx Shoryu 
 - Crouch LK > stand LP xx Shoryu 
