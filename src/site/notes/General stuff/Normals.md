@@ -26,6 +26,8 @@
 	- Decent anti-air or anti UOH or hop-kicks
 - Close
 	- Part of your target combo
+	- Plus
+	- Best punish option on many occasions because of double DP
 	- Lots of mixups - see [[General stuff/Oki\|Oki]]
 ### HP
 - Far:

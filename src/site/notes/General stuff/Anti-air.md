@@ -13,7 +13,7 @@
 - Crouch HP
 - Close HP late cancel DP or LK [[General stuff/Special moves#Tatsu / Hurricane Kick\|Tatsu]] so it only comes out on parry. After LK Tatsu you can sometimes juggle LP DP
 ### Parry
-- Immediate DP
+- Immediate DP (best for moves that recover while the opponent is still airborne)
 - crouch MK xx MP DP xx SA3
 - [[General stuff/Terminology#Target combo\|TC]] super
-- Some stuff is safe on parry, like the second hit of necro drill in some cases, or Ibuki's towards MK hop-kick when spaced.
+- Some stuff is safe on parry, like the second hit of Necro drill in some cases, or Ibuki's towards MK hop-kick when spaced.
