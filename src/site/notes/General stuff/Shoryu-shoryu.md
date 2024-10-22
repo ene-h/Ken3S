@@ -2,6 +2,16 @@
 {"dg-publish":true,"permalink":"/general-stuff/shoryu-shoryu/"}
 ---
 
+# Kara Shoryu
+There's a 1 frame window to land a second LP DP on certain characters in certain situations (see below). 
+
+The input is `623LP, 623MK~LP`. The MK can be substituted for HK, and some Ken players press both to increase their chances. Personally I just use MK. 
+
+On P1 side I usually use the crouching DP for the kara, so that would be `623LP, 2323MK~LP`.
+I also use crouching DP when canceling off of crouch MK on P1 side: `2MK xx 2323LP, 2323MK~LP`.
+On leverless I almost exclusively use the crouching DP shortcut, except as an anti-air or canceling into super.
+
+Be wary that you usually will not land the second DP midscreen if you cancel the first one even slightly late!
 # Midscreen: 
 #### [[General stuff/Terminology#Target combo\|TC]] shoryu shoryu 
 - Q

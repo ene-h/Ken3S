@@ -20,7 +20,9 @@
 ***
 # Notes
 - Make sure to anti-air
+	- Use normals
 - Has no damage
+	- You can afford some more risks, usually his best punish is a throw
 - Has no reversal > pressure on wakeup
 - Will throw a lot
 - Walks under fireballs and cross-ups
@@ -28,6 +30,7 @@
 - **Cannot parry during airdash!**
 	- Use stuff like stand MK and HP against airdash if you're not fast enough for DP
 - If you're both whiffing to build bar he may EX fireball you and get oki
+- His SA1 is actually a really good anti-air so watch his meter before you jump
 - So annoying
 
 > [!danger]- Raw SA3 punish

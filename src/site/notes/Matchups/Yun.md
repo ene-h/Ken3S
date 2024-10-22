@@ -32,6 +32,7 @@
 	- Against corner divekick mix-up, press the stick towards the corner with parry timing, if he crosses up you'll get parry, otherwise you just stand block.
 - 99% of the time, just block GJ pressure and eat the command grab...
 - Crouching twins fall out of TC xx DP
+- It's possible to [punish raw divekick with shippu](https://clips.twitch.tv/GiftedAntediluvianEggTakeNRG-A4XZF-qWA46PjykE)
 
 > [!danger]- Raw SA3 punish
 > - Far MP

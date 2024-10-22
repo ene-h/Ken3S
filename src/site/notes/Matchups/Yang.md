@@ -43,6 +43,7 @@
 - He has no reversal apart from super, you should pressure him on wakeup, especially in the corner
 	- Yang might wakeup jump a lot, stand MP will stuff that
 - Crouching twins fall out of TC xx DP
+- It's possible to [punish raw divekick with shippu](https://clips.twitch.tv/GiftedAntediluvianEggTakeNRG-A4XZF-qWA46PjykE)
 
 > [!danger]- Raw SA3 punish
 > - Far HP

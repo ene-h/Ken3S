@@ -27,7 +27,7 @@
 - Don't get wakeup demon'd or KKZ'd
 	- I sometimes jump back HK on their wakeup when they have 2 bars, it mostly beats both
 - Anti-air demon flip (they can't air-parry) or dash under
-- Gouki air tatsu often seems to beat Ken ex air tatsu, otherwise ex air tatsu is pretty good against a gouki that likes to bounce around
+- Gouki air tatsu often seems to beat Ken ex air tatsu and other air to airs, otherwise ex air tatsu is pretty good against a gouki that likes to bounce around
 - Dash under air fireball
 - Consider using shoryu instead of SA3 punishes for stun
 - His kara-throw goes far
