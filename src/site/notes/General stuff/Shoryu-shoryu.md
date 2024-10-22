@@ -13,7 +13,6 @@ I also use crouching DP when canceling off of crouch MK on P1 side:
 `2MK xx 2323LP, 2323MK~LP` [[General stuff/Shoryu-shoryu#Old inputs\|†]].
 On leverless I almost exclusively use the crouching DP shortcut, except as an anti-air or canceling into super.
 
-Be wary that you usually will not land the second DP midscreen if you cancel the first one even slightly late!
 # Midscreen: 
 #### [[General stuff/Terminology#Target combo\|TC]] shoryu shoryu 
 - Q
@@ -23,6 +22,8 @@ Be wary that you usually will not land the second DP midscreen if you cancel the
 - Chun Li, Makoto, 12, Necro 
 #### Stand MP/crouch MK shoryu kara-shoryu
 - Ken, Ryu, Akuma, Sean, Chun Li, Makoto, 12, Necro, Urien  
+
+***Be wary that you usually will not land the second DP midscreen if you cancel the first one even slightly late, kara or not!***
 
 # Corner: 
 #### [[General stuff/Terminology#Target combo\|TC]] shoryu shoryu 
