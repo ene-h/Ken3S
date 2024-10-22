@@ -34,7 +34,7 @@ Be wary that you usually will not land the second DP midscreen if you cancel the
 
 
 
-###### Old Inputs
+#### Old Inputs
 `f, d, df + jab, f, d, df + forward~jab`
 `f, d, df + jab, d, df, d, df + forward~jab`
 `d, df, d, df + jab, d, df, d, df + forward~jab`
