@@ -22,4 +22,3 @@
 - [[General stuff/Terminology\|Terminology]]
 - [[General stuff/Cartola on reactions\|Cartola on reactions]]
 
-##### *If you have suggestions to improve this wiki, feel free to send me a Discord message in the [3S server](https://discord.com/invite/8hWg5GF) or the [Ken server](https://discord.gg/s5Kfy3e2sU) @ene_h*
