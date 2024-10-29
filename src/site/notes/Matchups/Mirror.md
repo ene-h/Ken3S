@@ -27,11 +27,12 @@
 - If you don't have another super after you land SA3 in the corner, taunt > stand HK does great damage and will catch low parries
 - After SA3 in the corner, you are perfectly spaced for (taunt >) UOH > SA3
 - Try to whiff punish crouch MK, even if it's just with sweep
-- 
+- When you block TC xx EX Hadouken in the corner you can do reversal SA3
+	- Same with couch MK xx EX Hadouken, unless the crouch MK is spaced pretty far
 
 > [!danger]- Raw SA3 punish
 > crouch HP
-[![(kenchp).gif](https://wiki.supercombo.gg/images/4/40/%28kenchp%29.gif)]
+![(kenchp).gif](https://wiki.supercombo.gg/images/4/40/%28kenchp%29.gif)
 > stand MK
 [![(kenmk).gif](https://wiki.supercombo.gg/images/d/d1/%28kenmk%29.gif)](https://wiki.supercombo.gg/w/File:(kenmk).gif)
 > stand HK

@@ -22,7 +22,8 @@
 - YES
 ***
 # Notes
-- Make sure to punish heavy tatsu (raw SA3) so your opponent is discouraged from spamming it
+- Make sure to punish heavy tatsu (raw SA3, or LP DP) so your opponent is discouraged from spamming it
+	- You can also duck, then parry the last 2 hits for a bigger punish
 - Parry divekick xx shoryu OR parry divekick > crouch MK xx MP shoryu xx SA3
 - Don't get wakeup demon'd or KKZ'd
 	- I sometimes jump back HK on their wakeup when they have 2 bars, it mostly beats both
@@ -31,6 +32,7 @@
 - Dash under air fireball
 - Consider using shoryu instead of SA3 punishes for stun
 - His kara-throw goes far
+- There's a 6 pixel range where if you block Gouki crouch MK at the very tip, you cannot punish with reversal SA3
 
 > [!danger]- Raw SA3 punish
 > Far HP

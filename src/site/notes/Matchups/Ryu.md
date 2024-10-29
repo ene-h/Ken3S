@@ -25,6 +25,9 @@
 - Perfect spacing for UOH after SA3 in corner
 - (Red) parry crouch MK xx hadouken
 - Has a good kara-throw
+- You can usually punish any meterless tatsu with crouch MK
+- EX Hadouken is always 0 on block when done as a cancel, you have to red parry the last hit (and risk getting knocked down) for a punish
+- There's a 4 pixel range where if you block Ryu crouch MK at the very tip, you cannot punish with reversal SA3
 
 > [!danger]- Raw SA3 punish
 > Far HP

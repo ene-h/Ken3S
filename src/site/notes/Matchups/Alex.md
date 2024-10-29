@@ -22,13 +22,13 @@
 - **ANTI AIR HIM** (use far HP instead of DP sometimes, maybe with a buffer to LK tatsu if you get close HP and they parry)
 - Stand / crouch MP buffer super to stuff Alex (hitboxes)
 	- Don't let it rip when you're far
-- Reaction parry elbow (damned wifi players)
+- Reaction parry elbow
 - SA3 elbow on block
 - Alex evades a lot of [[General stuff/Oki\|Oki]], be careful
 	- [[General stuff/Oki#Stand HP\|Stand HP anti parry OS]] can work against parry and stomp
 	- If you do the shoryu confirm with stand LP, you can sometimes block the stomp in time
 - Parry stomp (you block if it crosses up)
-- Duck DDT (and don't stand up right before it hits like an idiot)
+- Duck DDT (and don't stand up right before it hits)
 - Alex players love to evade Ken's crouch MK with crouch MP
 	- Alex crouch MP is both a low- and high parry
 - Alex has long recovery on key moves, so [[General stuff/Terminology#Whiff punish\|whiff punish]], even if its just sweep or raw super
