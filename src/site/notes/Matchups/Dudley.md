@@ -26,6 +26,7 @@
 	- EX hadou if they're just spamming it
 	- If they're constantly doing it, you don't really have to worry about reacting to it, just walk up and crouch MK him, he pushes button, he gets hit
 - You can SA3 when you block a normal xx ducking
+- The red parry on one-two-three is not that hard, and not that dangerous if you mess up. You can parry the last hit low if that's easier for you.
 
 > [!danger]- Raw SA3 punish
 > ###### (Almost all of Dudley's normals are plus)
