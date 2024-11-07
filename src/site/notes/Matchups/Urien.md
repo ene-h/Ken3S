@@ -21,12 +21,12 @@
 # Notes
 - Use [[General stuff/Terminology#Target combo\|TC]] xx MP DP xx SA3 when Urien is crouching
 - Play safe and let him hang himself, Urien has a lot of health
-- Shut him down with lights
 - He has no reversal, but headbutt dodges Ken's low kick normals
 - His dash is very fast
 - Don't jump too much or risk anti-air fireball into a million tackles and corner pressure
 - Try [[General stuff/Terminology#Cancel buffering\|cancel buffering]] crouch HP xx SA3 to stuff Urien's normals
-	- It even beats his crouch MK, which he does not get much off of, but it's a very annoying poke
+	- It beats his crouch MK, which he does not get much off of, but it's a very annoying poke
+	- It can also beat his stand HP
 - EX tatsu is hard to punish for Urien
 - Don't let him build meter, but don't start rushing him down like an idiot either, stay in a threatening range
 - [[General stuff/Terminology#Meaty\|Meaty-ing]] him is very risky when he has more than half a bar
@@ -42,9 +42,13 @@
 	- walk up DP
 	- parry xx DP
 - Very fast wakeup (you don't get much[[General stuff/Terminology#Okizeme\| oki ]]after a forward throw mid-screen, only 12f advantage)
-- Urien has no answer for LK tatsu on block
+- Urien has no answer for LK tatsu on block except for red parry
+	- Ken players better than me cancel it off of crouch LK instead of crouch MK; idk why
+	- If you're cracked you can cancel the close hit of tatsu to SA3 to hitconfirm, it requires a very fast super motion
 - You can dash > close MP xx DP if you parry sweep
 - Wakeup backdash is sometimes pretty good while Urien has bar, when he might want to grab > aegis
+- If you're whiffing crouch MP to build meter, you can get clipped by random tackle, so it's risky especially when Urien has bar
+- When Urien is whiffing stand MP to build meter, you can counterpoke with far HP
 
 > [!danger]- Raw SA3 punish
 > Far HP (shake my hand) (1f)

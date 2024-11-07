@@ -45,13 +45,15 @@
 - Crouching twins fall out of TC xx DP
 - It's possible to [punish raw divekick with shippu](https://clips.twitch.tv/GiftedAntediluvianEggTakeNRG-A4XZF-qWA46PjykE)
 
-> [!danger]- Raw SA3 punish
+>[!danger]- Raw SA3 punish
 > - Far HP
 > [![(yanghp).gif](https://wiki.supercombo.gg/images/1/15/%28yanghp%29.gif)](https://wiki.supercombo.gg/w/File:(yanghp).gif)
 > - Far MK
 > [![(yangmk).gif](https://wiki.supercombo.gg/images/f/f9/%28yangmk%29.gif)](https://wiki.supercombo.gg/w/File:(yangmk).gif)
 > - Stand HK
 > [![(yanghk).gif](https://wiki.supercombo.gg/images/f/fb/%28yanghk%29.gif)](https://wiki.supercombo.gg/w/File:(yanghk).gif)
+> - Crouch HP (only when spaced and the second hit whiffs)
+> [![(yangchp).gif](https://wiki.supercombo.gg/images/thumb/b/ba/%28yangchp%29.gif/175px-%28yangchp%29.gif)](https://wiki.supercombo.gg/w/File:(yangchp).gif)
 > - Crouch HK (watch for range)
 > [![(yangchk).gif](https://wiki.supercombo.gg/images/a/a3/%28yangchk%29.gif)](https://wiki.supercombo.gg/w/File:(yangchk).gif)
 > - rekka 2, 3 and EX (good Yangs have a rhythm to space rekka 2 so it's safe vs SA3)
