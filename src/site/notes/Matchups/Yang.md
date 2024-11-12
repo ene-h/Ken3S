@@ -61,4 +61,3 @@
 > - Palm (1f) (including palm target combo)
 > [![(yangbsd).gif](https://wiki.supercombo.gg/images/d/da/%28yangbsd%29.gif)](https://wiki.supercombo.gg/w/File:(yangbsd).gif)
 > 
- 

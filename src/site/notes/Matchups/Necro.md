@@ -21,6 +21,7 @@
 # Notes
 - Fast wakeup, no taunt after corner SA3 if you want a [[General stuff/Terminology#Meaty\|meaty]]
 - Use stand MP > super in neutral
+	- Also a key way to escape the corner
 - You can LP DP from pretty far to catch limbs (risky)
 - LP spin hook is +1, necro players will make you guess (back MP, crouch LK, snake fang, throw, another LP tornado, ...)
 - You can down parry drill to avoid cross-ups, but that often doesn't allow you to punish

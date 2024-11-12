@@ -47,7 +47,7 @@
 > [![(ibukidfmk).gif](https://wiki.supercombo.gg/images/5/5a/%28ibukidfmk%29.gif)](https://wiki.supercombo.gg/w/File:(ibukidfmk).gif)
 > Raida (hitgrab) (any)
 > [![(ibukiraida).gif](https://wiki.supercombo.gg/images/e/ea/%28ibukiraida%29.gif)](https://wiki.supercombo.gg/w/File:(ibukiraida).gif)
-> Tsumuji (rekka) (all except MK rekka 1)
+> Tsumuji (spinny kicks) (all except MK high) 
 > [![(ibukitsumuji).gif](https://wiki.supercombo.gg/images/8/81/%28ibukitsumuji%29.gif)](https://wiki.supercombo.gg/w/File:(ibukitsumuji).gif)
 > Kubiori (neckbreaker) (any)
 > [![(ibukikbr).gif](https://wiki.supercombo.gg/images/a/a5/%28ibukikbr%29.gif)](https://wiki.supercombo.gg/w/File:(ibukikbr).gif)

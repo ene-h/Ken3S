@@ -49,6 +49,7 @@
 - Wakeup backdash is sometimes pretty good while Urien has bar, when he might want to grab > aegis
 - If you're whiffing crouch MP to build meter, you can get clipped by random tackle, so it's risky especially when Urien has bar
 - When Urien is whiffing stand MP to build meter, you can counterpoke with far HP
+- Whiffpunishing his crouch HK on reaction is viable, crouch MK is too hard for me (extended hurtbox disappears after 16 frames and Ken's crouch MK is active on frame 7, so it's a 9-10f reaction)
 
 > [!danger]- Raw SA3 punish
 > Far HP (shake my hand) (1f)

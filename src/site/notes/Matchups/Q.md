@@ -18,13 +18,19 @@
 ***
 # Notes
 - Stuff dash-punches with stand MP, crouch MP (or ex hadouken)
-- Backdash and buffer super motion if you get hit by dash-punch if they like to command-grab
+	- You can often parry it on reaction, takes some practice though
+- Backdash and buffer super motion if you get hit by dash-punch if they like to command-grab after
 - Walk forward instead of dashing, less risk getting dash-punched
 - Don't get wakeup super-ed
 - Good kara-throw, especially dangerous when Q is cornered (backthrow)
-- They may crouch LK xx SA2 on wakeup
+- They may crouch LP xx SA2 on wakeup
 - His low buttons are otherwise not very scary, you should probably do high parries more than low parries
 - Little fun bonus: when you double DP Q, you can usually get LP DP > MP DP (I usually plink MP into LP to double my chances)
+- You can link SA3 if you hit Q with far HP while he's crouching
+	- It only hits him crouching during a small part of his normal idle animation
+	- It also hits him out of some crouching buttons
+	- The SA3 link is quite late
+- Far HP is a decent option to cover neutral jumps
 
 > [!danger]- Raw SA3 punish
 > Stand HP
