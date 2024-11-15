@@ -37,6 +37,7 @@
 - If you block denji, you can mash sweep while holding down-back, it will (usually) punish no matter how many hits the denji will do
 - Try to learn to tell the difference between LP and MP tornado, MP tornado can get punished with SA3 and usually with LP DP as well
 - You can try [[General stuff/Terminology#Cancel buffering\|cancel buffering]] crouch HP xx SA3 to stuff Necro's normals, but it's easily [[General stuff/Terminology#Whiff punish\|whiff punish]]ed with super
+- Necro can duck under ground EX tatsu and punish with Electric Snake
 
 > [!danger]- Raw SA3 punish
 > HP (also on hit) (watch for range)

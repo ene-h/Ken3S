@@ -14,7 +14,7 @@
 - YES
 - Also crouch LK x 3 (can delay the second one)
 ### Shoryu confirm
-- Crouch LK > crouch LK xx Shoryu
+- Crouch LK > crouch LK xx Shoryu (standing only)
 ### Corner cross-up jump
 - NO
 ***

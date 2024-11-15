@@ -31,6 +31,7 @@
 	- Use stuff like stand MK and HP against airdash if you're not fast enough for DP
 - If you're both whiffing to build bar he may EX fireball you and get oki
 - His SA1 is actually a really good anti-air so watch his meter before you jump
+- If you have a sizeable life lead it's possible to timer scam him by just blocking, since Twelve matches tend to take a long time and he struggles to do damage
 - So annoying
 
 > [!danger]- Raw SA3 punish
