@@ -24,15 +24,19 @@
 # Notes
 - Make sure to punish heavy tatsu (raw SA3, or LP DP) so your opponent is discouraged from spamming it
 	- You can also duck, then parry the last 2 hits for a bigger punish
-- Parry divekick xx shoryu OR parry divekick > crouch MK xx MP shoryu xx SA3
+		- At some spacings it's only 1 hit
+	- You can also do a crouching DP while he's crossing over (down, downtoward, down, downtoward + LP)
+- Parry divekick xx shoryu OR parry divekick > crouch MK xx MP shoryu xx SA3 (if it hits high on Kens body)
 - Don't get wakeup demon'd or KKZ'd
 	- I sometimes jump back HK on their wakeup when they have 2 bars, it mostly beats both
 - Anti-air demon flip (they can't air-parry) or dash under
-- Gouki air tatsu often seems to beat Ken ex air tatsu and other air to airs, otherwise ex air tatsu is pretty good against a gouki that likes to bounce around
+- Gouki air tatsu often seems to beat Ken ex air tatsu and other air to airs, otherwise ex air tatsu is pretty good against a Gouki that likes to bounce around
+	- If you parry one hit of air tatsu, you can interrupt with LP, if you parry the whole thing you don't really get a punish usually
 - Dash under air fireball
 - Consider using shoryu instead of SA3 punishes for stun
 - His kara-throw goes far
 - There's a 6 pixel range where if you block Gouki crouch MK at the very tip, you cannot punish with reversal SA3
+
 
 > [!danger]- Raw SA3 punish
 > Far HP

@@ -32,12 +32,14 @@
 - Reaction DP drill
 - Watch for round start snake fang
 - Has a lot of bad hitboxes, so make sure to buffer double [[General stuff/Terminology#Quarter Circle\|QCF]] after crouch / stand MP in case you stuff something
-- You can cross though his quick-stand with a dash
 - After Necro throws you in the corner and juggles with MP, if he dashes you can LP DP, it's fake
 - If you block denji, you can mash sweep while holding down-back, it will (usually) punish no matter how many hits the denji will do
 - Try to learn to tell the difference between LP and MP tornado, MP tornado can get punished with SA3 and usually with LP DP as well
 - You can try [[General stuff/Terminology#Cancel buffering\|cancel buffering]] crouch HP xx SA3 to stuff Necro's normals, but it's easily [[General stuff/Terminology#Whiff punish\|whiff punish]]ed with super
 - Necro can duck under ground EX tatsu and punish with Electric Snake
+- You can cross though his quick-stand with a dash in the corner, it's a gimmick so use sparingly
+- He's heavily incentivized to backthrow you into the corner, you might want to bait him with a backdash on his wakeup when you have him cornered
+- Necro might instant-air HK drill when you dash, which beats throws and lows, maybe dash HP can work but I still need to test that
 
 > [!danger]- Raw SA3 punish
 > HP (also on hit) (watch for range)

@@ -86,3 +86,6 @@
 > Okizeme (pronounced _oh-kee-zeh-meh_ and often shortened to "oki") means "wake up offense" in Japanese, so the term mostly focuses on the offensive choices. If you hear someone ask "what's the oki going to be?", they are wondering what method of attack (or non-attack) the offensive player will choose to assert their advantage. It's closely related to the term [wakeup](https://glossary.infil.net/?t=Wakeup "See Term: Wakeup"), although that tends to focus more on the defensive choices (you might hear "I can't believe they did a wakeup [DP](https://glossary.infil.net/?t=Dragon%20Punch "See Term: Dragon Punch")!").  
 > If someone asks "do I get oki after this move?", they're asking whether that move leaves them close enough, and with enough time, to threaten multiple different offensive options. Moves that "don't give you oki" will leave you far away and mostly end your offensive [pressure](https://glossary.infil.net/?t=Pressure "See Term: Pressure").*
 
+# Hadou-walk
+> *Starting a walk with a Hadouken motion. This way, the parry buffer doesn't get triggered and you can walk up > parry. Note that the full motion is not necessary, going from down-towards to towards is enough (3>6).*
+

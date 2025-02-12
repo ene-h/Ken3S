@@ -22,7 +22,7 @@
 - Use [[General stuff/Terminology#Target combo\|TC]] xx MP DP xx SA3 when Urien is crouching
 - Play safe and let him hang himself, Urien has a lot of health
 - He has no reversal, but headbutt dodges Ken's low kick normals
-- His dash is very fast
+- His dash is very fast and goes far
 - Don't jump too much or risk anti-air fireball into a million tackles and corner pressure
 - Try [[General stuff/Terminology#Cancel buffering\|cancel buffering]] crouch HP xx SA3 to stuff Urien's normals
 	- It beats his crouch MK, which he does not get much off of, but it's a very annoying poke
@@ -50,6 +50,7 @@
 - If you're whiffing crouch MP to build meter, you can get clipped by random tackle, so it's risky especially when Urien has bar
 - When Urien is whiffing stand MP to build meter, you can counterpoke with far HP
 - Whiffpunishing his crouch HK on reaction is viable, crouch MK is too hard for me (extended hurtbox disappears after 16 frames and Ken's crouch MK is active on frame 7, so it's a 9-10f reaction)
+- You can cross though his quick-stand with a dash in the corner, it's a gimmick so use sparingly
 
 > [!danger]- Raw SA3 punish
 > Far HP (shake my hand) (1f)

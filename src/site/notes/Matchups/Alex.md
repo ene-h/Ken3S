@@ -35,6 +35,7 @@
 - Don't whiff to build meter too much, especially if Alex has meter for EX elbow
 - If you block SA2, do a jump-in combo to avoid getting grabbed
 - You have to anti-air Alex SA3, jabs work, DP gets beaten sometimes
+- You can cross though his quick-stand with a dash in the corner, it's a gimmick so use sparingly
 
 > [!danger]- Raw SA3 punish
 > Crouch HP (I'm pretty sure Alex is considered standing the entire time, can also do crouch MK xx MP DP xx SA3)

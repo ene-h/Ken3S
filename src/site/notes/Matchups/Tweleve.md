@@ -33,6 +33,7 @@
 - His SA1 is actually a really good anti-air so watch his meter before you jump
 - If you have a sizeable life lead it's possible to timer scam him by just blocking, since Twelve matches tend to take a long time and he struggles to do damage
 - So annoying
+- You can cross though his quick-stand with a dash in the corner, it's a gimmick so use sparingly
 
 > [!danger]- Raw SA3 punish
 > Stand MK (but can be superjump-canceled)

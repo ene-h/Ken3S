@@ -22,12 +22,13 @@
 - NO
 ***
 # Notes
-- Down parry into throw mostly nullifies Sean tackle mixups
+- Down parry into throw mostly nullifies Sean tackle mix-ups
 - Fastest shoto-dash
 - Funny roll sometimes evades stuff and is throw invul
 - Pretty good kara throw
 - Stand MK kinda beats Ken crouch MK
 - Watch out for basketball taunt oki, kinda like Dudley rose
+- Has a target combo into overhead that [[General stuff/Terminology#Frame Trap\|frame traps]]
 
 > [!danger]- Raw SA3 punish
 > Stand HP

@@ -27,6 +27,7 @@
 - You get basically nothing on cross-up MK, only like max +4
 - You can TC xx MP DP xx SA3 on crouching Hugo
 - Don't get hit by the meme Ass-Move (Hugo crouch HK), it's an overhead
+- You can cross though his quick-stand with a dash, it's a gimmick so use sparingly
 
 > [!danger]- Raw SA3 punish
 > Stand MP
