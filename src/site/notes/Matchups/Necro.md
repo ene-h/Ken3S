@@ -34,7 +34,7 @@
 - Has a lot of bad hitboxes, so make sure to buffer double [[General stuff/Terminology#Quarter Circle\|QCF]] after crouch / stand MP in case you stuff something
 - After Necro throws you in the corner and juggles with MP, if he dashes you can LP DP, it's fake
 - If you block denji, you can mash sweep while holding down-back, it will (usually) punish no matter how many hits the denji will do
-- Try to learn to tell the difference between LP and MP tornado, MP tornado can get punished with SA3 and usually with LP DP as well
+- Try to learn to tell the difference between LP and MP tornado, MP tornado can get punished with SA3 and usually with LP DP as well (it's hard to tell the difference when done raw, but as a cancel the LP version hits way sooner)
 - You can try [[General stuff/Terminology#Cancel buffering\|cancel buffering]] crouch HP xx SA3 to stuff Necro's normals, but it's easily [[General stuff/Terminology#Whiff punish\|whiff punish]]ed with super
 - Necro can duck under ground EX tatsu and punish with Electric Snake
 - You can cross though his quick-stand with a dash in the corner, it's a gimmick so use sparingly
