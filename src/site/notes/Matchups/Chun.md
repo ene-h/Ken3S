@@ -43,6 +43,14 @@
 - When you forward parry Chun in the corner, it's best to immediately DP, chances are she pressed close HK and superjump cancels
 - You can counter-poke Chun HP with crouch HP xx SA3 from about half screen away (I don't know how good this is yet) 
 - Same with Chun back+HP but a little closer
+- Against wake-up EX SBK:
+	- Instead of crouch LK x2 as a meaty, do crouch LK > crouch LP
+		- The LP will only come out on hit or block, so if Chun reversals you will block in time
+	- To punish on block:
+		- Raw SA3
+		- MP DP xx SA3
+		- LP DP
+		- Crouch MK seems very unreliable for some reason
 
 > [!danger]- Raw SA3 punish
 > crouch MP (neko-pan / cat punch)
@@ -53,6 +61,5 @@
 [![(chunlimk).gif](https://wiki.supercombo.gg/images/8/8a/%28chunlimk%29.gif)](https://wiki.supercombo.gg/w/File:(chunlimk).gif)
 > Sweep
 [![(chunlichk).gif](https://wiki.supercombo.gg/images/c/cb/%28chunlichk%29.gif)](https://wiki.supercombo.gg/w/File:(chunlichk).gif)
-> EX SBK (crouch MK xx SA3 also works but seems unreliable)
-> (Can also get MP DP xx SA3, easier when stand-blocking)
+> EX SBK 
 [![(chunlisbkex).gif](https://wiki.supercombo.gg/images/6/6d/%28chunlisbkex%29.gif)](https://wiki.supercombo.gg/w/File:(chunlisbkex).gif)
